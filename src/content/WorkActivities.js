@@ -1,22 +1,51 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
+import { useLocation } from "react-router-dom";
 
 import WorkActivity from "../components/WorkActivity";
 import workActivitiesData from "./CV_WorkActivities.json";
 
 function WorkActivities() {
   const [selectedTag, setSelectedTag] = useState("");
+  const [selectedId, setSelectedId] = useState("");
+  const location = useLocation();
+
+  useEffect(() => {
+    const queryParams = new URLSearchParams(location.search);
+    const tag = queryParams.get("tag");
+    const id = queryParams.get("id");
+
+    if (tag) {
+      setSelectedTag(tag);
+    } else {
+      setSelectedTag("");
+    }
+
+    if (id) {
+      setSelectedId(id);
+    } else {
+      setSelectedId("");
+    }
+  }, [location.search]);
 
   // Get all available tags from the work activities data
   const availableTags = [
     ...new Set(workActivitiesData.flatMap((workActivity) => workActivity.tags))
   ];
 
-  // Filter work activities based on the selected tag
-  const filteredWorkActivities = selectedTag
-    ? workActivitiesData.filter((workActivity) =>
-        workActivity.tags.includes(selectedTag)
-      )
-    : workActivitiesData;
+  // Filter work activities based on the selected tag and id
+  const filteredWorkActivities = workActivitiesData.filter((workActivity) => {
+    if (selectedTag && selectedId) {
+      return (
+        workActivity.tags.includes(selectedTag) &&
+        workActivity.id === selectedId
+      );
+    } else if (selectedTag) {
+      return workActivity.tags.includes(selectedTag);
+    } else if (selectedId) {
+      return workActivity.id === selectedId;
+    }
+    return true;
+  });
 
   return (
     <div>
@@ -34,6 +63,14 @@ function WorkActivities() {
           </option>
         ))}
       </select>
+
+      {/* Input field to enter the id */}
+      <input
+        type="text"
+        value={selectedId}
+        onChange={(e) => setSelectedId(e.target.value)}
+        placeholder="Enter ID"
+      />
 
       {/* Display filtered work activities */}
       {filteredWorkActivities.map((workActivity) => (
