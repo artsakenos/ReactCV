@@ -2,9 +2,8 @@ import "./styles.css";
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Home from "./content/Home";
-import About from "./content/About";
-import Contact from "./content/Contact";
-import Publications from "./Publications";
+import Publications from "./content/Publications";
+import WorkActivities from "./content/WorkActivities";
 
 export default function App() {
   return (
@@ -16,22 +15,18 @@ export default function App() {
               <Link to="/">Home</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
-            </li>
-            <li>
-              <Link to="/contact">Contact</Link>
-            </li>
-            <li>
               <Link to="/publications">Publications</Link>
+            </li>
+            <li>
+              <Link to="/work-activities">WorkActivities</Link>
             </li>
           </ul>
         </nav>
 
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
           <Route path="/publications" element={<Publications />} />
+          <Route path="/work-activities" element={<WorkActivities />} />
         </Routes>
       </div>
     </Router>

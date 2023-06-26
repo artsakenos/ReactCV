@@ -1,6 +1,6 @@
 import React from "react";
 
-import Publication from "./components/Publication";
+import Publication from "../components/Publication";
 import publicationsData from "./CV_Publications.json";
 
 export default function Publications() {
