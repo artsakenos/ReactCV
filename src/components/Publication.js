@@ -12,7 +12,9 @@ export default function Publication({
 }) {
   return (
     <div>
-      <h2>{title}</h2>
+      <h2>
+        {id}:{title}
+      </h2>
       <p>
         <strong>Authors:</strong> {authors}
       </p>

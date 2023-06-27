@@ -23,3 +23,21 @@ const publication = {
 };
 
 <Publication {...publication} />;
+
+############
+
+import { renderToString } from "react-dom/server";
+
+const replaceWorkActivityLinks_old = (description) => {
+  const linkPattern = /\[(\w+)\]/g;
+  return description.replace(linkPattern, (match, id) => {
+    const link = (
+      <Link key={id} to={`/publications?id=${id}`}>
+        {match}
+      </Link>
+    );
+    return link;
+  });
+};
+
+##############

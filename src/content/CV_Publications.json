@@ -1,6 +1,6 @@
 [
   {
-    "id": "[IJ6]",
+    "id": "[IJ06]",
     "type": "journal",
     "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
     "title": "MultiAgent Systems and Information Retrieval: Our Experience with X.MAS",
@@ -14,7 +14,7 @@
     ]
   },
   {
-    "id": "[IJ5]",
+    "id": "[IJ05]",
     "type": "journal",
     "authors": "Andrea Addis, Manuela Angioni, Giuliano Armano, Roberto Demontis, Franco Tuveri, Eloisa Vargiu",
     "title": "A novel semantic approach to document collections",
@@ -26,7 +26,7 @@
     "issn": "1646-3692"
   },
   {
-    "id": "[IJ4]",
+    "id": "[IJ04]",
     "type": "journal",
     "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
     "title": "A Progressive Filtering Approach to Hierarchical Text Categorization",
@@ -36,7 +36,7 @@
     "date": "August 2008"
   },
   {
-    "id": "[IJ3]",
+    "id": "[IJ03]",
     "type": "journal",
     "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
     "title": "WIKI.MAS: A MultiAgent Information Retrieval System for Classifying Wikipedia Contents",
@@ -46,7 +46,7 @@
     "date": "June 2008"
   },
   {
-    "id": "[IJ2]",
+    "id": "[IJ02]",
     "type": "journal",
     "authors": "Andrea Addis, Giuliano Armano, Francesco Mascia, Eloisa Vargiu",
     "title": "Protein Secondary Structure Prediction through a Cooperative MultiAgent Learning Approach",
@@ -56,7 +56,7 @@
     "date": "September 2007"
   },
   {
-    "id": "[IJ1]",
+    "id": "[IJ01]",
     "type": "journal",
     "authors": "Eloisa Vargiu, Andrea Addis",
     "title": "A MultiAgent System for Classifying Bioinformatics Publications",
