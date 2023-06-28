@@ -1,15 +1,12 @@
 .App {
-  font-family: sans-serif;
   text-align: center;
+  max-width: 1024px;
+  margin: auto;
 }
 
-.publication-container {
+.item-container {
   margin-bottom: 1rem;
-}
-
-.publication-info {
-  font-weight: bold;
-  margin-bottom: 0.5rem;
+  text-align: justify;
 }
 
 .publication-links {

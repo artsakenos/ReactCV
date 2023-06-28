@@ -28,15 +28,25 @@ export default function Publications() {
 
   const types = Array.from(new Set(publicationsData.map((p) => p.type)));
 
-  const filteredPublications = publicationsData.filter((publication) => {
-    if (selectedType && publication.type !== selectedType) {
-      return false;
-    }
-    if (selectedId && publication.id.indexOf(selectedId) === -1) {
-      return false;
-    }
-    return true;
-  });
+  const filteredPublications = publicationsData
+    .filter((publication) => {
+      if (selectedType && publication.type !== selectedType) {
+        return false;
+      }
+      if (selectedId && publication.id.indexOf(selectedId) === -1) {
+        return false;
+      }
+      return true;
+    })
+    .sort((a, b) => {
+      if (a.id < b.id) {
+        return -1;
+      }
+      if (a.id > b.id) {
+        return 1;
+      }
+      return 0;
+    });
 
   return (
     <div>
