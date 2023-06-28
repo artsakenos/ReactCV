@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import Publication from "../components/Publication";
-import publicationsData from "./CV_Publications.json";
+import publicationsData from "../json/CV_Publications.json";
 
 export default function Publications() {
   const [selectedType, setSelectedType] = useState("");

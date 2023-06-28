@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
 
 import WorkActivity from "../components/WorkActivity";
-import workActivitiesData from "./CV_WorkActivities.json";
+import workActivitiesData from "../json/CV_WorkActivities.json";
 
 function WorkActivities() {
   const [selectedTag, setSelectedTag] = useState("");
