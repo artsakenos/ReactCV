@@ -4,6 +4,10 @@
   margin: auto;
 }
 
+.navbar-background {
+  background-image: url("/images/pngtree-beautiful-bokeh-background-with-soft-color-image_351546.jpg");
+}
+
 .item-container {
   margin-bottom: 1rem;
   text-align: justify;

@@ -18,13 +18,13 @@ export const automaticLinks = (description) => {
   const linkPattern = /\[(\w+)\]/g;
   return (
     <>
-      <div
+      <span
         dangerouslySetInnerHTML={{
           __html: description.replace(linkPattern, (match, id) => {
             return "<a href='/publications?id=" + match + "'>" + id + "</a>";
           })
         }}
-      ></div>
+      ></span>
     </>
   );
 };

@@ -4,10 +4,10 @@ const NavBar = () => {
   const navigate = useNavigate();
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light navbar-background">
       <div className="container">
         <Link className="navbar-brand" to="/">
-          ReactCV
+          React CV
         </Link>
         <button
           className="navbar-toggler"
