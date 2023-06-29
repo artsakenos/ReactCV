@@ -48,29 +48,31 @@ function WorkActivities() {
   });
 
   return (
-    <div>
-      <h1>Work Activities</h1>
+    <div className="content-container">
+      <div className="content-header">
+        <h1>Work Activities</h1>
 
-      {/* Combobox to select the tag */}
-      <select
-        value={selectedTag}
-        onChange={(e) => setSelectedTag(e.target.value)}
-      >
-        <option value="">All Tags</option>
-        {availableTags.map((tag) => (
-          <option key={tag} value={tag}>
-            {tag}
-          </option>
-        ))}
-      </select>
+        {/* Combobox to select the tag */}
+        <select
+          value={selectedTag}
+          onChange={(e) => setSelectedTag(e.target.value)}
+        >
+          <option value="">All Tags</option>
+          {availableTags.map((tag) => (
+            <option key={tag} value={tag}>
+              {tag}
+            </option>
+          ))}
+        </select>
 
-      {/* Input field to enter the id */}
-      <input
-        type="text"
-        value={selectedId}
-        onChange={(e) => setSelectedId(e.target.value)}
-        placeholder="Enter ID"
-      />
+        {/* Input field to enter the id */}
+        <input
+          type="text"
+          value={selectedId}
+          onChange={(e) => setSelectedId(e.target.value)}
+          placeholder="Enter ID"
+        />
+      </div>
 
       {/* Display filtered work activities */}
       {filteredWorkActivities.map((workActivity) => (

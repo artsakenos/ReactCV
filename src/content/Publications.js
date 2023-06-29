@@ -37,9 +37,10 @@ export default function Publications() {
     .sort((a, b) => a.id.localeCompare(b.id));
 
   return (
-    <div>
-      <h1>Publications</h1>
-      <div>
+    <div className="content-container">
+      <div className="content-header">
+        <h1>Publications</h1>
+
         <label>
           Type:
           <select

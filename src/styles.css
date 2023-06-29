@@ -28,3 +28,11 @@
 .publication-links li:not(:last-child)::after {
   content: ", ";
 }
+
+.content-container {
+  margin: 20px;
+}
+
+.content-header {
+  margin-bottom: 10px;
+}
