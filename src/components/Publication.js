@@ -12,7 +12,7 @@ export default function Publication({
 }) {
   return (
     <div className="item-container">
-      {id}:{title}; Authors: {authors}; Source: {source}; Source Coordinates:{" "}
+      {id} {title}; Authors: {authors}; Source: {source}; Source Coordinates:{" "}
       {sourceCoordinates}; Publisher: {publisher}; Date: {date}; Links:
       <ul className="publication-links">
         {links &&

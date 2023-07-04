@@ -1,7 +1,14 @@
+import React, { useContext } from "react";
 import { Link, useNavigate } from "react-router-dom";
+import { LanguageContext } from "./LanguageContext";
 
 const NavBar = () => {
   const navigate = useNavigate();
+  const { currentLanguage, changeLanguage } = useContext(LanguageContext);
+
+  const handleLanguageChange = (language) => {
+    changeLanguage(language);
+  };
 
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light navbar-background">
@@ -45,6 +52,18 @@ const NavBar = () => {
               >
                 Work Activities
               </button>
+            </li>
+            <li className="nav-item">
+              <div>
+                <select
+                  value={currentLanguage}
+                  onChange={(e) => handleLanguageChange(e.target.value)}
+                >
+                  <option value="it">Italian</option>
+                  <option value="en">English</option>
+                  <option value="zh">中文</option>
+                </select>
+              </div>
             </li>
           </ul>
         </div>

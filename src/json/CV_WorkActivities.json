@@ -2,6 +2,11 @@
   {
     "id": "[W70]",
     "date": "2021-05",
+    "title": {
+      "it": "Test Titolo Italiano",
+      "en": "Text English Title",
+      "zh": "中文职称使用"
+    },
     "description": "RAS – Sviluppo del nuovo portale web della Regione Autonoma della Sardegna. Sviluppo completo del BE con paradigma headless, con modulo per customizzare le API e implementazione di un meccanismo di user profiling integrato sviluppato in PHP su search engine ElasticSearch.",
     "tags": ["Drupal", "ML"]
   },
