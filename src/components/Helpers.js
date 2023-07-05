@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { renderToString } from "react-dom/server";
 
-const replaceWorkActivityLinks_old = (description) => {
+const automaticLinks_NOTOK = (description) => {
   const linkPattern = /\[(\w+)\]/g;
   return description.replace(linkPattern, (match, id) => {
     const link = (
@@ -22,6 +22,34 @@ export const automaticLinks = (description) => {
         dangerouslySetInnerHTML={{
           __html: description.replace(linkPattern, (match, id) => {
             return "<a href='/publications?id=" + match + "'>" + id + "</a>";
+          })
+        }}
+      ></span>
+    </>
+  );
+};
+
+/**
+ * Sarebbe Automatic Links On Steroid.
+ * Si può utilizzare per inserire links dove ci sono degli shortcodes del tipo [XX00].
+ * @param {*} description La description da rielaborare
+ */
+export const automaticLinks_OS = (description) => {
+  const linkPattern = /\[(\w{2})(\d{2})\]/g;
+  return (
+    <>
+      <span
+        dangerouslySetInnerHTML={{
+          __html: description.replace(linkPattern, (match, type, id) => {
+            let link = "";
+            if (type === "IJ") {
+              link = "/publication?id=" + type + id;
+            } else if (type === "BP") {
+              link = "/publication?id=" + type + id;
+            } else if (type === "WA") {
+              link = "/work-activity/?id=" + type + id;
+            }
+            return "<a href='" + link + "'>" + match + "</a>";
           })
         }}
       ></span>

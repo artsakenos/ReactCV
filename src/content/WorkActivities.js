@@ -39,12 +39,12 @@ function WorkActivities() {
     if (selectedTag && selectedId) {
       return (
         workActivity.tags.includes(selectedTag) &&
-        workActivity.id === selectedId
+        workActivity.id.includes(selectedId)
       );
     } else if (selectedTag) {
       return workActivity.tags.includes(selectedTag);
     } else if (selectedId) {
-      return workActivity.id === selectedId;
+      return workActivity.id.includes(selectedId);
     }
     return true;
   });

@@ -32,5 +32,11 @@
     "date": "2021-11-30",
     "description": "Integrazione di componenti e funzionalità in un sistema di Derivati OTC (Radix).",
     "tags": ["Java", "SpringBoot"]
+  },
+  {
+    "id": "[WA11]",
+    "date": "2021-11-30",
+    "description": "TEST CARLO TERCERO",
+    "tags": ["Java", "SpringBoot"]
   }
 ]

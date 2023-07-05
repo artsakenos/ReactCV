@@ -1,3 +1,6 @@
+
+  ----------- ############## -----------
+
 {
   publicationsData.map((publication) => (
     <Publication key={publication.id} {...publication} />
@@ -24,7 +27,7 @@ const publication = {
 
 <Publication {...publication} />;
 
-############
+  ----------- ############## -----------
 
 import { renderToString } from "react-dom/server";
 
@@ -40,4 +43,25 @@ const replaceWorkActivityLinks_old = (description) => {
   });
 };
 
-##############
+  ----------- ############## -----------
+
+Per gli array associativi senza oggetto strutturato, ad esermpio:
+{ "chiave01": "Valore01", "chiave02": "Valore02", ...}
+
+const Certifications = () => (
+  <div>
+    <ul style={{ textAlign: "left" }}>
+      {educationData.certifications.map((certification, index) => {
+        const period = Object.keys(certification)[0];
+        const description = certification[period];
+        return (
+          <li key={index}>
+            {period}: {description}
+          </li>
+        );
+      })}
+    </ul>
+  </div>
+);
+
+  ----------- ############## -----------
