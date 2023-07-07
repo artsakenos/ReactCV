@@ -2,13 +2,28 @@ import React, { useContext } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { LanguageContext } from "./LanguageContext";
 
-const NavBar = () => {
+const NavBar = (props) => {
+  const paths = props.paths;
   const navigate = useNavigate();
   const { currentLanguage, changeLanguage } = useContext(LanguageContext);
-
   const handleLanguageChange = (language) => {
     changeLanguage(language);
   };
+
+  const customLi = (name, path) => {
+    return (
+      <li className="nav-item" key={path}>
+        <button
+          className="nav-link btn btn-link"
+          onClick={() => navigate(path)}
+        >
+          {name}
+        </button>
+      </li>
+    );
+  };
+
+  const customLis = paths.map((item) => customLi(item.label, item.path));
 
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light navbar-background">
@@ -37,22 +52,7 @@ const NavBar = () => {
                 Home
               </button>
             </li>
-            <li className="nav-item">
-              <button
-                className="nav-link btn btn-link"
-                onClick={() => navigate("/publications")}
-              >
-                Publications
-              </button>
-            </li>
-            <li className="nav-item">
-              <button
-                className="nav-link btn btn-link"
-                onClick={() => navigate("/work-activities")}
-              >
-                Work Activities
-              </button>
-            </li>
+            {customLis}
             <li className="nav-item">
               <div>
                 <select

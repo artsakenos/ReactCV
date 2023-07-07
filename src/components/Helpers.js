@@ -56,3 +56,21 @@ export const automaticLinks_OS = (description) => {
     </>
   );
 };
+
+export const underline = (text, keyword) => {
+  if (!text) return "";
+
+  const parts = text.split(new RegExp(`(${keyword})`, "gi"));
+
+  return (
+    <span>
+      {parts.map((part, index) =>
+        part.toLowerCase() === keyword.toLowerCase() ? (
+          <u key={index}>{part}</u>
+        ) : (
+          <React.Fragment key={index}>{part}</React.Fragment>
+        )
+      )}
+    </span>
+  );
+};

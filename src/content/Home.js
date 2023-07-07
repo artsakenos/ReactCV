@@ -1,11 +1,10 @@
 import React from "react";
-import Educations from "./Educations";
 
 export default function Home() {
   return (
     <div>
       <h1>Home Page</h1>
-      <Educations />
+      Experimental Code for a Dynamically Built Json React CV
     </div>
   );
 }

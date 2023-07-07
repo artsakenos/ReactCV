@@ -9,7 +9,7 @@ function WorkActivity({ id, date, title, description, tags, language }) {
 
   return (
     <div className="item-container">
-      {id} {date} {displayTitle} {}
+      {id} {date} <b>{displayTitle}</b> {}
       {automaticLinks(description)}
       <span> Tags: {tags.join(", ")} </span>
     </div>

@@ -63,7 +63,7 @@ const Languages = () => (
               </tr>
               <tr>
                 <td></td>
-                <td colspan="3">
+                <td colSpan="3">
                   <ul>
                     {language[lang].certification &&
                       language[lang].certification.map((item) => (
