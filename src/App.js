@@ -16,7 +16,17 @@ const paths = [
     path: "/work-activities",
     component: WorkActivities
   },
-  { label: "Education", path: "/educations", component: Educations }
+  {
+    label: "Education",
+    path: "/educations",
+    component: Educations,
+    submenus: [
+      {
+        label: "Education Sub",
+        path: "/educations/sub"
+      }
+    ]
+  }
 ];
 
 export default function App() {

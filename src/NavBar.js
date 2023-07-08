@@ -10,7 +10,7 @@ const NavBar = (props) => {
     changeLanguage(language);
   };
 
-  const customLi = (name, path) => {
+  const customLi = (name, path, submenus) => {
     return (
       <li className="nav-item" key={path}>
         <button
@@ -19,11 +19,14 @@ const NavBar = (props) => {
         >
           {name}
         </button>
+        {submenus && ""}
       </li>
     );
   };
 
-  const customLis = paths.map((item) => customLi(item.label, item.path));
+  const customLis = paths.map((item) =>
+    customLi(item.label, item.path, item.submenus)
+  );
 
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light navbar-background">
