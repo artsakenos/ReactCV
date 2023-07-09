@@ -10,28 +10,81 @@
     "description": "RAS – Sviluppo del nuovo portale web della Regione Autonoma della Sardegna. Sviluppo completo del BE con paradigma headless, con modulo per customizzare le API e implementazione di un meccanismo di user profiling integrato sviluppato in PHP su search engine ElasticSearch.",
     "tags": ["Drupal", "ML"]
   },
+
   {
-    "id": "[W69]",
+    "id": "W71",
+    "title": "中文职称使用",
+    "description": "*** - Sviluppo di nuove funzionalità su BE.",
+    "tags": ["Java", "DropWizard"]
+  },
+  {
+    "id": "W70",
+    "date": "2021-05",
+    "description": "RAS - Sviluppo del nuovo portale web della Regione Autonoma della Sardegna. Sviluppo completo del BE con paradigma headless, con modulo per customizzare le API e implementazione di un meccanismo di user profiling integrato sviluppato in PHP su search engine ElasticSearch.",
+    "tags": ["Drupal", "ML"]
+  },
+  {
+    "id": "W69",
     "date": "2021-03",
-    "description": "Aspal – Sviluppo del nuovo portale web dell’agenzia sarda per le politiche attive del lavoro, BE, FE.",
+    "description": "Aspal - Sviluppo del nuovo portale web dell'agenzia sarda per le politiche attive del lavoro, BE, FE.",
     "tags": ["Drupal"]
   },
   {
-    "id": "[W68]",
-    "description": "BFlows – Analisi e Ottimizzazione di una rete di transazioni finanziarie tramite strumenti di Machine Learning.",
+    "id": "W68",
+    "description": "BFlows - Analisi e Ottimizzazione di una rete di transazioni finanziarie tramite strumenti di Machine Learning.",
     "tags": ["ML", "React", "Java", "SpringBoot"]
   },
   {
-    "id": "[W67]",
+    "id": "W67",
     "date": "2022-01",
-    "description": "Sviluppo di strumenti di analisi e prototipi per la traduzione intersemiotica di contenuti normativi, strumenti per la creazione di un sistema per la rappresentazione di situazioni deontiche, creazione di blockchain con strumenti client-side. Rif papers [IJ07], [IJ08], [IJ09], [IC20]",
+    "description": "Sviluppo di strumenti di analisi e prototipi per la traduzione intersemiotica di contenuti normativi, strumenti per la creazione di un sistema per la rappresentazione di situazioni deontiche, creazione di blockchain con strumenti client-side. Rif papers [IJ07, IJ08, IJ09, IC20]",
     "tags": ["ML"]
   },
   {
-    "id": "[W66]",
+    "id": "W66",
     "date": "2021-11-30",
     "description": "Integrazione di componenti e funzionalità in un sistema di Derivati OTC (Radix).",
     "tags": ["Java", "SpringBoot"]
+  },
+  {
+    "id": "W65",
+    "date": "2021-11",
+    "description": "Politiche del personale - realizzazione ex-novo del portale pubblico del dipartimento delle politiche del personale del Ministero dell’interno."
+  },
+  {
+    "id": "W64",
+    "date": "2021-06-30",
+    "description": "Realizzazione di un modulo di gestione delle richieste di finanziamento FdS integrato con la piattaforma STARTS. Uno strumento per la gestione integrata del flusso amministrativo interno all’Università di Cagliari per la gestione e presentazione delle richieste di finanziamenti alla Fondazione di Sardegna.",
+    "tags": ["Drupal", "PHP"]
+  },
+  {
+    "id": "W63",
+    "date": "2021-05",
+    "description": "Geogest Affissioni - Sviluppo di un'applicazione per il censimento e la pianificazione della cartellonistica.",
+    "tags": ["GIS", "Drupal"]
+  },
+  {
+    "id": "W62",
+    "date": "2021-04",
+    "description": "Censimento Pula - Applicazione per la compilazione dinamica di strumenti per il censimento dei punti di interesse da parte dell'amministrazione del comune di Pula.",
+    "tags": ["Mobile", "Android", "Drive"]
+  },
+  {
+    "id": "W61",
+    "date": "Wellnet Comune di Firenze 2021-02",
+    "description": "Realizzazione di un sistema di ricerca su siti multipli federati.",
+    "tags": ["Drupal8", "Elasticsearch"]
+  },
+  {
+    "id": "W60",
+    "date": "2021-02",
+    "description": "Sprama - Costituzione della Società a Responsabilità Limitata Sprama Game Labs s.r.l. - La società ha per oggetto lo sviluppo, la produzione e la commercializzazione di prodotti o servizi innovativi ad alto valore tecnologicoAtlas BLE - Atlas a communication protocol and SDK to let, e.g., the sensing board to communicate with other devices through BLE."
+  },
+  {
+    "id": "W59",
+    "date": "2021-01-22",
+    "description": "Restyling e refactoring completo React / Spring MVC del preventivatore auto e moto di 6sicuro.",
+    "tags": ["React", "SpringMVC"]
   },
   {
     "id": "[WA11]",

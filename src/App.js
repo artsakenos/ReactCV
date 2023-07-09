@@ -1,34 +1,11 @@
-import "./styles.css";
 import React from "react";
+import "./styles.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { LanguageProvider } from "./LanguageContext";
 import Home from "./content/Home";
 import NavBar from "./NavBar";
-import { LanguageProvider } from "./LanguageContext";
 
-import Publications from "./content/Publications";
-import WorkActivities from "./content/WorkActivities";
-import Educations from "./content/Educations";
-
-const paths = [
-  { label: "Publications", path: "/publications", component: Publications },
-  {
-    label: "Work Activities",
-    path: "/work-activities",
-    component: WorkActivities
-  },
-  {
-    label: "Education",
-    path: "/educations",
-    component: Educations,
-    submenus: [
-      {
-        label: "Education Sub",
-        path: "/educations/sub",
-        component: Educations
-      }
-    ]
-  }
-];
+import { paths } from "./constants/Paths.js";
 
 export default function App() {
   return (

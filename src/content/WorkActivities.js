@@ -42,7 +42,7 @@ function WorkActivities() {
         workActivity.id.includes(selectedId)
       );
     } else if (selectedTag) {
-      return workActivity.tags.includes(selectedTag);
+      return workActivity.tags && workActivity.tags.includes(selectedTag);
     } else if (selectedId) {
       return workActivity.id.includes(selectedId);
     }

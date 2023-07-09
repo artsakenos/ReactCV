@@ -74,3 +74,24 @@ export const underline = (text, keyword) => {
     </span>
   );
 };
+
+/**
+ * Traduce il testo, che può essere una stringa o un dizionario
+ * @param {string|array} text_array E' una stringa (non traducibile) è un dizionario con le traduzioni.
+ * @param {string|null} language può essere null o non essere presente. In quel caso viene restituito il primo elemento dell'array.
+ */
+export const translate = (text, language_code) => {
+  // Se il testo è null, restituisci null
+  if (text === null || typeof text === "string") {
+    return text;
+  }
+
+  if (typeof text === "object") {
+    if (language_code && text.hasOwnProperty(language_code)) {
+      return text[language_code];
+    }
+
+    const firstKey = Object.keys(text)[0];
+    return text[firstKey];
+  }
+};
