@@ -36,3 +36,7 @@
 .content-header {
   margin-bottom: 10px;
 }
+
+.nav-item {
+  text-align: left;
+}

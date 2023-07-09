@@ -23,7 +23,8 @@ const paths = [
     submenus: [
       {
         label: "Education Sub",
-        path: "/educations/sub"
+        path: "/educations/sub",
+        component: Educations
       }
     ]
   }
@@ -40,11 +41,18 @@ export default function App() {
             <Route path="/" element={<Home />} />
 
             {paths.map((item) => (
-              <Route
-                key={item.path}
-                path={item.path}
-                element={<item.component />}
-              />
+              <React.Fragment key={item.path}>
+                <Route path={item.path} element={<item.component />} />
+
+                {item.submenus &&
+                  item.submenus.map((submenu) => (
+                    <Route
+                      key={submenu.path}
+                      path={submenu.path}
+                      element={<submenu.component />}
+                    />
+                  ))}
+              </React.Fragment>
             ))}
           </Routes>
         </div>

@@ -13,13 +13,34 @@ const NavBar = (props) => {
   const customLi = (name, path, submenus) => {
     return (
       <li className="nav-item" key={path}>
-        <button
-          className="nav-link btn btn-link"
-          onClick={() => navigate(path)}
-        >
-          {name}
-        </button>
-        {submenus && ""}
+        {submenus ? (
+          <li className="nav-item dropdown">
+            <a
+              className="nav-link dropdown-toggle"
+              href="/"
+              id="navbarDropdown"
+              role="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              {name}
+            </a>
+            <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
+              {submenus.map((item) =>
+                customLi(item.label, item.path, item.submenus)
+              )}
+            </ul>
+          </li>
+        ) : (
+          <li className="nav-item" key={path}>
+            <button
+              className="nav-link btn btn-link"
+              onClick={() => navigate(path)}
+            >
+              {name}
+            </button>
+          </li>
+        )}
       </li>
     );
   };
@@ -56,6 +77,7 @@ const NavBar = (props) => {
               </button>
             </li>
             {customLis}
+
             <li className="nav-item">
               <div>
                 <select
