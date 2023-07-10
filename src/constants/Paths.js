@@ -1,8 +1,19 @@
 import Publications from "../content/Publications";
 import WorkActivities from "../content/WorkActivities";
 import Educations from "../content/Educations";
+import Home from "../content/Home";
 
 export const paths = [
+  {
+    labela: "Home",
+    path: "/",
+    component: Home,
+    label: {
+      it: "Casa",
+      en: "Home",
+      zh: "主页"
+    }
+  },
   { label: "Publications", path: "/publications", component: Publications },
   {
     label: "Work Activities",

@@ -1,50 +1,19 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import { renderToString } from "react-dom/server";
-
-const automaticLinks_NOTOK = (description) => {
-  const linkPattern = /\[(\w+)\]/g;
-  return description.replace(linkPattern, (match, id) => {
-    const link = (
-      <Link key={id} to={`/publications?id=${id}`}>
-        {match}
-      </Link>
-    );
-    return link;
-  });
-};
-
-export const automaticLinks = (description) => {
-  const linkPattern = /\[(\w+)\]/g;
-  return (
-    <>
-      <span
-        dangerouslySetInnerHTML={{
-          __html: description.replace(linkPattern, (match, id) => {
-            return "<a href='/publications?id=" + match + "'>" + id + "</a>";
-          })
-        }}
-      ></span>
-    </>
-  );
-};
 
 /**
- * Sarebbe Automatic Links On Steroid.
- * Si può utilizzare per inserire links dove ci sono degli shortcodes del tipo [XX00].
- * @param {*} description La description da rielaborare
+ * Sarebbe Short Code Links On Steroid.
+ * Sostituisce gli shortcodes [XX00] con il link appropriato.
+ * @param {string} text Il text da rielaborare
  */
-export const automaticLinks_OS = (description) => {
+export const shortCodeLinks = (text) => {
   const linkPattern = /\[(\w{2})(\d{2})\]/g;
   return (
     <>
       <span
         dangerouslySetInnerHTML={{
-          __html: description.replace(linkPattern, (match, type, id) => {
+          __html: text.replace(linkPattern, (match, type, id) => {
             let link = "";
-            if (type === "IJ") {
-              link = "/publication?id=" + type + id;
-            } else if (type === "BP") {
+            if (type === "IJ" || type === "BP") {
               link = "/publication?id=" + type + id;
             } else if (type === "WA") {
               link = "/work-activity/?id=" + type + id;

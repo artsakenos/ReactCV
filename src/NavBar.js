@@ -1,53 +1,14 @@
 import React, { useContext } from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { LanguageContext } from "./LanguageContext";
+import { RouteBuilder } from "./components/Helpers_Routing";
 
 const NavBar = (props) => {
   const paths = props.paths;
-  const navigate = useNavigate();
   const { currentLanguage, changeLanguage } = useContext(LanguageContext);
   const handleLanguageChange = (language) => {
     changeLanguage(language);
   };
-
-  const customLi = (name, path, submenus) => {
-    return (
-      <li className="nav-item" key={path}>
-        {submenus ? (
-          <li className="nav-item dropdown">
-            <a
-              className="nav-link dropdown-toggle"
-              href="/"
-              id="navbarDropdown"
-              role="button"
-              data-bs-toggle="dropdown"
-              aria-expanded="false"
-            >
-              {name}
-            </a>
-            <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-              {submenus.map((item) =>
-                customLi(item.label, item.path, item.submenus)
-              )}
-            </ul>
-          </li>
-        ) : (
-          <li className="nav-item" key={path}>
-            <button
-              className="nav-link btn btn-link"
-              onClick={() => navigate(path)}
-            >
-              {name}
-            </button>
-          </li>
-        )}
-      </li>
-    );
-  };
-
-  const customLis = paths.map((item) =>
-    customLi(item.label, item.path, item.submenus)
-  );
 
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light navbar-background">
@@ -68,17 +29,9 @@ const NavBar = (props) => {
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav">
-            <li className="nav-item">
-              <button
-                className="nav-link btn btn-link"
-                onClick={() => navigate("/")}
-              >
-                Home
-              </button>
-            </li>
-            {customLis}
+            {RouteBuilder(paths)}
 
-            <li className="nav-item">
+            <li className="nav-item" key="language">
               <div>
                 <select
                   value={currentLanguage}

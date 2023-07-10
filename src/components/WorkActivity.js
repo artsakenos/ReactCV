@@ -1,5 +1,5 @@
 import React from "react";
-import { automaticLinks, translate } from "./Helpers";
+import { shortCodeLinks, translate } from "./Helpers";
 
 function WorkActivity({ id, date, title, description, tags, language }) {
   let displayTitle = translate(title, language);
@@ -7,7 +7,7 @@ function WorkActivity({ id, date, title, description, tags, language }) {
   return (
     <div className="item-container">
       {id} {date} <b>{displayTitle}</b> {}
-      {automaticLinks(description)}
+      {shortCodeLinks(description)}
       <span> Tags: {tags && tags.join(", ")} </span>
     </div>
   );

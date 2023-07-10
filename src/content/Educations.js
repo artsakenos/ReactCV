@@ -1,5 +1,5 @@
 import React from "react";
-import { automaticLinks_OS } from "../components/Helpers";
+import { shortCodeLinks } from "../components/Helpers";
 import educationData from "../json/CV_Education.json";
 
 const Education = () => (
@@ -67,7 +67,7 @@ const Languages = () => (
                   <ul>
                     {language[lang].certification &&
                       language[lang].certification.map((item) => (
-                        <li>{automaticLinks_OS(item)}</li>
+                        <li>{shortCodeLinks(item)}</li>
                       ))}
                   </ul>
                 </td>
