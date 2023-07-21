@@ -31,7 +31,9 @@ function WorkActivities() {
 
   // Get all available tags from the work activities data
   const availableTags = [
-    ...new Set(workActivitiesData.flatMap((workActivity) => workActivity.tags))
+    ...new Set(
+      workActivitiesData.flatMap((workActivity) => workActivity.tags).sort()
+    )
   ];
 
   // Filter work activities based on the selected tag and id

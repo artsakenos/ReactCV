@@ -48,6 +48,6 @@ export const CustomLiX = (label, path, submenus) => {
  * Fa un render dell'albero di routing e scrive la NavBar
  * @param {array} paths I Paths (vedi Paths.js)
  */
-export const RouteBuilder = (paths) => {
+export const RouteBuilder = (paths, language) => {
   return paths.map((item) => CustomLiX(item.label, item.path, item.submenus));
 };

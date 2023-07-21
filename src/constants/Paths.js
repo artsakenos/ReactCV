@@ -9,8 +9,8 @@ export const paths = [
     path: "/",
     component: Home,
     label: {
-      it: "Casa",
       en: "Home",
+      it: "Casa",
       zh: "主页"
     }
   },

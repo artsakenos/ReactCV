@@ -91,5 +91,148 @@
     "date": "2021-11-30",
     "description": "TEST CARLO TERCERO",
     "tags": ["Java", "SpringBoot"]
+  },
+  {
+    "id": "W59",
+    "date": "2021-01-22",
+    "description": "Restyling e refactoring completo React / Spring MVC del preventivatore auto e moto di 6sicuro.",
+    "links": [{ "name": "6 Sicuro", "url": "https://www.6sicuro.it" }],
+    "tags": ["React", "SpringMVC"]
+  },
+  {
+    "id": "W58",
+    "date": "2021-01-05",
+    "description": "Sviluppo di una suite di Librerie BLE per Android e iOS, con customizzazione per le sensing board."
+  },
+  {
+    "id": "W57",
+    "date": "2021-01",
+    "description": "Spol Didattica – Sviluppo di un’applicazione web per la pianificazione delle attività di programmazione ed erogazione della didattica in ateneo.",
+    "tags": ["Django", "SQLite"]
+  },
+  {
+    "id": "W56",
+    "date": "2020-11",
+    "description": "Prociv – Sviluppo di un portale per la gestione di volontari, attrezzature e la pianificazione di mezzi, strumenti e interventi nella gestione delle attività di emergenza.",
+    "tags": ["Elasticsearch", "IoT"]
+  },
+  {
+    "id": "W55",
+    "date": "2020-05",
+    "description": "DIEE e Vecchio Forno, progetto Crunch Sunalle: sviluppo di un sistema di raccolta e analisi dei dati provenienti dal sistema di produzione ai fini di migliorare la tracciabilità del prodotto. Sviluppo di un prototipo per il push di dati di sensoristica da una macchina su rete privata a un repository centralizzato pubblico.",
+    "tags": ["Elasticsearch", "IoT"]
+  },
+  {
+    "id": "W54",
+    "date": "2020-03",
+    "description": "FSE2 (Aicof, Medir) – Sviluppo di un microservizio per il profiling degli utenti del Fascicolo Sanitario Elettronico per la personalizzazione dinamica delle dashboard. Utilizzo di Drools, Kafka, strumenti per lo sviluppo di Microservices Pool con Spring Boot.",
+    "tags": ["ML", "SpringBoot"]
+  },
+  {
+    "id": "W53",
+    "date": "2019-09",
+    "description": "xAv – Sviluppo di una soluzione per la protezione dei dispositivi mobili Android tramite funzionalità di anti-malware. Sviluppo delle interfacce con il motore antimalware e di un servizio per la connessione a un provider DNS Custom."
+  },
+  {
+    "id": "W52",
+    "date": "2019-01",
+    "description": "Starts – Università degli Studi di Cagliari – Sviluppo di una piattaforma informatica interattiva e multifunzionale destinata a sostenere la diffusione e lo scambio della conoscenza fra l’Università degli studi di Cagliari e il territorio, la valorizzazione dei risultati della ricerca e la sistematizzazione della collaborazione tra ateneo e stakeholders tramite la riprogettazione dei processi. Comprende strumenti e microservizi per l’integrazione di dati provenienti da fonti esterne, come Iris e Creditsafe. Un motore per l’arricchimento semantico e la classificazione di testi, ed è stata integrata con un ecosistema di moduli e servizi per l’amministrazione.",
+    "tags": ["ML"]
+  },
+  {
+    "id": "W51",
+    "date": "2018-08",
+    "description": "TSV8 – Evoluzione della suite di Creactives, Total Spending Visibility (TSV7), un System analysis of spending data che consente analisi di aggregazione, spending reviews. In particolare, implementazione delle funzionalità BE di analisi BrandAnalysis, Pareto, Custom.",
+    "tags": ["SpringBoot", "Elasticsearch", "JPA", "Postgres"]
+  },
+  {
+    "id": "W50",
+    "date": "2018-04-03",
+    "description": "Deposito (2016-10-03) e pubblicazione del brevetto N. 102016000099002 di una Sensing Board per l’interazione e la tracciabilità di oggetti riconoscibili su di una superficie flessibile."
+  },
+  {
+    "id": "W49",
+    "date": "2018-09",
+    "description": "Kiosk, upgrade dell’applicazione mobile [Android]."
+  },
+  {
+    "id": "W48",
+    "date": "2018-07",
+    "description": "Ascensum – a new strategic card game for two players, set in H. P. Lovecraft‘s dark universe. Thanks to an innovative technology called Sensing Board, the cards and the board interact with your smartphone where all the game is managed by a mobile app, bringing you a new amazing game experience! Progettazione e realizzazione di una nuova tecnologia per giochi da tavolo ibridi (con componente elettronica), BLE e una nuova applicazione di e-textiles, con relativo software dall’embedded al software per dispositivi mobili basato su Unity; coautore del relativo brevetto [W50]."
+  },
+  {
+    "id": "W47",
+    "date": "2018-06",
+    "description": "Ciclops – Citizen Computing Pulsar Search – developed by Infora Scarl and Osservatorio Astronomico di Cagliari since 2018, is a citizen science project designed as a Human Based Computation (HBC) application to transform the search for pulsars into an entertaining 3D video game."
+  },
+  {
+    "id": "W46",
+    "date": "2018-05",
+    "description": "Epigrafi – Sviluppo di un software per l’importazione e la centralizzazione di scritture epigrafiche da fonti digitali eterogenee, sviluppo di tool per la ricerca, l’analisi e l’indicizzazione da tale database."
+  },
+  {
+    "id": "W45",
+    "date": "2018-04",
+    "description": "Insar – Refactoring grafico al sito IN.SAR. – Iniziative Sardegna S.p.A."
+  },
+  {
+    "id": "W44",
+    "date": "2017-12",
+    "description": "Enac – Sviluppo di tool personalizzati per la Migrazione del sito dell’Enac e sviluppo della nuova versione del sito. Sviluppo di un modulo Drupal e di un installer per SPID, il Sistema Pubblico di Identità Digitale."
+  },
+  {
+    "id": "W43",
+    "date": "2017-07",
+    "description": "Sviluppo di librerie WebRTC e di una pagina per videochiamata via WebRTC"
+  },
+  {
+    "id": "W42",
+    "date": "2017-05",
+    "description": "EldersCare – Assistenza H24, Sviluppo di un Applicazione Android e una Centrale di Controllo per il monitoraggio di persone anziane via Smart Bracelet con tecnologia BLE.",
+    "tags": ["Mobile", "Android", "IoT"]
+  },
+  {
+    "id": "W41",
+    "date": "01/2017",
+    "description": "Volint – Migrazione del sito, sviluppo di tool Java ad hoc per il post-processing delle mappature"
+  },
+  {
+    "id": "W40",
+    "date": "09/2016",
+    "description": "Portale Sardegna – Tool Javascript per il mapping delle regioni",
+    "sub_activities": [
+      "01/2017 Impostazione degli script di Redirect",
+      "06/2017 Aggiornamento e manutenzione del blog Sardegne Love",
+      "03/2018 Supporto al fix di Action per il salvataggio di nodi tradotti"
+    ]
+  },
+  {
+    "id": "W39",
+    "date": "12/2016",
+    "description": "LectorGas – Un’applicazione per il supporto e l’automazione dei processi di lettura dei contatori del gas, tracciamento dei dipendenti e delle attività, e controllo del flusso di amministrazione dei lavori tramite interfacce web e mobile. Supervisore e sviluppatore del progetto.",
+    "tags": ["Drupal", "Mobile", "Android"]
+  },
+  {
+    "id": "W38",
+    "date": "06/2015",
+    "description": "OpenRubrica, 12/2016 Creazione dei servizi REST con funzioni di ricerca customizzate per le strutture"
+  },
+  {
+    "id": "W37",
+    "date": "05/2016",
+    "description": "Progetto SirNetwork. Un framework Java per la creazione e la gestione di un network di SmartSockets autonomi tramite algoritmi distribuiti, per la coordinazione e l’ottimizzazione del comportamento di una rete elettrica. Sviluppo delle UltraWemo. Supervisore e sviluppatore del progetto.",
+    "tags": ["Java", "IoT"]
+  },
+  {
+    "id": "W36",
+    "date": "03/2016",
+    "description": "Sungard / FISGlobal – Espansione delle funzionalità del client XDM, un software di amministrazione dei deal tra operatori energetici. Implementazione di librerie, script, strumenti per il parsing e suite di test, in Java e Groovy su framework Spring. {Spring, Java, Groovy, Oracle}",
+    "sub_activities": ["08/2016 Sungard 04", "12/2016 Save"]
+  },
+  {
+    "id": "W35",
+    "date": "02/2016",
+    "description": "Portali per i comuni di Silius, Serramanna e Pula",
+    "sub_activities": ["Upgrade 06/2018 di Serramanna e Pula"]
   }
 ]
