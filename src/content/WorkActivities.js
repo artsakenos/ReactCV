@@ -15,18 +15,8 @@ function WorkActivities() {
     const queryParams = new URLSearchParams(location.search);
     const tag = queryParams.get("tag");
     const id = queryParams.get("id");
-
-    if (tag) {
-      setSelectedTag(tag);
-    } else {
-      setSelectedTag("");
-    }
-
-    if (id) {
-      setSelectedId(id);
-    } else {
-      setSelectedId("");
-    }
+    tag ? setSelectedTag(tag) : setSelectedTag("");
+    id ? setSelectedId(id) : setSelectedId("");
   }, [location.search]);
 
   // Get all available tags from the work activities data

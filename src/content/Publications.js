@@ -12,18 +12,8 @@ export default function Publications() {
     const queryParams = new URLSearchParams(location.search);
     const type = queryParams.get("type");
     const id = queryParams.get("id");
-
-    if (type) {
-      setSelectedType(type);
-    } else {
-      setSelectedType("");
-    }
-
-    if (id) {
-      setSelectedId(id);
-    } else {
-      setSelectedId("");
-    }
+    type ? setSelectedType(type) : setSelectedType("");
+    id ? setSelectedId(id) : setSelectedId("");
   }, [location.search]);
 
   const types = Array.from(new Set(publicationsData.map((p) => p.type)));

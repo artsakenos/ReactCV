@@ -1,17 +1,5 @@
 [
   {
-    "id": "[W70]",
-    "date": "2021-05",
-    "title": {
-      "it": "Test Titolo Italiano",
-      "en": "Text English Title",
-      "zh": "中文职称使用"
-    },
-    "description": "RAS – Sviluppo del nuovo portale web della Regione Autonoma della Sardegna. Sviluppo completo del BE con paradigma headless, con modulo per customizzare le API e implementazione di un meccanismo di user profiling integrato sviluppato in PHP su search engine ElasticSearch.",
-    "tags": ["Drupal", "ML"]
-  },
-
-  {
     "id": "W71",
     "title": "中文职称使用",
     "description": "*** - Sviluppo di nuove funzionalità su BE.",
@@ -21,6 +9,11 @@
     "id": "W70",
     "date": "2021-05",
     "description": "RAS - Sviluppo del nuovo portale web della Regione Autonoma della Sardegna. Sviluppo completo del BE con paradigma headless, con modulo per customizzare le API e implementazione di un meccanismo di user profiling integrato sviluppato in PHP su search engine ElasticSearch.",
+    "title": {
+      "it": "Test Titolo Italiano",
+      "en": "Text English Title",
+      "zh": "中文职称使用"
+    },
     "tags": ["Drupal", "ML"]
   },
   {
@@ -84,19 +77,6 @@
     "id": "W59",
     "date": "2021-01-22",
     "description": "Restyling e refactoring completo React / Spring MVC del preventivatore auto e moto di 6sicuro.",
-    "tags": ["React", "SpringMVC"]
-  },
-  {
-    "id": "[WA11]",
-    "date": "2021-11-30",
-    "description": "TEST CARLO TERCERO",
-    "tags": ["Java", "SpringBoot"]
-  },
-  {
-    "id": "W59",
-    "date": "2021-01-22",
-    "description": "Restyling e refactoring completo React / Spring MVC del preventivatore auto e moto di 6sicuro.",
-    "links": [{ "name": "6 Sicuro", "url": "https://www.6sicuro.it" }],
     "tags": ["React", "SpringMVC"]
   },
   {
