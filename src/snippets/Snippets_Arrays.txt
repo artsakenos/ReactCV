@@ -1,0 +1,67 @@
+
+  ----------- ############## -----------
+
+{
+  publicationsData.map((publication) => (
+    <Publication key={publication.id} {...publication} />
+  ));
+}
+
+import Publication from "../components/publication";
+import publicationsData from "./CV_Publications.json";
+
+const publication = {
+  id: "[IJ6]",
+  authors: "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+  title:
+    "MultiAgent Systems and Information Retrieval: Our Experience with X.MAS",
+  source: "Journal of Expert Systems with Applications",
+  sourceCoordinates: "Volume 39, Issue 3, pp. 2509–2523",
+  publisher: "Elsevier",
+  date: "15 February 2012",
+  links: [
+    { name: "PDF File", url: "link-to-pdf-file" },
+    { name: "Online Version", url: "link-to-online-version" }
+  ]
+};
+
+<Publication {...publication} />;
+
+  ----------- ############## -----------
+
+import { renderToString } from "react-dom/server";
+
+const replaceWorkActivityLinks_old = (description) => {
+  const linkPattern = /\[(\w+)\]/g;
+  return description.replace(linkPattern, (match, id) => {
+    const link = (
+      <Link key={id} to={`/publications?id=${id}`}>
+        {match}
+      </Link>
+    );
+    return link;
+  });
+};
+
+  ----------- ############## -----------
+
+Per gli array associativi senza oggetto strutturato, ad esermpio:
+{ "chiave01": "Valore01", "chiave02": "Valore02", ...}
+
+const Certifications = () => (
+  <div>
+    <ul style={{ textAlign: "left" }}>
+      {educationData.certifications.map((certification, index) => {
+        const period = Object.keys(certification)[0];
+        const description = certification[period];
+        return (
+          <li key={index}>
+            {period}: {description}
+          </li>
+        );
+      })}
+    </ul>
+  </div>
+);
+
+  ----------- ############## -----------
