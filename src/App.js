@@ -1,39 +1,36 @@
-import "./styles.css";
 import React from "react";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
-import Home from "./content/Home";
-import About from "./content/About";
-import Contact from "./content/Contact";
-import Publications from "./Publications";
+import "./styles.css";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { LanguageProvider } from "./LanguageContext";
+import NavBar from "./NavBar";
+
+import { paths } from "./constants/Paths.js";
 
 export default function App() {
   return (
-    <Router>
-      <div className="App">
-        <nav>
-          <ul>
-            <li>
-              <Link to="/">Home</Link>
-            </li>
-            <li>
-              <Link to="/about">About</Link>
-            </li>
-            <li>
-              <Link to="/contact">Contact</Link>
-            </li>
-            <li>
-              <Link to="/publications">Publications</Link>
-            </li>
-          </ul>
-        </nav>
+    <Router basename="/ReactCV">
+      <LanguageProvider>
+        <div className="App">
+          <NavBar paths={paths} />
 
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/publications" element={<Publications />} />
-        </Routes>
-      </div>
+          <Routes>
+            {paths.map((item) => (
+              <React.Fragment key={item.path}>
+                <Route path={item.path} element={<item.component />} />
+
+                {item.submenus &&
+                  item.submenus.map((submenu) => (
+                    <Route
+                      key={submenu.path}
+                      path={submenu.path}
+                      element={<submenu.component />}
+                    />
+                  ))}
+              </React.Fragment>
+            ))}
+          </Routes>
+        </div>
+      </LanguageProvider>
     </Router>
   );
 }

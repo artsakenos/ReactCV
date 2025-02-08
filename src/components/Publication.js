@@ -1,4 +1,7 @@
 import React from "react";
+import { underline } from "./Helpers";
+
+const hm = (text) => underline(text, "Andrea Addis");
 
 export default function Publication({
   id,
@@ -11,27 +14,11 @@ export default function Publication({
   links
 }) {
   return (
-    <div>
-      <h2>{title}</h2>
-      <p>
-        <strong>Authors:</strong> {authors}
-      </p>
-      <p>
-        <strong>Source:</strong> {source}
-      </p>
-      <p>
-        <strong>Source Coordinates:</strong> {sourceCoordinates}
-      </p>
-      <p>
-        <strong>Publisher:</strong> {publisher}
-      </p>
-      <p>
-        <strong>Date:</strong> {date}
-      </p>
-      <p>
-        <strong>Links:</strong>
-      </p>
-      <ul>
+    <div className="item-container">
+      {id} {title}; Authors: {hm(authors)}; Source: {source}; Source
+      Coordinates: {sourceCoordinates}; Publisher: {publisher}; Date: {date};
+      Links:
+      <ul className="publication-links">
         {links &&
           links.map((link, index) => (
             <li key={index}>

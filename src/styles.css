@@ -1,4 +1,42 @@
 .App {
-  font-family: sans-serif;
   text-align: center;
+  max-width: 1024px;
+  margin: auto;
+}
+
+.navbar-background {
+  /*background-image: url("/images/pngtree-beautiful-bokeh-background-with-soft-color-image_351546.jpg");*/
+}
+
+.item-container {
+  margin-bottom: 1rem;
+  text-align: justify;
+}
+
+.publication-links {
+  display: inline;
+  margin-left: 0.5rem;
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.publication-links li {
+  display: inline;
+}
+
+.publication-links li:not(:last-child)::after {
+  content: ", ";
+}
+
+.content-container {
+  margin: 20px;
+}
+
+.content-header {
+  margin-bottom: 10px;
+}
+
+.nav-item {
+  text-align: left;
 }
