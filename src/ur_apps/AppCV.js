@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { LanguageProvider } from "../ur_libs/LanguageContext";
 import NavBar from "../ur_libs/NavBar";
 
-import { paths } from "../ur_kb/Paths.js";
+import { paths } from "../ur_kb/paths_cv.js";
 
 export default function App() {
   return (

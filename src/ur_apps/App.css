@@ -29,7 +29,7 @@ body {
 }
 
 .navbar-background {
-  /* background-image: url("../../public/images/bg_bubbles.jpg"); */
+  background-image: url("../../public/images/bg_bubbles.jpg");
 }
 
 .nav-item {
@@ -42,7 +42,6 @@ body {
 }
 
 .nav-language {
-  display: none;
   margin-top: 8px;
   margin-left: 10px;
 }
