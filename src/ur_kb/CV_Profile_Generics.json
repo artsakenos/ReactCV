@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Education",
+    "description": {
+      "it": "Istruzione, Lingue e Certificazioni",
+      "en": "Education, Languages, and Certificates",
+      "zh": "教育、语言和证书"
+    },
+    "items": [
+      {
+        "date_begin": "2010-03-05",
+        "title": {
+          "it": "Dottorato di Ricerca in Ingegneria Elettronica e Informatica (XXII Ciclo), con qualifica di Doctor Europaeus",
+          "en": "PhD in Electronic and Computer Engineering (XXII Cycle), with Doctor Europaeus qualification",
+          "zh": "电子与计算机工程博士学位（第二十二期），欧洲博士资格"
+        },
+        "description": {
+          "it": "University of Cagliari - Department of Electrical and Electronic Engineering",
+          "en": "University of Cagliari - Department of Electrical and Electronic Engineering",
+          "zh": "卡利亚里大学 - 电气与电子工程系"
+        },
+        "details": [
+          "Matricola n.08408"
+        ]
+      },
+      {
+        "date_begin": "2006-02-27",
+        "title": {
+          "it": "Iscrizione all’Albo Ordine degli Ingegneri della provincia di Cagliari, sezione A - Settori Civile-Ambientale, Industriale, dell’Informazione",
+          "en": "Registration to the Register of Engineers of the Province of Cagliari, section A - Civil-Environmental, Industrial, Information sectors",
+          "zh": "注册成为卡利亚里省工程师协会会员，A部分 - 民用-环境、工业、信息部门"
+        },
+        "details": [
+          "Matricola n.6218"
+        ]
+      },
+      {
+        "date_begin": "2005-11-31",
+        "title": {
+          "it": "Superamento dell’esame di stato per l’esercizio della professione di Ingegnere (II sessione 2005)",
+          "en": "Passing the state exam for the profession of Engineer (II session 2005)",
+          "zh": "通过工程师职业资格考试（2005年第二期）"
+        }
+      },
+      {
+        "date_begin": "2005-11-08",
+        "title": {
+          "it": "Laurea in Ingegneria Elettronica",
+          "en": "Bachelor's Degree in Electronic Engineering",
+          "zh": "电子工程学士学位"
+        },
+        "description": {
+          "it": "Tesi: Studio e Realizzazione di un’Architettura ad Agenti Software per il Recupero ed il Filtraggio di Informazioni dal World Wide Web; Relatore: Prof. G. Armano; con votazione: 96/110",
+          "en": "Thesis: Study and Implementation of a Software Agent Architecture for Retrieving and Filtering Information from the World Wide Web; Supervisor: Prof. G. Armano; Grade: 96/110",
+          "zh": "论文：用于从万维网检索和过滤信息的软件代理体系结构的研究与实现；导师：G. Armano 教授；成绩：96/110"
+        },
+        "details": [
+          "Matricola n.70/13/26676 - PI.171441"
+        ]
+      },
+      {
+        "date_begin": "1994-07-20",
+        "title": {
+          "it": "Maturità scientifica",
+          "en": "Scientific High School Diploma",
+          "zh": "理科高中毕业文凭"
+        },
+        "description": {
+          "it": "Liceo Scientifico Lorenzo Mossa; con votazione: 56/60",
+          "en": "Lorenzo Mossa Scientific High School; Grade: 56/60",
+          "zh": "洛伦佐·莫萨理科高中；成绩：56/60"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Languages",
+    "description": {
+      "it": "Lingue Conosciute. Riferimento al quadro [CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions).",
+      "en": "Languages. Reference to the [CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions) framework.",
+      "zh": "语言。参考[欧洲共同语言参考标准](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions)框架."
+    },
+    "items": [
+      {
+        "title": {
+          "it": "Italiano",
+          "en": "Italian",
+          "zh": "意大利语"
+        },
+        "description": {
+          "it": "Native",
+          "en": "Native",
+          "zh": "母语"
+        }
+      },
+      {
+        "title": {
+          "it": "English",
+          "en": "English",
+          "zh": "英语"
+        },
+        "description": {
+          "it": "Writing: C1, Reading: C1, Speaking: C1, Listening: C1",
+          "en": "Writing: C1, Reading: C1, Speaking: C1, Listening: C1",
+          "zh": "写作：C1，阅读：C1，口语：C1，听力：C1"
+        },
+        "details": [
+          "2007, CLA: Intermedio I – B1",
+          "2008, CLA: Technical Scientific English – B2",
+          "2009, CLA: Preparation to TOEFL – C1"
+        ]
+      },
+      {
+        "title": {
+          "it": "French",
+          "en": "French",
+          "zh": "法语"
+        },
+        "description": {
+          "it": "Writing: A2, Reading: B1, Speaking: A2, Listening: B1",
+          "en": "Writing: A2, Reading: B1, Speaking: A2, Listening: B1",
+          "zh": "写作：A2，阅读：B1，口语：A2，听力：B1"
+        },
+        "details": [
+          "Knowledge gained during eight primary and secondary school years of study"
+        ]
+      },
+      {
+        "title": {
+          "it": "Spanish",
+          "en": "Spanish",
+          "zh": "西班牙语"
+        },
+        "description": {
+          "it": "Writing: B1, Reading: B1, Speaking: B1, Listening: B1",
+          "en": "Writing: B1, Reading: B1, Speaking: B1, Listening: B1",
+          "zh": "写作：B1，阅读：B1，口语：B1，听力：B1"
+        },
+        "details": [
+          "2008, CLA (T): Elementary Level I – A2.1",
+          "2009, [WA11]: Study activity during the working experience in Spain",
+          "2010, CLA (T): Intermediate Level – B1"
+        ]
+      },
+      {
+        "title": {
+          "it": "Chinese",
+          "en": "Chinese",
+          "zh": "中文"
+        },
+        "description": {
+          "it": "Writing: A2, Reading: A2, Speaking: A2, Listening: A2",
+          "en": "Writing: A2, Reading: A2, Speaking: A2, Listening: A2",
+          "zh": "写作：A2，阅读：A2，口语：A2，听力：A2"
+        },
+        "details": [
+          "2007, CLA: Elementary Level – A1",
+          "2011-10: Elementary Level – A2"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Certificates, Licenses, Memberships",
+    "description": {
+      "it": "Certificati, licenze e affiliazioni",
+      "en": "Certificates, Licenses, and Memberships",
+      "zh": "证书、执照和会员资格"
+    },
+    "items": [
+      {
+        "date_begin": "1986",
+        "date_end": "1996",
+        "title": {
+          "it": "Membro F.I.V. – Federazione Italiana Vela, III Sezione, Costa Smeralda",
+          "en": "Member F.I.V. – Italian Sailing Federation, III Section, Costa Smeralda",
+          "zh": "意大利帆船联合会 (F.I.V.) 会员，第三分会，翡翠海岸"
+        },
+        "description": {
+          "it": "Affiliazione alla Federazione Italiana Vela",
+          "en": "Affiliation to the Italian Sailing Federation",
+          "zh": "隶属于意大利帆船联合会"
+        }
+      },
+      {
+        "date_begin": "1996",
+        "date_end": "1998",
+        "title": {
+          "it": "Brevetto di assistente bagnanti",
+          "en": "Lifeguard Certificate",
+          "zh": "救生员证书"
+        },
+        "description": {
+          "it": "Rilasciato dalla F.I.N., Federazione Italiana Nuoto, sez. Salvamento",
+          "en": "Issued by F.I.N., Italian Swimming Federation, Rescue Section",
+          "zh": "由意大利游泳联合会 (F.I.N.) 救援部门颁发"
+        }
+      },
+      {
+        "date_begin": "2003",
+        "date_end": "2006",
+        "title": {
+          "it": "Membro del CUS – Centro Universitario Sportivo, Cagliari",
+          "en": "Member of CUS – University Sports Center, Cagliari",
+          "zh": "卡利亚里大学体育中心 (CUS) 会员"
+        },
+        "description": {
+          "it": "Affiliazione al Centro Universitario Sportivo",
+          "en": "Affiliation to the University Sports Center",
+          "zh": "隶属于大学体育中心"
+        }
+      },
+      {
+        "date_begin": "2004",
+        "date_end": "2005",
+        "title": {
+          "it": "Membro ACIF – Associazione Culturale Italo Francese",
+          "en": "Member ACIF – Italian-French Cultural Association",
+          "zh": "意大利-法国文化协会 (ACIF) 会员"
+        },
+        "description": {
+          "it": "Affiliazione all'Associazione Culturale Italo Francese",
+          "en": "Affiliation to the Italian-French Cultural Association",
+          "zh": "隶属于意大利-法国文化协会"
+        }
+      },
+      {
+        "date_begin": "2004",
+        "date_end": "2006",
+        "title": {
+          "it": "Certificato F.I.T.A.",
+          "en": "F.I.T.A. Certificate",
+          "zh": "F.I.T.A. 证书"
+        },
+        "description": {
+          "it": "Federazione Italiana Teatro Amatoriale",
+          "en": "Italian Federation of Amateur Theatre",
+          "zh": "意大利业余戏剧联合会"
+        }
+      },
+      {
+        "date_begin": "1995",
+        "title": {
+          "it": "Patente B Europea di guida",
+          "en": "European Driving License (Category B)",
+          "zh": "欧洲 B 类驾驶执照"
+        },
+        "description": {
+          "it": "Licenza di guida europea",
+          "en": "European driving license",
+          "zh": "欧洲驾驶执照"
+        }
+      },
+      {
+        "date_begin": "1997",
+        "title": {
+          "it": "PADI, Scuba Diving Certification, Livello Open Water Diver",
+          "en": "PADI, Scuba Diving Certification, Open Water Diver Level",
+          "zh": "PADI 水肺潜水认证，开放水域潜水员级别"
+        },
+        "description": {
+          "it": "Certificazione per immersioni subacquee",
+          "en": "Scuba diving certification",
+          "zh": "水肺潜水认证"
+        }
+      },
+      {
+        "date_begin": "2005",
+        "title": {
+          "it": "Iscritto all’Albo dell’Ordine degli Ingegneri della provincia di Cagliari",
+          "en": "Registered in the Register of Engineers of the Province of Cagliari",
+          "zh": "注册成为卡利亚里省工程师协会会员"
+        },
+        "description": {
+          "it": "Sezione A, nei settori Civile-Ambientale, Industriale, dell’Informazione",
+          "en": "Section A, in the Civil-Environmental, Industrial, and Information sectors",
+          "zh": "A 部分，民用-环境、工业和信息部门"
+        },
+        "details": [
+          "N.6218"
+        ]
+      },
+      {
+        "date_begin": "2006",
+        "title": {
+          "it": "Membro del JUG – Java User Group (Sardegna) Onlus",
+          "en": "Member of JUG – Java User Group (Sardinia) Onlus",
+          "zh": "萨丁尼亚 Java 用户组 (JUG) Onlus 会员"
+        },
+        "description": {
+          "it": "Affiliazione al Java User Group della Sardegna",
+          "en": "Affiliation to the Java User Group of Sardinia",
+          "zh": "隶属于萨丁尼亚 Java 用户组"
+        }
+      },
+      {
+        "date_begin": "2007",
+        "title": {
+          "it": "Membro AIxIA – Italian Association for Artificial Intelligence, IADIS – International Association for Development of the Information Society",
+          "en": "Member AIxIA – Italian Association for Artificial Intelligence, IADIS – International Association for Development of the Information Society",
+          "zh": "意大利人工智能协会 (AIxIA) 会员，国际信息社会发展协会 (IADIS) 会员"
+        },
+        "description": {
+          "it": "Affiliazione alle associazioni di intelligenza artificiale e sviluppo informatico",
+          "en": "Affiliation to artificial intelligence and information development associations",
+          "zh": "隶属于人工智能和信息发展协会"
+        }
+      },
+      {
+        "date_begin": "2008",
+        "title": {
+          "it": "Membro ACM – Association for Computing Machinery",
+          "en": "Member ACM – Association for Computing Machinery",
+          "zh": "美国计算机协会 (ACM) 会员"
+        },
+        "description": {
+          "it": "Affiliazione all'Association for Computing Machinery",
+          "en": "Affiliation to the Association for Computing Machinery",
+          "zh": "隶属于美国计算机协会"
+        }
+      },
+      {
+        "date_begin": "2016",
+        "title": {
+          "it": "Patente di guida Cinese",
+          "en": "Chinese Driving License",
+          "zh": "中国驾驶执照"
+        },
+        "description": {
+          "it": "Licenza di guida ottenuta in Cina",
+          "en": "Driving license obtained in China",
+          "zh": "在中国获得的驾驶执照"
+        }
+      },
+      {
+        "date_begin": "2022",
+        "title": {
+          "it": "Membro della Camera di Commercio Italiana in Cina",
+          "en": "Member of the Italian Chamber of Commerce in China",
+          "zh": "中国意大利商会会员"
+        },
+        "description": {
+          "it": "Affiliazione alla Camera di Commercio Italiana in Cina",
+          "en": "Affiliation to the Italian Chamber of Commerce in China",
+          "zh": "隶属于中国意大利商会"
+        },
+        "details": [
+          "Numero di membro: 114761"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Interests",
+    "description": {
+      "it": "Elenco dei miei interessi e attività",
+      "en": "List of my interests and activities",
+      "zh": "我的兴趣和活动列表"
+    },
+    "items": [
+      {
+        "title": {
+          "it": "Sport",
+          "en": "Sport",
+          "zh": "运动"
+        },
+        "description": {
+          "it": "Partecipazione a competizioni e ruoli nel settore sportivo",
+          "en": "Participation in competitions and roles in the sports sector",
+          "zh": "参与体育领域的比赛和担任职务"
+        },
+        "details": [
+          "1991: Selezionato per i campionati regionali Under 16 di pallavolo",
+          "1989-1990: Giudice di linea per i campionati internazionali femminili di tennis"
+        ]
+      },
+      {
+        "title": {
+          "it": "Musica",
+          "en": "Music",
+          "zh": "音乐"
+        },
+        "description": {
+          "it": "Esperienza in gruppi musicali e produzione musicale",
+          "en": "Experience in musical groups and music production",
+          "zh": "在音乐团体中的经验和音乐制作"
+        },
+        "details": [
+          "Autore, chitarrista e tastierista dei Black Russian e dei Masters of Dreams",
+          "Chitarrista/Batterista degli Allister (ex Annake)",
+          "Produttore delle musiche per il backstage dei Fracasso Clandestino; regista: Fabrizio Derosas"
+        ]
+      },
+      {
+        "title": {
+          "it": "Teatro",
+          "en": "Theatre",
+          "zh": "戏剧"
+        },
+        "description": {
+          "it": "Esperienza in rappresentazioni teatrali e formazione",
+          "en": "Experience in theatrical performances and training",
+          "zh": "戏剧表演和培训经验"
+        },
+        "details": [
+          "Partecipazione a spettacoli teatrali",
+          "Laboratori di teatro drammatico",
+          "Recitazione nella commedia dell’arte classica"
+        ]
+      },
+      {
+        "title": {
+          "it": "Viaggi e cultura",
+          "en": "Travel and culture",
+          "zh": "旅行与文化"
+        },
+        "description": {
+          "it": "Interesse per viaggi, scambi culturali e comunità di ospitalità",
+          "en": "Interest in travel, cultural exchanges and hospitality communities",
+          "zh": "对旅行、文化交流和酒店社区的兴趣"
+        },
+        "details": [
+          "Amo viaggiare e scoprire nuove culture",
+          "Condivisione di esperienze culturali e linguistiche",
+          "Membro attivo degli hospitality club più noti",
+          "Co-fondatore di Leganes Camina",
+          "Geocacher"
+        ]
+      },
+      {
+        "title": {
+          "it": "Giochi e logica",
+          "en": "Games and logic",
+          "zh": "游戏与逻辑"
+        },
+        "description": {
+          "it": "Passione per sfide logiche e strategiche",
+          "en": "Passion for logical and strategic challenges",
+          "zh": "对逻辑和策略挑战的热情"
+        },
+        "details": [
+          "Scacchi",
+          "Enigmistica",
+          "Giochi di logica e matematici",
+          "Lateral thinking"
+        ]
+      }
+    ]
+  }
+]

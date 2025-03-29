@@ -1,0 +1,376 @@
+[
+  {
+    "date_begin": "1995-02",
+    "description": "Sviluppo di un compilatore sintattico per pascal completo di gestione delle precedenze tra gli operatori, tabelle degli errori, creazione dell’albero sintattico. Relatrice: Prof.ssa Nicoletta de Francesco.",
+    "id": "DP0001",
+    "name": {
+      "en": "Development of a syntactic compiler for pascal",
+      "it": "Sviluppo di un compilatore sintattico per pascal",
+      "zh": "Pascal 句法编译器的开发"
+    },
+    "technologies": [
+      "Pascal"
+    ]
+  },
+  {
+    "date_begin": "1999-03",
+    "description": "Confronto tra le caratteristiche dei principali linguaggi object oriented. Comprende una relazione sull’utilizzo dei linguaggi ad oggetti più comuni (tra i quali C++, Lisp, Clos, Smalltalk, Java, Eiffel). Relatore: Prof. Giuliano Armano.",
+    "id": "DP0002",
+    "name": {
+      "en": "Comparison of the characteristics of the main object oriented languages",
+      "it": "Confronto tra le caratteristiche dei principali linguaggi object oriented",
+      "zh": "主要面向对象语言的特性比较"
+    }
+  },
+  {
+    "date_begin": "2000-04",
+    "description": "Implementazione di un Client Webmail proprietrio, provvisto di una funzionale interfaccia web, di server smtp proprietario e di un client cgi per il relaying delle mail a server smtp esterni al dominio. Relatore: Prof. Giulio Concas.",
+    "id": "DP0003",
+    "name": {
+      "en": "Implementation of a proprietary Webmail Client",
+      "it": "Implementazione di un Client Webmail proprietario",
+      "zh": "专有 Webmail 客户端的实现"
+    },
+    "technologies": [
+      "C++",
+      "Networking"
+    ]
+  },
+  {
+    "date_begin": "2001-05",
+    "description": "Sviluppo di codice per la creazione di un client DDE in Dolphin Smalltalk e Visual Works con GUI, e per la connessione ODBC con Dolphin Smalltalk. Completo di documentazione ed esempi. Relatore: Prof. Michele Marchesi.",
+    "id": "DP0100",
+    "name": {
+      "en": "Code development for creating a DDE client in Dolphin Smalltalk",
+      "it": "Sviluppo di codice per la creazione di un client DDE in Dolphin Smalltalk",
+      "zh": "在带有 GUI 的 Dolphin Smalltalk，以及使用 Dolphin Smalltalk 进行 ODBC 连接"
+    },
+    "technologies": [
+      "Smalltalk",
+      "ODBC"
+    ]
+  },
+  {
+    "date_begin": "2002-01",
+    "description": "Sviluppo e documentazione completa di un software per la combinazione e la selezione dinamica dei classificatori in problemi di pattern recognition. Relatore: Prof. Fabio Roli.",
+    "id": "DP0200",
+    "name": {
+      "en": "Software for the combination and dynamic selection of classifiers",
+      "it": "Software per la combinazione e la selezione dinamica dei classificatori",
+      "zh": "在模式识别问题中，用于分类器组合和动态选择的软件的开发和完整文档"
+    }
+  },
+  {
+    "date_begin": "2003-01",
+    "description": "Creazione di codice ed interfaccia per alcuni tra i principali algoritmi di codifica di sorgente, con documentazione html e test di efficienza sulla compressione. Relatore: Prof. Daniele D. Giusto.",
+    "id": "DP0300",
+    "name": {
+      "en": "Interface for some of the main source coding algorithms",
+      "it": "Interfaccia per alcuni tra i principali algoritmi di codifica di sorgente",
+      "zh": "为一些主要的源代码编码算法创建代码和接口"
+    },
+    "technologies": [
+      "Web Development"
+    ]
+  },
+  {
+    "date_begin": "2007-01",
+    "description": "Sviluppo portali per convegni e conferenze (e.g., Nettab 2006, AIIA 2008, IABC/ MASLS/ TIR/ DMBIO, NLP 2008. IIA 2008, WORSAR 2009), mostre e attività culturali e legate al mondo dello spettacolo (e.g., PhotoVoice Sardegna, LeganesCamina, Follevolo – Rivista Online di Alchimie Creative), wiki, server e interfacce web per la gestione di repository di dati (e.g., Bioclassifier);",
+    "id": "DP0701",
+    "links": [
+      {
+        "name": "Nettab 2006",
+        "url": "http://www.nettab.org/2006/"
+      },
+      {
+        "name": "AIIA 2008",
+        "url": "http://iasc2.diee.unica.it/aiia2008-it/"
+      },
+      {
+        "name": "IABC/ MASLS/ TIR/ DMBIO",
+        "url": "#"
+      },
+      {
+        "name": "NLP 2008",
+        "url": "#"
+      },
+      {
+        "name": "IIA 2008",
+        "url": "#"
+      },
+      {
+        "name": "WORSAR 2009",
+        "url": "#"
+      },
+      {
+        "name": "PhotoVoice Sardegna",
+        "url": "#"
+      },
+      {
+        "name": "LeganesCamina",
+        "url": "#"
+      },
+      {
+        "name": "Follevolo – Rivista Online di Alchimie Creative",
+        "url": "#"
+      },
+      {
+        "name": "Bioclassifier",
+        "url": "#"
+      }
+    ],
+    "technologies": [
+      "Web Development"
+    ],
+    "name": {
+      "en": "Portal development for conferences and conventions",
+      "it": "Sviluppo portali per convegni e conferenze",
+      "zh": "会议门户网站开发"
+    }
+  },
+  {
+    "date_begin": "1996-09",
+    "date_end": "1997-09",
+    "description": "Responsabile Informatico e delle Attività di Segreteria Comando del Porto, Compartimento e Direzione Marittima e Navale. Mansioni di Polizia Giudiziaria e Guardia Costiera durante l’Operazione Spiagge Libere e Sicure 1997 (Villasimius), Assistenza Natanti e Soccorso Bagnanti; Capitaneria di porto, Cagliari; Responsabile Segreteria Comando: C° Pietro Arca; Conseguita una specializzazione corrispondente alla IIIª qualifica funzionale;",
+    "id": "WA0001",
+    "name": {
+      "en": "IT and Secretary Activities Manager",
+      "it": "Responsabile Informatico e delle Attività di Segreteria",
+      "zh": "IT 和秘书活动经理"
+    }
+  },
+  {
+    "date_begin": "1999",
+    "date_end": "2001",
+    "description": "Analista Software, Sviluppatore Web; Gallura Internet S.R.L., Arzachena – ditta sviluppatrice di portali per le aziende e provider di servizi internet per la Gallura; Arzachena, Sassari;",
+    "id": "WA0002",
+    "links": [
+      {
+        "name": "Gallura Internet S.R.L.",
+        "url": "#"
+      }
+    ],
+    "name": {
+      "en": "Software Analyst, Web Developer",
+      "it": "Analista Software, Sviluppatore Web",
+      "zh": "软件分析师，Web 开发人员"
+    },
+    "technologies": [
+      "Web Development",
+      "Networking",
+      "System Administration"
+    ]
+  },
+  {
+    "activities": [
+      "Sviluppo siti Web"
+    ],
+    "date_begin": "2003-11",
+    "date_end": "2004-11",
+    "description": "Consulente Informatico, Operatore Tecnico; BlackMoon Night Distribuzione, Cagliari – ditta di servizi, produzione di media, consulenza, supporto logistico e tecnico per artisti, locali e mondo dello spettacolo. Organizzazione e promozione di eventi artistici e discografici; Cagliari;",
+    "id": "WA0311",
+    "links": [
+      {
+        "name": "BlackMoon S.r.l.",
+        "url": "#"
+      },
+      {
+        "name": "Elettrodomestici G.e.C.",
+        "url": "#"
+      },
+      {
+        "name": "La boutique dell'insolito",
+        "url": "#"
+      }
+    ],
+    "name": {
+      "en": "IT Consultant, Technical Operator",
+      "it": "Consulente Informatico, Operatore Tecnico",
+      "zh": "信息技术顾问，技术操作员"
+    },
+    "technologies": [
+      "Web Development"
+    ]
+  },
+  {
+    "date_begin": "2005-10-19",
+    "date_end": "2005-11-25",
+    "description": "Project “Digital Media Center (DMC) – Verso una soluzione innovativa di accesso a grandi volumi di informazioni multimediali” per la “Realizzazione dell’Architettura ad Agenti per la Classificazione di Testi”; University of Cagliari; Scientific Supervisor: prof. G. Armano – DIEE, UNICA; Funding: COSMIC s.p.a. and Arcadia Design S.R.L.; Status: ended (2005-2006);",
+    "id": "WA0510",
+    "links": [
+      {
+        "name": "COSMIC s.p.a.",
+        "url": "#"
+      },
+      {
+        "name": "Arcadia Design S.R.L.",
+        "url": "#"
+      }
+    ],
+    "name": {
+      "en": "Realization of the Agent Architecture for Text Classification",
+      "it": "Realizzazione dell’Architettura ad Agenti per la Classificazione di Testi",
+      "zh": "用于文本分类的代理架构的实现"
+    },
+    "technologies": [
+      "Software Agent Architectures"
+    ]
+  },
+  {
+    "date_begin": "2006-01-25",
+    "date_end": "2006-09-30",
+    "description": "Mode – Metodologie e soluzioni a supporto dell’impostazione e della gestione dei modelli di sviluppo; Università degli Studi di Cagliari per lo “Studio preliminare per la relizzazione di una infrastruttura ad agenti finalizzato allo studio di serie storiche”; Scientific Supervisor: prof. G. Armano – DIEE, UNICA; Acronym: MODE; Funding: MIUR (Italian Ministry of University and Research); In collaboration with: ATLANTIS S.P.A. (Cagliari – Italy) and ISAE (Rome – Italy); Status: ended (2006);",
+    "id": "WA0601",
+    "links": [
+      {
+        "name": "ATLANTIS S.P.A.",
+        "url": "#"
+      },
+      {
+        "name": "ISAE",
+        "url": "#"
+      }
+    ],
+    "name": {
+      "en": "Preliminary study for the realization of an agent infrastructure aimed at the study of historical series",
+      "it": "Studio preliminare per la relizzazione di una infrastruttura ad agenti finalizzato allo studio di serie storiche",
+      "zh": "旨在研究历史序列的代理基础设施实现的初步研究"
+    },
+    "technologies": [
+      "Software Agent Architectures"
+    ]
+  },
+  {
+    "date_begin": "2006-11-08",
+    "date_end": "2007-06-09",
+    "description": "MEDIA DART – Strumenti di supporto distribuiti, basati su agenti software, per il recupero di informazioni (Distributed Agent-based Retrieval Tools), attività di ricerca: “Architettura distribuita per le ricerche semantiche e la fruizione personalizzata dei contenuti” per lo “Studio dei casi d’uso per il sistema di profilazione utente nell’ambito di MEDIA-DART”; University of Cagliari; Scientific Supervisor: prof. G. Armano – DIEE, UNICA, OR13 A13.3; Acronym: DART; Funding: L97 DART, MIUR; In collaboration with: TISCALI s.p.a. (Cagliari – Italy) and CRS4; Status: ended (2005-2008);",
+    "id": "WA0611",
+    "links": [
+      {
+        "name": "TISCALI s.p.a.",
+        "url": "http://www.tiscali.it/"
+      },
+      {
+        "name": "CRS4",
+        "url": "http://www.crs4.it/"
+      }
+    ],
+    "name": {
+      "en": "Distributed architecture for semantic searches and personalized content usage",
+      "it": "Architettura distribuita per le ricerche semantiche e la fruizione personalizzata dei contenuti",
+      "zh": "用于语义搜索和个性化内容使用的分布式架构"
+    },
+    "technologies": [
+      "Software Agent Architectures"
+    ]
+  },
+  {
+    "date_begin": "2006-12-01",
+    "date_end": "2007-11-31",
+    "description": "CyberSAR – Attività di ricerca: “Realizzare un insieme di procedure software per la lettura e l’analisi di tracciati biomedicali utilizzando tecniche innovative finalizzate a facilitare la manutenzione e il riuso del software”; University of Cagliari; Scientific Supervisor: prof. Giuseppe Mazzarella (DIEE); Cosmolab: Consorzio per il supercalcolo, la modellistica computazionale e la gestione di grandi database, Progetto CyberSAR, Funding: FESR e FDR (Legge 183/87) – D.D. 253/RIC del 2006-02-14, Status: ended (2005-2008);",
+    "id": "WA0612",
+    "name": {
+      "en": "Create a set of software procedures for reading and analyzing biomedical traces using innovative techniques aimed at facilitating software maintenance and reuse",
+      "it": "Realizzare un insieme di procedure software per la lettura e l’analisi di tracciati biomedicali utilizzando tecniche innovative finalizzate a facilitare la manutenzione e il riuso del software",
+      "zh": "创建一套软件程序，用于使用创新技术读取和分析生物医学轨迹，旨在促进软件维护和重用"
+    },
+    "technologies": [
+      "Software Agent Architectures",
+      "Bioinformatics"
+    ]
+  },
+  {
+    "date_begin": "2007-09-25",
+    "date_end": "2008-03-24",
+    "description": "SOFIA – Sistema online per la Formazione, l’Insegnamento, e l’Apprendimento, per lo svolgimento delle attività di studio e realizzazione di algoritmi avanzati per la categorizzazione delle informazioni, sul tema “Progettazione, sviluppo e sperimentazione di algoritmi per la categorizzazione automatica, o semiautomatica, sui documenti presenti nel MAM del progetto SOFIA”; Unitelsardegna – Consorzio Interuniversitario per l’Università Telematica della Sardegna; Scientific Supervisor: prof. Fabio Roli (DIEE – Università degli Studi di Cagliari); Funding: POR Sardegna 200–2006, Asse III, Misura 3.7, Azione 3.7B;",
+    "id": "WA0709",
+    "name": {
+      "en": "Design, development and experimentation of algorithms for automatic, or semi-automatic, categorization on the documents in the MAM of the SOFIA project",
+      "it": "Progettazione, sviluppo e sperimentazione di algoritmi per la categorizzazione automatica, o semiautomatica, sui documenti presenti nel MAM del progetto SOFIA",
+      "zh": "在 SOFIA 项目的 MAM 中，设计、开发和试验用于文档自动或半自动分类的算法"
+    },
+    "technologies": [
+      "Software Agent Architectures"
+    ]
+  },
+  {
+    "date_begin": "2008-01-23",
+    "date_end": "2009-01-23",
+    "description": "Assegno di Ricerca; Progetto “Studio e Sperimentazione di tecniche di apprendimento automatico in ambito bioinformatico” (Study and experimentation of algorithms and infrastructures for sequence analysis in bioinformatics). D.R. n.173 del 2007-11-20 per il raggruppamento ING-INF/05 (Sistemi di Elaborazione delle Informazioni); University of Cagliari; Scientific Supervisor: prof. G. Armano – DIEE, UNICA; Acronym: CYBERSAR/BIO; Funding: MIUR (DIEE, UNICA; Funding: 70% sui fondi ITALBIONET 30% fondi bilancio università;);",
+    "id": "WA0801",
+    "name": {
+      "en": "Study and Experimentation of Machine Learning techniques in the bioinformatics field",
+      "it": "Studio e Sperimentazione di tecniche di apprendimento automatico in ambito bioinformatico",
+      "zh": "生物信息学领域中机器学习技术的研究与实验"
+    },
+    "technologies": [
+      "Machine Learning",
+      "Bioinformatics",
+      "Project Management" 
+    ]
+  },
+  {
+    "date_begin": "2008-01-04",
+    "date_end": "2008-03-05",
+    "description": "FIRB – Piattaforme e Reti, ITALBIONET; Progetto “Realizzazione di un framework ad agenti per la predizione di strutture secondarie”; University of Cagliari; Scientific Supervisor: prof. G. Armano – DIEE, UNICA; Funding: ITALBIONET;",
+    "id": "WA0802",
+    "name": {
+      "en": "Realization of an agent framework for the prediction of secondary structures",
+      "it": "Realizzazione di un framework ad agenti per la predizione di strutture secondarie",
+      "zh": "用于预测二级结构的代理框架的实现"
+    },
+    "technologies": [
+      "Software Agent Architectures"
+    ]
+  },
+  {
+    "date_begin": "2009-02-26",
+    "date_end": "2009-06-08",
+    "description": "Conferimento Borsa di studio Erasmus in Informatics and Computer Sciences con destinazione Università Carlos III di Madrid (E.Madrid14), Anno 2009. Collaborazione con i gruppi di ricerca CAOS – Control, Aprendizaje y Optimización de Sistemas e PLG – Planning and Learning research Group; Direzione ISMOKA – per le relazioni internazionali, Settore Mobilità Studentesca e Fund Rising, University of Cagliari; Supervisor: Prof. Daniel Borrajo, PLG Group, Univ. Carlos III, Madrid; [->IC10, ->BC2];",
+    "id": "WA0902",
+    "links": [
+      {
+        "name": "Università Carlos III di Madrid",
+        "url": "#"
+      }
+    ],
+    "name": {
+      "en": "Award of Erasmus scholarship in Informatics and Computer Sciences",
+      "it": "Conferimento Borsa di studio Erasmus in Informatics and Computer Sciences",
+      "zh": "信息学和计算机科学领域 Erasmus 奖学金的授予"
+    }
+  },
+  {
+    "date_begin": "2009-09-09",
+    "date_end": "2009-11-09",
+    "description": "Italbionet – su tema “Sperimentazione di Tecniche di Information Retrieval per l’Analisi e la Gestione di Dati Biologici”; University of Cagliari; Scientific Supervisor: prof. G. Armano – DIEE, UNICA; Funding: FIRB; 5000 euro;",
+    "id": "WA0909",
+    "name": {
+      "en": "Experimentation of Information Retrieval Techniques for the Analysis and Management of Biological Data",
+      "it": "Sperimentazione di Tecniche di Information Retrieval per l’Analisi e la Gestione di Dati Biologici",
+      "zh": "信息检索技术在生物数据分析和管理中的实验"
+    },
+    "technologies": [
+      "Bioinformatics",
+      "Information Retrieval",
+      "Text Categorization",
+      "Machine Learning"
+    ]
+  },
+  {
+    "date_begin": "2010-05-30",
+    "date_end": "2012-05-30",
+    "description": "Conferimento Borsa di Ricerca, bando “Pubblica selezione per il conferimento di Borse di Ricerca destinate a giovani ricercatori; . Determinazione n.7413/494 del 21 ottobre 2009, bando pubblicato sulla Legge Regionale n.7 del 7 agosto 2007, con il progetto denominato “Studio di tecniche di meta-learning per la classificazione gerarchica di documenti” per l’area di ricerca <em>Scienze Informatiche</em>; RAS – Regione Autonoma della Sardegna; Supervisor: RAS; Funding: Sardinia POR FSE 2007-2013, L.R. 7/2007 nel progetto “Promotion della Ricerca Scientifica e dell’Innovazione Tecnologica in Sardegna”; rif. Comunicazione del 2010-02-19;",
+    "id": "WA1005",
+    "name": {
+      "en": "Award of Research Grant",
+      "it": "Conferimento Borsa di Ricerca",
+      "zh": "研究补助金的授予"
+    },
+    "technologies": [
+      "Machine Learning",
+      "Text Categorization",
+      "Project Management"
+    ]
+  }
+]

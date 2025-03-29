@@ -1,0 +1,188 @@
+[
+    {
+        "name": "Talks and Seminars",
+        "description": "A list of talks and seminars I have presented.",
+        "items": [
+            {
+                "id": "SIFD2022",
+                "title": "Intersemiotic Translation of Contracts into the Digital Realm",
+                "date_begin": "2022-06-22",
+                "date_end": "2022-06-23",
+                "description": "Olimpia Loddo (Università di Cagliari) e Andrea Addis (Infora)  Presented at: Legal design and contractual forms",
+                "details": [
+                    "Department of law, University of Cagliari"
+                ],
+                "links": [
+                    {
+                        "name": "Flyer",
+                        "url": "https://andreaaddis.wordpress.com/wp-content/uploads/2022/06/sifd-2022-locandina.pdf"
+                    },
+                    {
+                        "name": "Website",
+                        "url": "http://www.sifd.eu/?p=11453"
+                    }
+                ]
+            },
+            {
+                "id": "PROV2013",
+                "title": "Tecnologia e opportunità per la terza età.",
+                "date_begin": "2013-06-15",
+                "description": "La casa interconnessa, prevenzione e rilevazione delle cadute",
+                "details": [
+                    "Palazzo Regio, Cagliari"
+                ],
+                "links": [
+                    {
+                        "name": "flyer",
+                        "url": "http://infodev.files.wordpress.com/2013/05/anziani-flyer-programma-5.pdf"
+                    }
+                ]
+            },
+            {
+                "id": "Ablativ2012",
+                "title": "Assessment of Metalearning Techniques for Optimizing Hierarchical Setting",
+                "date_begin": "2012-05-10",
+                "description": "Assessment of Metalearning Techniques for Optimizing",
+                "details": [
+                    "ABLATIV scrl., Cagliari"
+                ]
+            },
+            {
+                "id": "HOPLO2011",
+                "title": "Meta Learning Techniques for Threshold Optimization in a Hierarchical Setting",
+                "date_begin": "2011-04-08",
+                "description": "Mini Workshop @Hoplo",
+                "details": [
+                    "DIEE, University of Cagliari"
+                ]
+            },
+            {
+                "id": "IADIS2010",
+                "title": "A Novel Recommender System Inspired by Contextual Advertising Approach",
+                "date_begin": "2010-07-29",
+                "date_end": "2010-07-31",
+                "description": "IADIS: International Conference Intelligent Systems and Agents 2010",
+                "details": [
+                    "Freiburg, Germany"
+                ]
+            },
+            {
+                "id": "RCRA2010",
+                "title": "Experimental Assessment of a Threshold Selection Algorithm for Tuning Classifiers in the Field of Hierarchical Text Categorization",
+                "date_begin": "2010-06-10",
+                "date_end": "2010-06-11",
+                "description": "RCRA 2010: 17th RCRA International Workshop, Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion",
+                "details": [
+                    "DEIS: Dipartimento di Elettronica, Informatica e Sistemistica, Facoltà di Ingegneria, Bologna, Italy"
+                ]
+            },
+            {
+                "id": "ECIR2010",
+                "title": "Using the Progressive Filtering Approach to Deal with Input Imbalance in Large-Scale Taxonomies",
+                "date_begin": "2010-03-28",
+                "description": "LSHTC Large-Scale Hierarchical Classification Workshop at 32nd European Conference on Information Retrieval (ECIR)",
+                "details": [
+                    "The Open University in Milton Keynes, UK"
+                ]
+            },
+            {
+                "id": "WORSAR2009",
+                "title": "Studio e sperimentazione di tecniche di apprendimento automatico in ambito bioinformatico",
+                "date_begin": "2009-09-24",
+                "date_end": "2009-09-25",
+                "description": "WORSAR 2009: I Workshop Regionale Sardo degli Assegnisti di Ricerca",
+                "details": [
+                    "Cittadella Universitaria di Monserrato, Cagliari"
+                ]
+            },
+            {
+                "id": "WOA2009",
+                "title": "Monitoring Boats in Marine Reserves: A MAS Solution",
+                "date_begin": "2009-07-09",
+                "date_end": "2009-07-10",
+                "description": "WOA 2009, Verso il Futuro dei Sistemi Software Basati su Agenti",
+                "details": [
+                    "Centro Congressi Sant'Elisabetta, Dipartimento di Ingegneria, Università degli studi di Parma"
+                ]
+            },
+            {
+                "id": "CIII2009",
+                "title": "Exploiting Internet Knowledge Base for Planning Purposes",
+                "date_begin": "2009-05-26",
+                "description": "Meeting with Planning & Learning Group",
+                "details": [
+                    "University Carlos III of Madrid, Spain"
+                ]
+            },
+            {
+                "id": "PhDDay2009",
+                "title": "Infrastuctures for Information Retrieval and Data Analysis",
+                "date_begin": "2009-02-25",
+                "description": "Doctoral Day 2009",
+                "details": [
+                    "DIEE, University of Cagliari"
+                ]
+            },
+            {
+                "id": "SF2008",
+                "title": "Hierarchical Text Categorization",
+                "date_begin": "2008-06-09",
+                "description": "Meeting with the Group of Logic and Mathematics",
+                "details": [
+                    "Dipartimento di Scienze della Formazione, University of Cagliari, Italy"
+                ]
+            },
+            {
+                "id": "WOA2007b",
+                "title": "Automatic Press Reviewer",
+                "date_begin": "2007-09-24",
+                "description": "WOA 2007, dagli Oggetti agli Agenti; Agenti e Industria: Applicazioni tecnologiche degli agenti software; Sessione illustrativa dei prototipi software, e sessione dimostrativa",
+                "details": [
+                    "Dept. of Engineering, University of Genova, Italy"
+                ]
+            },
+            {
+                "id": "WOA2007a",
+                "title": "News Retrieval through a MultiAgent System",
+                "date_begin": "2007-09-24",
+                "description": "WOA 2007, dagli Oggetti agli Agenti; Agenti e Industria: Applicazioni tecnologiche degli agenti software; Sessione sulle Tecnologie ed approcci per il recupero di risorse guidato dalla semantica",
+                "details": [
+                    "Dept. of Engineering, University of Genova, Italy"
+                ]
+            },
+            {
+                "id": "JavaDay2006",
+                "title": "Programmazione Orientata agli Agenti in Java",
+                "date_begin": "2006-11-25",
+                "description": "JavaDay 2006; Andrea Addis, Giancarlo Cherchi, Eloisa Vargiu",
+                "details": [
+                    "DIEE, University of Cagliari"
+                ],
+                "links": [
+                    {
+                        "name": "flyer",
+                        "url": "http://www.jugsardegna.org/vqwiki/jsp/Wiki?action=action_view_attachment&attachment=20062311175307563-0-locandina+javaday.pdf"
+                    }
+                ]
+            },
+            {
+                "id": "DART2006",
+                "title": "A MultiAgent System for Personalized Press Reviews",
+                "date_begin": "2006-03-13",
+                "description": "Meeting with the Pattern Recognition Applications Group; Andrea Addis, Ivan Manca, Andrea Manconi, Eloisa Vargiu",
+                "details": [
+                    "DIEE, University of Cagliari"
+                ]
+            },
+            {
+                "id": "CRS42006",
+                "title": "PACMAS: A Personalized, Adaptive, and Cooperative MultiAgent System",
+                "date_begin": "2006-03-09",
+                "description": "Meeting at CRS4, Center for Advanced Studies, Research and Development in Sardinia; Andrea Addis, Giancarlo Cherchi, Eloisa Vargiu",
+                "details": [
+                    "Pula (CA)"
+                ]
+            }
+        ]
+    }
+]

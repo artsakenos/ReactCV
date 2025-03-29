@@ -1,0 +1,475 @@
+[
+  {
+    "id": "DP1211",
+    "name": {
+      "it": "Piattaforma editoriale per il giornalismo iperlocale",
+      "en": "Editorial platform for hyperlocal journalism",
+      "zh": "用于超本地新闻的编辑平台"
+    },
+    "date_begin": "2012-11",
+    "description": "Piattaforma editoriale per il giornalismo iperlocale; Una piattaforma web che implementa il processo di pubblicazione nel contesto di un giornale iperlocale. Georeferenziazione e semantificazione dei contenuti sono elementi centrali in questo contesto. La piattaforma è stata utilizzata dal giornale locale Casteddu Online (<a href=\"http://www.castedduonline.it/milione-lettori-mese-casteddu-online-grazie-tutti\">rassegna</a>).",
+    "activities": [
+      "Georeferenziazione",
+      "Semantificazione contenuti"
+    ],
+    "links": [
+      {
+        "name": "Casteddu Online",
+        "url": "http://www.castedduonline.it/milione-lettori-mese-casteddu-online-grazie-tutti"
+      }
+    ],
+    "technologies": [
+      "Drupal",
+      "Semantic Web"
+    ]
+  },
+  {
+    "id": "DP1311",
+    "name": {
+      "it": "Java UltraCam",
+      "en": "Java UltraCam",
+      "zh": "Java UltraCam"
+    },
+    "date_begin": "2013-11",
+    "description": "Java UltraCam – Soluzione in Java puro per la computer vision",
+    "technologies": [
+      "Java",
+      "Computer Vision"
+    ],
+    "links": [
+      {
+        "name": "Java UltraCam",
+        "url": "https://infodev.wordpress.com/2013/11/05/ultracam/"
+      }
+    ]
+  },
+  {
+    "id": "DP1404",
+    "name": {
+      "it": "Terrain Generation",
+      "en": "Terrain Generation",
+      "zh": "地形生成"
+    },
+    "date_begin": "2014-04",
+    "description": "<a href=\"https://www.youtube.com/watch?v=K00MDlhW6fc\">Terrain Generation</a> – Algoritmo per la generazione di terreni dal Perlin Noise",
+    "links": [
+      {
+        "name": "Terrain Generation Algorithm",
+        "url": "https://www.youtube.com/watch?v=K00MDlhW6fc"
+      }
+    ],
+    "technologies": [
+      "Java"
+    ]
+  },
+  {
+    "id": "DP1405",
+    "name": {
+      "it": "Geocaching Notifier",
+      "en": "Geocaching Notifier",
+      "zh": "寻宝游戏通知器"
+    },
+    "date_begin": "2014-05",
+    "description": "<a href=\"https://infodev.wordpress.com/2014/04/15/geocaching-notifier/\">Geocaching Notifier</a> – GC FTF (20k installazioni free, 300 Pro, in due anni) – Applicazione Desktop (con notifiche SMS) e Android per la notifica di nuove cache.",
+    "links": [
+      {
+        "name": "Geocaching Notifier",
+        "url": "https://infodev.wordpress.com/2014/04/15/geocaching-notifier/"
+      },
+      {
+        "name": "Geocaching Notifier on Github",
+        "url": "https://github.com/artsakenos/gcftf"
+      }
+    ],
+    "technologies": [
+      "Java",
+      "Android"
+    ]
+  },
+  {
+    "id": "DP1411",
+    "name": {
+      "it": "Bulk Creator",
+      "en": "Bulk Creator",
+      "zh": "批量创建器"
+    },
+    "date_begin": "2014-11",
+    "description": "<a href=\"https://www.drupal.org/project/bulk_creator\">Bulk Creator</a> – Modulo per Drupal 7 per la creazione automatica di tipi di contenuto e field, anche tramite name pattern.",
+    "technologies": [
+      "Drupal"
+    ],
+    "links": [
+      {
+        "name": "Bulk Creator",
+        "url": "https://www.drupal.org/project/bulk_creator"
+      }
+    ]
+  },
+  {
+    "id": "DP1412",
+    "name": {
+      "it": "Barking Dog Responder",
+      "en": "Barking Dog Responder",
+      "zh": "犬吠应答器"
+    },
+    "date_begin": "2014-12",
+    "description": "Barking Dog Responder – App Android per l’addestramento dei cani all’abbaio, 50k+ download in due anni.",
+    "links": [
+      {
+        "name": "Barking Dog Responder",
+        "url": "https://play.google.com/store/apps/details?id=it.infodev.dogbarker"
+      }
+    ],
+    "technologies": [
+      "Android"
+    ]
+  },
+  {
+    "id": "DP1507",
+    "name": {
+      "it": "Facebook Promoter",
+      "en": "Facebook Promoter",
+      "zh": "Facebook推广者"
+    },
+    "date_begin": "2015-07",
+    "description": "Facebook Promoter – Applicazione Bot per la promozione e la condivisione di articoli su Facebook",
+    "links": [
+      {
+        "name": "Facebook Promoter",
+        "url": "https://infodev.wordpress.com/2015/07/10/facebook-promoter/"
+      }
+    ],
+    "technologies": [
+      "Java",
+      "Social Networking"
+    ]
+  },
+  {
+    "id": "DP1512",
+    "name": {
+      "it": "Chinese Driver License",
+      "en": "Chinese Driver License",
+      "zh": "中国驾驶证"
+    },
+    "date_begin": "2015-12",
+    "description": "Chinese Driver License - Applicazione per lo studio dei test della patente di guida in Cina",
+    "technologies": [
+      "Android"
+    ],
+    "links": [
+      {
+        "name": "Chinese Driver License (Free)",
+        "url": "https://play.google.com/store/apps/details?id=tk.artsakenos.chinesedriverlicense"
+      },
+      {
+        "name": "Chinese Driver License (Pro)",
+        "url": "https://play.google.com/store/apps/details?id=tk.artsakenos.chinesedriverlicense_pro"
+      }
+    ]
+  },
+  {
+    "id": "WA1108",
+    "name": {
+      "it": "Cofondatore, Responsabile delle Architetture Software, Senior Developer",
+      "en": "Co-founder, Head of Software Architectures, Senior Developer",
+      "zh": "联合创始人，软件架构负责人，高级开发人员"
+    },
+    "description": "Cofondatore, Responsabile delle Architetture Software, Senior Developer INFORA, Soluzioni informatiche avanzate",
+    "date_begin": "2011-08",
+    "technologies": [
+      "Business Process Management",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "WA1209",
+    "name": {
+      "it": "Portale del Comune di Sestu",
+      "en": "Portal of the Municipality of Sestu",
+      "zh": "塞斯图市政府门户网站"
+    },
+    "date_begin": "2012-09",
+    "description": "Portale del <a href=\"http://www.comune.sestu.ca.it/\">Comune di Sestu</a>; Update del portale, sezione Trasparenza",
+    "links": [
+      {
+        "name": "Comune di Sestu",
+        "url": "http://www.comune.sestu.ca.it/"
+      }
+    ],
+    "technologies": [
+      "Drupal",
+      "Web Development"
+    ]
+  },
+  {
+    "id": "WA1210",
+    "name": {
+      "it": "Infopoint Wifi",
+      "en": "Infopoint Wifi",
+      "zh": "Infopoint Wifi"
+    },
+    "description": "Infopoint Wifi; Sviluppo di una applicazione di content delivery distribuita, una tecnologia di diffusione di informazioni e advertising localizzata e personalizzabile. Il contributo principale consiste nello sviluppo della piattaforma editoriale, basata su CMS Drupal, che distribuisce automaticamente i contenuti tra i dispositivi Infopoint dislocati nel territorio.",
+    "activities": [
+      "Content Delivery",
+      "Advertising",
+      "Piattaforma Editoriale"
+    ],
+    "technologies": [
+      "Drupal",
+      "Embedded"
+    ],
+    "date_begin": "2012-12"
+  },
+  {
+    "id": "WA1212",
+    "name": {
+      "it": "Sito di supporto e ticketing",
+      "en": "Support and ticketing site",
+      "zh": "支持和票务网站"
+    },
+    "description": "Infora – sito di supporto e ticketing",
+    "links": [
+      {
+        "name": "sito di supporto e ticketing",
+        "url": "http://supporto.infora.it/"
+      }
+    ],
+    "date_begin": "2012-12",
+    "technologies": [
+      "Drupal",
+      "Web Development"
+    ],
+    "activities": [
+      "Creazione del sito di supporto"
+    ]
+  },
+  {
+    "id": "WA1301",
+    "name": {
+      "it": "Sardegna Turismo",
+      "en": "Sardinia Tourism",
+      "zh": "撒丁岛旅游"
+    },
+    "description": "RAS – Sardegna Turismo; Creazione della sezione eventi e rifiniture alla grafica del portale.",
+    "links": [
+      {
+        "name": "Sardegna Turismo",
+        "url": "http://www.sardegnaturismo.it/"
+      }
+    ],
+    "technologies": [
+      "Drupal",
+      "Web Development"
+    ],
+    "date_begin": "2013-01"
+  },
+  {
+    "id": "WA1303",
+    "name": {
+      "it": "Sardegna Sentieri",
+      "en": "Sardinia Trails",
+      "zh": "撒丁岛小径"
+    },
+    "description": "RAS – Sardegna Sentieri; Evoluzione del sito della sentieristica in Sardegna Sentieri, sito tematico dell’Ente Foreste che consente di navigare interattivamente le informazioni georeferenziate associate ai percorsi naturalistici della Sardegna. Per tale progetto è stato sviluppato il modulo <a href=\"https://www.drupal.org/project/route_elevation\">Route Elevation</a> per il calcolo di un profilo altimetrico.",
+    "technologies": [
+      "Drupal",
+      "GIS"
+    ],
+    "links": [
+      {
+        "name": "Sentieristica",
+        "url": "http://www.sardegnaambiente.it/foreste/foreste_parchi/sentieri.html"
+      },
+      {
+        "name": "Sardegna Sentieri",
+        "url": "http://www.sardegnasentieri.it/"
+      },
+      {
+        "name": "Route Elevation",
+        "url": "https://www.drupal.org/project/route_elevation"
+      }
+    ],
+    "date_begin": "2013-03"
+  },
+  {
+    "id": "WA1304",
+    "name": {
+      "it": "Secure RVid",
+      "en": "Secure RVid",
+      "zh": "安全RVid"
+    },
+    "description": "Secure RVid. Progetto di ricerca e sviluppo sull’integrazione tra sistemi in radio frequenza e sistemi di computer vision. Sensori di moto, riconoscimento facciale, analisi dell’abbigliamento, posizione e traiettoria misurati da tag rfid uwb sono esempi di informazioni eterogenee fuse tramite un sistema di intelligenza artificiale capace di riconoscere contesti e generare allarmi.",
+    "activities": [
+      "Computer Vision",
+      "Riconoscimento Facciale",
+      "Analisi Abbigliamento",
+      "Tag RFID UWB",
+      "Intelligenza Artificiale"
+    ],
+    "technologies": [
+      "Computer Vision",
+      "Machine Learning",
+      "IoT"
+    ],
+    "date_begin": "2013-04"
+  },
+  {
+    "id": "WA1307",
+    "name": {
+      "it": "SUAP, Sportello Unico Attività Produttive",
+      "en": "SUAP, Single Desk for Productive Activities",
+      "zh": "SUAP，生产活动单一窗口"
+    },
+    "description": "SUAP, Sportello Unico Attività Produttive; Creazione di un CRM per la gestione delle anagrafiche e delle comunicazioni tra compagnie e autorità locali all’interno delle procedure SUAP. In particolare sviluppo e integrazione delle librerie per l’invio e ricezione della posta in un contesto multiaccount SUAP. L’applicazione è stata realizzata in Java Spring MVC + Mybatis.",
+    "activities": [
+      "CRM",
+      "Configurazioni MyBatis",
+      "Gestione Anagrafiche",
+      "Comunicazioni Aziende-Autorità"
+    ],
+    "technologies": [
+      "Java",
+      "Spring",
+      "Search Engines"
+    ],
+    "date_begin": "2013-07"
+  },
+  {
+    "id": "WA1308",
+    "name": {
+      "it": "TPE: Tourisme, Ports Environnement",
+      "en": "TPE: Tourism, Ports Environment",
+      "zh": "TPE：旅游、港口环境"
+    },
+    "description": "<a href=\"http://www.acrosstirreno.eu/\">TPE: Tourisme, Ports Environnement</a>; Realizzazione del portale per la diportistica sul Tirreno, sviluppato all’interno del Programma di cooperazione transfrontaliera Italia/Francia “<a href=\"http://www.maritimeit-fr.net/\">Marittimo</a>” e le regioni Liguria, Sardegna Toscana e Corsica. Per tale progetto è stato sviluppato e pubblicato il modulo <a href=\"https://www.drupal.org/project/osm_route\">OSM_Route</a>, per la creazione automatica di profili di routing e driving directions.",
+    "activities": [
+      "Portale Diportistica",
+      "Routing",
+      "Driving Directions"
+    ],
+    "technologies": [
+      "Drupal",
+      "Web Development"
+    ],
+    "links": [
+      {
+        "name": "TPE: Tourisme, Ports Environnement",
+        "url": "http://www.acrosstirreno.eu/"
+      },
+      {
+        "name": "Marittimo",
+        "url": "http://www.maritimeit-fr.net/"
+      },
+      {
+        "name": "OSM_Route",
+        "url": "https://www.drupal.org/project/osm_route"
+      }
+    ],
+    "date_begin": "2013-08"
+  },
+  {
+    "id": "WA1309",
+    "name": {
+      "it": "Ernest & Young",
+      "en": "Ernest & Young",
+      "zh": "安永"
+    },
+    "description": "Ernest & Young – Sviluppo di un sistema di controllo per gli indicatori finanziari",
+    "date_begin": "2013-09",
+    "technologies": [
+      "Java",
+      "Drupal"
+    ]
+  },
+  {
+    "id": "WA1310",
+    "name": {
+      "it": "Unica Travel",
+      "en": "Unica Travel",
+      "zh": "Unica Travel"
+    },
+    "description": "Unica Travel – Integrazioni e fix su architettura Zend; 2013-11-25, Sviluppo di un client/server in rest con Zend2 per l’esportazione di WebServices.",
+    "activities": [
+      "Integrazione Zend",
+      "Fix architettura Zend",
+      "Sviluppo Client/Server REST"
+    ],
+    "technologies": [
+      "Zend",
+      "Web Development"
+    ],
+    "date_begin": "2013-10"
+  },
+  {
+    "id": "WA1402",
+    "name": {
+      "it": "Sviluppo della suite Fidejus",
+      "en": "Development of the Fidejus suite",
+      "zh": "Fidejus 套件的开发"
+    },
+    "description": "Sviluppo della suite Fidejus, sistema informativo integrato rivolto alle esigenze dei consorzi di garanzia collettiva. Tale suite fornisce una soluzione innovativa per la gestione del flusso di dati nella pratica di attribuzione di un fido, modificando i canali e le modalità di fruizione di contenuti in base al ruolo degli utenti nel sistema.",
+    "activities": [
+      "Sistema informativo",
+      "Gestione flusso di dati",
+      "Attribuzione Fido"
+    ],
+    "date_begin": "2014-02",
+    "technologies": [
+      "Drupal",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "WA1404",
+    "name": {
+      "it": "Sviluppo della suite per la gestione dell’Elenco Professionisti per il Comune di Selargius",
+      "en": "Development of the suite for the management of the List of Professionals for the Municipality of Selargius",
+      "zh": "为塞拉尔吉乌斯市开发用于管理专业人士列表的套件"
+    },
+    "description": "Sviluppo della suite per la gestione dell’Elenco Professionisti per il Comune di Selargius.",
+    "date_begin": "2014-04",
+    "technologies": [
+      "Drupal",
+      "Web Development"
+    ]
+  },
+  {
+    "id": "WA1407",
+    "name": {
+      "it": "Sviluppo del sito istituzionale del Ministero dell’Interno",
+      "en": "Development of the institutional website of the Ministry of the Interior",
+      "zh": "内政部机构网站的开发"
+    },
+    "description": "Sviluppo del sito istituzionale del <a href=\"http://www.interno.gov.it/\">Ministero dell’Interno</a>.",
+    "links": [
+      {
+        "name": "Ministero dell’Interno",
+        "url": "http://www.interno.gov.it/"
+      }
+    ],
+    "date_begin": "2014-07",
+    "technologies": [
+      "Drupal",
+      "Web Development"
+    ]
+  },
+  {
+    "id": "WA1411",
+    "name": {
+      "it": "No Far Access",
+      "en": "No Far Access",
+      "zh": "无远距离访问"
+    },
+    "description": "No Far Access – Sito web di servizi di mobilità per utenti svantaggiati; Implementazione di sito e grafica.",
+    "activities": [
+      "Servizi di mobilità",
+      "Sito web",
+      "Grafica"
+    ],
+    "date_begin": "2014-11",
+    "technologies": [
+      "Drupal",
+      "Web Development"
+    ]
+  }
+]

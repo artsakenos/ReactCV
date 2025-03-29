@@ -1,0 +1,78 @@
+[
+  {
+    "name": {
+      "it": "Attività Didattiche",
+      "en": "Teaching Activities",
+      "zh": "教学活动"
+    },
+    "description": "Tutoring, teaching, and training activities.",
+    "items": [
+      {
+        "id": "Tutoring",
+        "title": {
+          "it": "Tutoraggi e Formazione per Imprese ed Enti di ricerca",
+          "en": "Tutoring and Training for Companies and Research Institutions",
+          "zh": "企业和研究机构的辅导与培训"
+        },
+        "date_begin": "2012",
+        "date_end": null,
+        "description": "Tutoring and Training for Companies and Research Institutions on developed platforms (e.g., Ministero, Abacons) for the use of web development technologies, databases, OOP language."
+      },
+      {
+        "id": "Tutoring",
+        "title": {
+          "it": "Tutor per Programmazione ad Oggetti 1",
+          "en": "Tutor for Object-Oriented Programming 1",
+          "zh": "面向对象编程 1 辅导员"
+        },
+        "date_begin": "2010",
+        "date_end": "2011",
+        "description": "Tutor for the course Programmazione ad Oggetti 1; Ingegneria Elettronica; II semester"
+      },
+      {
+        "id": "Tutoring",
+        "title": {
+          "it": "Tutor per Fondamenti di Basi di Dati per la Bioinformatica",
+          "en": "Tutor for Fundamentals of Databases for Bioinformatics",
+          "zh": "生物信息学数据库基础辅导员"
+        },
+        "date_begin": "2010",
+        "date_end": "2011",
+        "description": "Tutor for the course Fondamenti di Basi di Dati per la Bioinformatica; Ingegneria Biomedica; I semester"
+      },
+      {
+        "id": "Tutoring",
+        "title": {
+          "it": "Tutor per Fondamenti di Informatica II",
+          "en": "Tutor for Fundamentals of Computer Science II",
+          "zh": "计算机科学基础 II 辅导员"
+        },
+        "date_begin": "2010",
+        "date_end": "2011",
+        "description": "Tutor for the course Fondamenti di Informatica II; Ingegneria Elettronica; II semester"
+      },
+      {
+        "id": "Correlator",
+        "title": {
+          "it": "Correlatore per tesi",
+          "en": "Thesis Co-Advisor",
+          "zh": "论文协助导师"
+        },
+        "date_begin": "2007",
+        "date_end": "2008",
+        "description": "Correlatore for the thesis \"Sperimentazione di tecniche ibride per la profilazione utente\", I. Masala; Ingegneria Elettronica; December 2008"
+      },
+      {
+        "id": "Teaching",
+        "title": {
+          "it": "Docente di Fondamenti di Informatica I",
+          "en": "Teacher of Fundamentals of Computer Science I",
+          "zh": "计算机科学基础 I 教师"
+        },
+        "date_begin": "2005",
+        "date_end": "2006",
+        "description": "Teacher of the course Fondamenti di Informatica I; Beni Culturali, Lettere e Filosofia; II semestre"
+      }
+    ]
+  }
+]

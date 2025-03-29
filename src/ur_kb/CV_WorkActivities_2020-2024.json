@@ -1,0 +1,626 @@
+[
+  {
+    "id": "DP2001",
+    "name": {
+      "it": "Asynchronous Publisher",
+      "en": "Asynchronous Publisher",
+      "zh": "异步发布者"
+    },
+    "date_begin": "2020-01",
+    "description": "Asynchronous Publisher – Servizio publisher consumer per servizi protetti"
+  },
+  {
+    "id": "DP2002",
+    "name": {
+      "it": "Internet Heatmaps",
+      "en": "Internet Heatmaps",
+      "zh": "互联网热图"
+    },
+    "date_begin": "2020-02",
+    "description": "<a href=\"http://www.infora.it/blog/internet-heatmaps\">Internet Heatmaps</a> – Prototipo di applicazione mobile per la raccolta e l’archiviazione di dati relativi alle caratteristiche dei segnali di una rete mobile in un’area geografica. I dati relativi alla raggiungibilità e potenza del segnale, in particolare, possono poi essere rappresentati sotto forma di HeatMap.",
+    "technologies": [
+      "Mobile"
+    ],
+    "activities": [
+      "Heatmap",
+      "Raccolta dati mobile",
+      "Archiviazione dati mobile"
+    ],
+    "links": [
+      {
+        "name": "Internet Heatmaps",
+        "url": "http://www.infora.it/blog/internet-heatmaps"
+      }
+    ]
+  },
+  {
+    "id": "DP2003",
+    "name": {
+      "it": "Advertising Panels",
+      "en": "Advertising Panels",
+      "zh": "广告面板"
+    },
+    "date_begin": "2020-03",
+    "description": "<a href=\"http://www.infora.it/blog/advertising-panels\">Advertising Panels</a> – Fornitura di un servizio promozionale a bassissimo costo, che centralizza la piattaforma editoriale in un unico punto ma la rende disponibile a tutti gli editori su internet, e le cui interfacce possono essere implementate su qualsiasi dispositivo mobile, computer, o apposito per l’advertising (e.g., totem panel).",
+    "technologies": [
+      "Mobile"
+    ],
+    "activities": [
+      "Servizi promozionali",
+      "Piattaforma editoriale centralizzata"
+    ],
+    "links": [
+      {
+        "name": "Advertising Panels",
+        "url": "http://www.infora.it/blog/advertising-panels"
+      }
+    ]
+  },
+  {
+    "id": "DP2004",
+    "name": {
+      "it": "Guida Virtuale",
+      "en": "Virtual Guide",
+      "zh": "虚拟指南"
+    },
+    "date_begin": "2020-04",
+    "description": "<a href=\"http://www.infora.it/blog/guida-virtuale\">Guida Virtuale</a> – Prototipo che mediante utilizzo di sensoristica on-board, GPS, lettura vocale, e strumenti di interfaccia semplici, consente di navigare per dei punti di interesse con il solo supporto vocale.",
+    "technologies": [
+      "GIS"
+    ],
+    "activities": [
+      "Guida vocale",
+      "Punti di interesse"
+    ],
+    "links": [
+      {
+        "name": "Guida Virtuale",
+        "url": "http://www.infora.it/blog/guida-virtuale"
+      }
+    ]
+  },
+  {
+    "id": "DP2005",
+    "name": {
+      "it": "Digital Voucher",
+      "en": "Digital Voucher",
+      "zh": "数字凭证"
+    },
+    "date_begin": "2020-05",
+    "description": "<a href=\"http://www.infora.it/blog/digital-voucher\">Digital Voucher</a> – un prototipo testabile che consente di sperimentare il rilascio e il riutilizzo dei voucher. I voucher possono essere creati e rilasciati tramite una piattaforma editoriale intuitiva, e possono essere riutilizzati e distribuiti ad esempio anche con il supporto di QR code.",
+    "technologies": [
+      "Android"
+    ],
+    "activities": [
+      "Voucher",
+      "Piattaforma editoriale"
+    ],
+    "links": [
+      {
+        "name": "Digital Voucher",
+        "url": "http://www.infora.it/blog/digital-voucher"
+      }
+    ]
+  },
+  {
+    "id": "DP2006",
+    "name": {
+      "it": "Visual Contract",
+      "en": "Visual Contract",
+      "zh": "可视化合同"
+    },
+    "date_begin": "2020-06",
+    "description": "<a href=\"http://www.infora.it/blog/visual-contract\">Visual Contract</a> – All’interno della progettazione di Digital Gateway o degli ambienti di interscambio di informazioni amministrative si colloca un prototipo per la visualizzazione grafica di contratti formali.",
+    "activities": [
+      "Visualizzazione contratti",
+      "Digital Gateway",
+      "Interscambio informazioni"
+    ],
+    "links": [
+      {
+        "name": "Visual Contract",
+        "url": "http://www.infora.it/blog/visual-contract"
+      }
+    ]
+  },
+  {
+    "id": "DP2007",
+    "name": {
+      "it": "DuraLex",
+      "en": "DuraLex",
+      "zh": "DuraLex"
+    },
+    "date_begin": "2020-07",
+    "description": "<a href=\"http://www.infora.it/blog/duralex\">DuraLex</a> – un dimostratore per l’utilizzo di query semantiche o in linguaggio naturale per il supporto agli utenti e la ricerca di documenti.",
+    "activities": [
+      "Query semantiche",
+      "Linguaggio naturale",
+      "Supporto utenti",
+      "Ricerca documenti"
+    ],
+    "links": [
+      {
+        "name": "DuraLex",
+        "url": "http://www.infora.it/blog/duralex"
+      }
+    ]
+  },
+  {
+    "id": "DP2107",
+    "name": {
+      "it": "React BlockChain",
+      "en": "React BlockChain",
+      "zh": "React 区块链"
+    },
+    "date_begin": "2021-07",
+    "description": "React BlockChain – un prototipo in React puro che sfrutta il paradigma delle blockchain per l’implementazione di strumenti di certificazione a basso costo.",
+    "technologies": [
+      "React",
+      "Blockchain"
+    ],
+    "activities": [
+      "Certificazione a basso costo"
+    ],
+    "links": [
+      {
+        "name": "React BlockChain",
+        "url": "https://reactblockchain.netlify.app/"
+      }
+    ]
+  },
+  {
+    "id": "WA2003",
+    "name": {
+      "it": "Progetto Crunch Sunalle",
+      "en": "Crunch Sunalle Project",
+      "zh": "Crunch Sunalle 项目"
+    },
+    "description": "Aicof, Medir – FSE2; Sviluppo di un microservizio per il profiling degli utenti del Fascicolo Sanitario Elettronico per la personalizzazione dinamica delle dashboard. Utilizzo di Drools, Kafka, strumenti per lo sviluppo di Microservices Pool con Spring Boot.",
+    "technologies": [
+      "Drools",
+      "Spring",
+      "Machine Learning"
+    ],
+    "activities": [
+      "Microservizi",
+      "Profiling utenti",
+      "Fascicolo Sanitario Elettronico",
+      "Personalizzazione dashboard"
+    ],
+    "date_begin": "2020-03"
+  },
+  {
+    "id": "WA2005",
+    "name": {
+      "it": "Progetto Crunch Sunalle",
+      "en": "Crunch Sunalle Project",
+      "zh": "Crunch Sunalle 项目"
+    },
+    "description": "DIEE e Vecchio Forno – Progetto Crunch Sunalle; Sviluppo di un sistema di raccolta e analisi dei dati provenienti dal sistema di produzione ai fini di migliorare la tracciabilità del prodotto. Sviluppo di un prototipo per il push di dati di sensoristica da una macchina su rete privata a un repository centralizzato pubblico.",
+    "technologies": [
+      "Elasticsearch",
+      "IoT"
+    ],
+    "activities": [
+      "Raccolta dati",
+      "Analisi dati",
+      "Tracciabilità prodotto",
+      "Sensoristica"
+    ],
+    "date_begin": "2020-05"
+  },
+  {
+    "id": "WA2010",
+    "name": {
+      "it": "Sviluppo di un portale per la gestione di volontari",
+      "en": "Development of a portal for the management of volunteers",
+      "zh": "开发用于管理志愿者的门户网站"
+    },
+    "description": "Prociv – Sviluppo di un portale per la gestione di volontari; Amministrazione attrezzature e la pianificazione di mezzi, strumenti e interventi nella gestione delle attività di emergenza",
+    "activities": [
+      "Gestione volontari",
+      "Amministrazione attrezzature",
+      "Pianificazione mezzi",
+      "Gestione emergenze"
+    ],
+    "date_begin": "2020-10",
+    "technologies": [
+      "GIS",
+      "Drupal"
+    ]
+  },
+  {
+    "id": "WA2011",
+    "name": {
+      "it": "Web Application per la pianificazione delle attività di programmazione ed erogazione della didattica in ateneo",
+      "en": "Web Application for planning programming and delivery of teaching activities at the university",
+      "zh": "用于规划大学编程和教学活动的 Web 应用程序"
+    },
+    "description": "Spol Didattica – Web Application per la pianificazione delle attività di programmazione ed erogazione della didattica in ateneo;",
+    "technologies": [
+      "Python",
+      "Django",
+      "SQLite"
+    ],
+    "activities": [
+      "Pianificazione didattica",
+      "Erogazione didattica"
+    ],
+    "date_begin": "2020-11"
+  },
+  {
+    "id": "WA2012",
+    "name": {
+      "it": "Sviluppo di una suite di Librerie BLE per Android e iOS",
+      "en": "Development of a suite of BLE Libraries for Android and iOS",
+      "zh": "开发适用于 Android 和 iOS 的 BLE 库套件"
+    },
+    "description": "Ascensum Sensing Board – Sviluppo di una suite di Librerie BLE per Android e iOS; Customizzazione per le sensing board.",
+    "technologies": [
+      "BLE",
+      "Android",
+      "iOS"
+    ],
+    "activities": [
+      "Sensing board"
+    ],
+    "date_begin": "2021-01-05"
+  },
+  {
+    "id": "WA2013",
+    "name": {
+      "it": "Restyling e Reingegnerizzazione del Sito 6sicuro",
+      "en": "Restyling and Re-engineering of the 6sicuro Website",
+      "zh": "6sicuro 网站的重塑和重新设计"
+    },
+    "description": "6Sicuro – Restyling e Reingegnerizzazione del Sito; Con React / Spring MVC del preventivatore auto e moto di <a href=\"https://www.6sicuro.it/\">6sicuro</a>.",
+    "technologies": [
+      "React",
+      "Spring"
+    ],
+    "activities": [
+      "Preventivatore auto",
+      "Preventivatore moto"
+    ],
+    "links": [
+      {
+        "name": "6sicuro",
+        "url": "https://www.6sicuro.it/"
+      }
+    ],
+    "date_begin": "2021-01-22"
+  },
+  {
+    "id": "WA2101",
+    "name": {
+      "it": "Costituzione della Società a Responsabilità Limitata Sprama Game Labs s.r.l",
+      "en": "Establishment of Sprama Game Labs s.r.l Limited Liability Company",
+      "zh": "成立 Sprama Game Labs s.r.l 有限责任公司"
+    },
+    "description": "Sprama – Costituzione della Società a Responsabilità Limitata Sprama Game Labs s.r.l; La società ha per oggetto lo sviluppo, la produzione e la commercializzazione di prodotti o servizi innovativi ad alto valore tecnologicoAtlas, e.g., BLE – Atlas a communication protocol and SDK to let the sensing board to communicate with other devices.",
+    "technologies": [
+      "Project Management",
+      "Business Process Management"
+    ],
+    "activities": [
+      "Sviluppo prodotti innovativi",
+      "Produzione prodotti innovativi",
+      "Commercializzazione prodotti innovativi"
+    ],
+    "links": [
+      {
+        "name": "Sprama",
+        "url": "https://www.sprama.com/"
+      }
+    ],
+    "date_begin": "2021-02"
+  },
+  {
+    "id": "WA2102",
+    "name": {
+      "it": "Sviluppo del nuovo sito web per l'Agenzia Sarda per le Politiche Attive del Lavoro",
+      "en": "Development of the new website for the Sardinian Agency for Active Labor Policies",
+      "zh": "撒丁岛积极劳工政策局新网站的开发"
+    },
+    "description": "Aspal – Sviluppo del nuovo sito web per l'Agenzia Sarda per le Politiche Attive del Lavoro; Backend CMS Drupal, con funzionalità e comportamenti personalizzati su un frontend Next.js.",
+    "technologies": [
+      "Drupal"
+    ],
+    "activities": [
+      "Sviluppo Backend CMS"
+    ],
+    "date_begin": "2021-03"
+  },
+  {
+    "id": "WA2103",
+    "name": {
+      "it": "Sistema di Ricerca Federata",
+      "en": "Federated Search System",
+      "zh": "联邦搜索系统"
+    },
+    "description": "Comune di Firenze, Wellnet – Sistema di Ricerca Federata; sviluppo di un sistema di ricerca su più siti federati.",
+    "technologies": [
+      "Drupal",
+      "Elasticsearch"
+    ],
+    "activities": [
+      "Ricerca federata"
+    ],
+    "date_begin": "2021-02"
+  },
+  {
+    "id": "WA2104",
+    "name": {
+      "it": "Censimento",
+      "en": "Census",
+      "zh": "人口普查"
+    },
+    "description": "Comune di Pula – Censimento; Applicazione per la compilazione dinamica di strumenti attraverso l'API di Google Sheets per il censimento dei punti di interesse da parte dell'amministrazione del Comune di Pula.",
+    "activities": [
+      "Censimento punti di interesse"
+    ],
+    "date_begin": "2021-04",
+    "technologies": [
+      "Android",
+      "Drupal"
+    ]
+  },
+  {
+    "id": "WA2105",
+    "name": {
+      "it": "Censimento Cartellonistica",
+      "en": "Billposting - Geogest",
+      "zh": "广告张贴"
+    },
+    "description": "Sviluppo di un'applicazione per il censimento e la pianificazione della cartellonistica pubblicitaria.",
+    "activities": [
+      "Censimento cartelloni pubblicitari",
+      "Pianificazione cartelloni pubblicitari"
+    ],
+    "date_begin": "2021-05",
+    "technologies": [
+      "GIS",
+      "Drupal"
+    ]
+  },
+  {
+    "id": "WA2106",
+    "name": {
+      "it": "Sviluppo del nuovo sito web per la Regione Autonoma della Sardegna",
+      "en": "Development of the new website for the Autonomous Region of Sardinia",
+      "zh": "撒丁岛自治区新网站的开发"
+    },
+    "description": "RAS – Sviluppo del nuovo sito web per la Regione Autonoma della Sardegna; sviluppo full-stack del backend basato su un paradigma headless, moduli API personalizzati e configurabili e implementazione di un meccanismo integrato di profilazione utente su un motore ElasticSearch.",
+    "technologies": [
+      "Drupal",
+      "Machine Learning",
+      "Elasticsearch",
+      "NoSQL"
+    ],
+    "links": [
+      {
+        "name": "Sito RAS",
+        "url": "https://www.regione.sardegna.it/"
+      }
+    ],
+    "activities": [
+      "Headless CMS",
+      "Profilazione utente"
+    ],
+    "date_begin": "2021-05"
+  },
+  {
+    "id": "WA2107",
+    "name": {
+      "it": "Sviluppo di un modulo gestionale per le richieste di finanziamento FdS integrato con la piattaforma STARTS",
+      "en": "Development of a management module for FdS financing requests integrated with the STARTS platform",
+      "zh": "开发与 STARTS 平台集成的 FdS 融资请求管理模块"
+    },
+    "description": "UNICA – FdS; Sviluppo di un modulo gestionale per le richieste di finanziamento FdS integrato con la piattaforma STARTS. Uno strumento per la gestione integrata del flusso amministrativo interno dell'Università di Cagliari per la gestione e la presentazione delle richieste di finanziamento alla Fondazione di Sardegna.",
+    "technologies": [
+      "Drupal"
+    ],
+    "links": [
+      {
+        "name": "Starts",
+        "url": "https://starts.unica.it"
+      }
+    ],
+    "activities": [
+      "Gestione richieste di finanziamento",
+      "Gestione flusso amministrativo"
+    ],
+    "date_begin": "2021-06-30"
+  },
+  {
+    "id": "WA2110",
+    "name": {
+      "it": "Ministero dell'Interno",
+      "en": "Ministry of the Interior",
+      "zh": "内政部"
+    },
+    "description": "Ministero dell'Interno – Politiche del Personale; sviluppo di un nuovo portale per il dipartimento pubblico delle politiche del personale.",
+    "date_begin": "2021-11",
+    "activities": [
+      "Portale Politiche del Personale"
+    ],
+    "links": [
+      {
+        "name": "Politiche del Personale",
+        "url": "https://politichepersonale.interno.it/"
+      }
+    ]
+  },
+  {
+    "id": "WA2111",
+    "name": {
+      "it": "Integrazione di componenti e funzionalità in un sistema di Derivati OTC",
+      "en": "Integration of components and features into an OTC Derivatives system",
+      "zh": "将组件和功能集成到 OTC 衍生品系统中"
+    },
+    "description": "Radix – Integrazione di componenti e funzionalità in un sistema di Derivati OTC;",
+    "technologies": [
+      "Spring"
+    ],
+    "date_begin": "2021-11-30"
+  },
+  {
+    "id": "WA2112",
+    "name": {
+      "it": "Analisi e ottimizzazione di una rete di transazioni finanziarie con strumenti di Machine Learning",
+      "en": "Analysis and optimization of a network of financial transactions using Machine Learning tools",
+      "zh": "使用机器学习工具分析和优化金融交易网络"
+    },
+    "date_begin": "2021-12",
+    "description": "BFlows – Analisi e ottimizzazione di una rete di transazioni finanziarie con strumenti di Machine Learning;",
+    "technologies": [
+      "Machine Learning",
+      "React",
+      "Python",
+      "Spring"
+    ],
+    "links": [
+      {
+        "name": "BFlows",
+        "url": "https://www.bflows.net"
+      }
+    ]
+  },
+  {
+    "id": "WA2201",
+    "name": {
+      "it": "Sviluppo di strumenti di analisi e prototipi per la traduzione intersemiotica di contenuti normativi",
+      "en": "Development of analysis tools and prototypes for the intersemiotic translation of regulatory content",
+      "zh": "开发用于监管内容跨符号翻译的分析工具和原型"
+    },
+    "description": "C.I. Legal – Sviluppo di strumenti di analisi e prototipi per la traduzione intersemiotica di contenuti normativi; sviluppo di strumenti per la creazione di un sistema di rappresentazione delle situazioni deontiche, creazione di una blockchain utilizzando strumenti client-side. Rif. articoli [IJ07, IJ08, IJ09, IC20]",
+    "technologies": [
+      "ML",
+      "Blockchain"
+    ],
+    "activities": [
+      "Traduzione intersemiotica",
+      "Contenuti normativi",
+      "Situazioni deontiche"
+    ],
+    "date_begin": "2022-01",
+    "links": [
+      {
+        "name": "Journal Article on Intersemiotic Translation",
+        "url": "/ReactCV/publications?id=IJ09"
+      }
+    ]
+  },
+  {
+    "id": "WA2207",
+    "name": {
+      "it": "Sviluppo di nuove funzionalità BE sul modulo Cropplan",
+      "en": "Development of new BE features on the Cropplan module",
+      "zh": "在 Cropplan 模块上开发新的 BE 功能"
+    },
+    "description": "Abaco – SitiAgri CropPlan; sviluppo di nuove funzionalità BE sul modulo Cropplan.",
+    "technologies": [
+      "DropWizard"
+    ],
+    "date_begin": "2022-07",
+    "activities": [
+      "SitiAgri CropPlan"
+    ]
+  },
+  {
+    "id": "WA2304",
+    "name": {
+      "it": "Dreki 118",
+      "en": "Dreki 118",
+      "zh": "Dreki 118"
+    },
+    "description": "Platform for operation and coordination of vehicles and volunteers in rescue and volunteer operations.",
+    "date_begin": "2023-04-10",
+    "activities": [
+      "Operation coordination",
+      "Volunteer coordination"
+    ]
+  },
+  {
+    "id": "WA0606",
+    "name": {
+      "it": "Analisi della produzione del pane carasau",
+      "en": "Analysis and evaluation of critical issues in production",
+      "zh": "生产中 критических 问题的分析和评估"
+    },
+    "description": "Research project for analyzing and evaluating critical issues in current production phases in terms of impact on production. Predictive evaluation and quantification of improvement margins, in quantitative and qualitative terms, of the possible use of artificial intelligence in the production process, especially in those phases still managed manually or in which the discretionary decision-making of operators is impactful. Measuring and acquiring the most relevant process data and parameters of interest for a sufficiently long observation time (weeks/months), in order to create a significant database.",
+    "date_begin": "2019-06-06",
+    "activities": [
+      "Data analysis and categorization",
+      "Anomaly detection",
+      "Correlation study",
+      "Forecasting",
+      "Multimodal data analysis"
+    ],
+    "technologies": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "WA2305",
+    "name": {
+      "it": "Storebook",
+      "en": "Storebook",
+      "zh": "Storebook"
+    },
+    "description": "Storebook is an innovative platform that uses artificial intelligence to facilitate communication between property owners and brands, anticipating future brand needs and proposing suitable properties.",
+    "date_begin": "2023-05-31",
+    "activities": [
+      "Data analysis",
+      "Recommendation platform development",
+      "Matching prototype development"
+    ],
+    "technologies": [
+      "Artificial Intelligence"
+    ],
+    "links": [
+      {
+        "name": "Storebook",
+        "url": "https://www.storebook.io/"
+      }
+    ]
+  },
+  {
+    "id": "WA2404",
+    "name": {
+      "it": "PWC - Assistenza e Manutenzione per Easy Regulation",
+      "en": "PWC - Assistance and Maintenance for Easy Regulation",
+      "zh": "PWC - Easy Regulation 的援助和维护"
+    },
+    "description": "Assistance and Maintenance on tracking tools for Banca Generali's Easy Regulation.",
+    "en": "Assistance and Maintenance on tracking tools for Banca Generali's Easy Regulation.",
+    "date_begin": "2024-04",
+    "activities": [
+      "Assistenza",
+      "Manutenzione"
+    ]
+  },
+  {
+    "id": "WA2405",
+    "name": {
+      "it": "AIOTIC",
+      "en": "AIOTIC",
+      "zh": "AIOTIC"
+    },
+    "description": "The AIOTIC (Intelligent Sheep Farming with Information and Communication Technologies) project aims to promote advanced precision farming to improve the efficiency and safety of traditional dairy sheep farming in Sardinia, using technologies such as Artificial Intelligence, IoT and georeferencing to monitor and analyze livestock habits.",
+    "en": "The AIOTIC (Intelligent Sheep Farming with Information and Communication Technologies) project aims to promote advanced precision farming to improve the efficiency and safety of traditional dairy sheep farming in Sardinia, using technologies such as Artificial Intelligence, IoT and georeferencing to monitor and analyze livestock habits.",
+    "date_begin": "2024-05-15",
+    "activities": [
+      "Frontend Development",
+      "Mobile App Development",
+      "Livestock Tracking and Analysis"
+    ],
+    "technologies": [
+      "Angular",
+      "Django",
+      "MQTT",
+      "IoT",
+      "GIS"
+    ]
+  }
+]

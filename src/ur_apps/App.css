@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+/* --- Ultra React Styiling --- */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.navbar-background {
+  background-image: url("../../public/images/bg_bubbles.jpg");
+}
+
+.nav-item {
+  text-align: left;
+}
+
+.navbar-icon {
+  width: 15px;
+  margin-right: 5px;
+}
+
+.nav-language {
+  margin-top: 8px;
+  margin-left: 10px;
+}
+
+.button-selector {
+  margin: 10px;
+}
+
+.scheda-main {
+  font-size: 150px;
+  font-family: "xingothic-tc-w8";
+  font-weight: 800;
+}
+
+.scheda-caption {
+  font-size: 20px;
+  font-family: "xingothic-tc-w8";
+  font-weight: 600;
+}
+
+.pgb_countdown {
+  height: 40px;
+}
+
+.card_image {
+  width: 300px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+

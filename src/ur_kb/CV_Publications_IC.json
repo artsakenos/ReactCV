@@ -1,0 +1,212 @@
+[
+    {
+        "id": "IC01",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Giancarlo Cherchi, Eloisa Vargiu",
+        "title": "Personalized Text Categorization Using a MultiAgent Architecture",
+        "source": "ALAAMAS: Adaptation and Learning in Autonomous Agents and Multiagent Systems (Workshop @AAMAS’06)",
+        "coordinates": "pp. 36–42",
+        "publisher": "Liviu Panait, Eduardo Alonso, Sandip Sen (eds.)",
+        "date": "2006-05-08"
+    },
+    {
+        "id": "IC02",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Andrea Manconi, Massimiliano Saba, Eloisa Vargiu",
+        "title": "A MultiAgent System for Classifying Bioinformatics Publications",
+        "source": "MAS-BIOMED: the Second International Workshop on Multi-Agent Systems for Medicine, Computational Biology, and Bioinformatics (Workshop @AAMAS’06)",
+        "coordinates": "pp. 6–17",
+        "publisher": "Giuliano Armano, Andrew Martin, Huaglory Tanfield, Rainer Unland (eds.)",
+        "date": "2006-05-09"
+    },
+    {
+        "id": "IC03",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "A MultiAgent System for Personalized Press Reviews",
+        "source": "DART’06: Distributed Agent-Based Retrieval Tools – The Future of Search Engines Technologies",
+        "coordinates": "pp. 67–86",
+        "publisher": "Alessandro Soro, Giuliano Armano, Gavino Paddeu (eds.), Polimetrica Publisher",
+        "date": "2006-06-26"
+    },
+    {
+        "id": "IC04",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Andrea Manconi, Massimiliano Saba, Eloisa Vargiu",
+        "title": "A MultiAgent System for Retrieving Bioinformatics Publications from Web Sources",
+        "source": "International Workshop NETTAB 2006 – Distributed Applications, Web Services, Tools and GRID Infrastructures for Bioinformatics",
+        "coordinates": "pp. 83–89",
+        "publisher": "Giuliano Armano, Luciano Milanesi, Paolo Romano (eds.), NETTAB: Network Tools and Applications in Biology",
+        "date": "2006-07-10"
+    },
+    {
+        "id": "IC05",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Francesco Mascia, Eloisa Vargiu",
+        "title": "Protein Secondary Structure Prediction through a Cooperative MultiAgent Learning Approach",
+        "source": "The 3rd International Conference on Self-Organization and Autonomous Systems in Computing and Communications, SOAS 2007",
+        "coordinates": "pp. n/a",
+        "publisher": "Proceedings of SOAS 2007",
+        "date": "2007-09-24"
+    },
+    {
+        "id": "IC06",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "From a Generic MultiAgent Architecture to MultiAgent Information Retrieval Systems",
+        "source": "AT2AI-6, Sixth International Workshop “From Agent Theory to Agent Implementation”, Workshop @AAMAS 2008",
+        "coordinates": "pp. n/a",
+        "publisher": "Proceedings of AAMAS 2008",
+        "date": "2008-05-12"
+    },
+    {
+        "id": "IC07",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Manuela Angioni, Giuliano Armano, Roberto Demontis, Franco Tuveri, Eloisa Vargiu",
+        "title": "A novel semantic approach to document collections",
+        "source": "IADIS Multi Conference on Computer Science and Information Systems 2008",
+        "coordinates": "pp. n/a",
+        "publisher": "ISBN: 978-972-892467–6",
+        "date": "2008-07-22"
+    },
+    {
+        "id": "IC08",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "WIKI.MAS: A MultiAgent Information Retrieval System for Classifying Wikipedia Contents",
+        "source": "AOSDM 2008, The 4th International Workshop on Agent-Oriented Software Development Methodology",
+        "coordinates": "pp. n/a",
+        "publisher": "Proceedings of AOSDM 2008",
+        "date": "2008-07-22"
+    },
+    {
+        "id": "IC09",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "A Progressive Filtering Approach to Hierarchical Text Categorization",
+        "source": "DART 2008: 2nd International Workshop on Distributed Agent-based Retrieval Tools",
+        "coordinates": "pp. n/a",
+        "publisher": "Proceedings of Dart 2008",
+        "date": "2008-09-10"
+    },
+    {
+        "id": "IC10",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Daniel Borrajo",
+        "title": "Recovering Plans from the Web",
+        "source": "SPARK 2009: Scheduling and Planning Applications woRKshop (Workshop @ICAPS 2009)",
+        "coordinates": "pp. n/a",
+        "publisher": "Proceedings of Spark 2009",
+        "date": "2009-09-19"
+    },
+    {
+        "id": "IC11",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "Using the Progressive Filtering Approach to Deal with Input Imbalance in Large-Scale Taxonomies",
+        "source": "LSHTC 2010 – Large-Scale Hierarchical Classification (Workshop @ECIR 2010)",
+        "coordinates": "pp. n/a",
+        "publisher": "Proceedings ECIR 2010",
+        "date": "2010-03-28"
+    },
+    {
+        "id": "IC12",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "Experimental Assessment of a Threshold Selection Algorithm for Tuning Classifiers in the Field of Hierarchical Text Categorization",
+        "source": "Proceedings of 17th RCRA International Workshop on Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion",
+        "coordinates": "pp. n/a",
+        "publisher": "Proceedings RCRA 2010",
+        "date": "2010-06-10"
+    },
+    {
+        "id": "IC13",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Alessandro Giuliani, Eloisa Vargiu",
+        "title": "A Recommender System based on a Generic Contextual Advertising Approach",
+        "source": "Proceedings of ISCC 2010: IEEE Symposium on Computers and Communications",
+        "coordinates": "pp. 859–861",
+        "publisher": "Proceedings ISCC 2010, IEEE / ISBN: 978-1-4244-7755-5/10",
+        "date": "2010-06-22"
+    },
+    {
+        "id": "IC14",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Alessandro Giuliani, Eloisa Vargiu",
+        "title": "A Novel Recommender System Inspired by Contextual Advertising Approach",
+        "source": "Proceedings of IADIS – International Conference Intelligent Systems and Agents 2010",
+        "coordinates": "pp. 67–74",
+        "publisher": "ISBN: 978-972-8939-23-6, 2010 IADIS",
+        "date": "2010-07-29"
+    },
+    {
+        "id": "IC15",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "Using Progressive Filtering to Deal with Information Overload",
+        "source": "Proceedings of TIR 2010 – 7th International Workshop on Text-based Information Retrieval",
+        "coordinates": "pp. n/a",
+        "publisher": "TIR Proceedings",
+        "date": "2010-08-30"
+    },
+    {
+        "id": "IC16",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "Assessing Progressive Filtering to Perform Hierarchical Text Categorization in Presence of Input Imbalance",
+        "source": "Proceedings of KDIR 2010 – International Conference on Knowledge Discovery and Information Retrieval",
+        "coordinates": "pp. 14–23",
+        "publisher": "Ana Fred and Joaquim Filipe, SciTePress – Science and Technology Publications",
+        "date": "2010-10-25"
+    },
+    {
+        "id": "IC17",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "A Comparative Experimental Assessment of a Threshold Selection Algorithm in Hierarchical Text Categorization",
+        "source": "Advances in Information Retrieval, 33rd European Conference on Information Retrieval (ECIR 2011)",
+        "coordinates": "pp. 32–42",
+        "publisher": "P. Clough et al. (Eds.), LNCS 6611",
+        "date": "2011-04-18"
+    },
+    {
+        "id": "IC18",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "A Comparative Study of Thresholding Strategies in Progressive Filtering",
+        "source": "AI*IA 2011: Artificial Intelligence Around Man and Beyond",
+        "coordinates": "pp. 10–20",
+        "publisher": "R. Pirrone and F. Sorbello (Eds.), LNCS 6934, Springer-Verlag",
+        "date": "2011-09-15"
+    },
+    {
+        "id": "IC19",
+        "type": "International Conference",
+        "authors": "Matteo Bachetti, Maura Pilia, Stefano Curatti, Giada Corrias, Andrea Addis, Claudia Macciò, Daniele Muntoni, Viviana Piga, Nicolò Pitzalis, Alessio Trois",
+        "title": "Citizen COmputing for Pulsar Searches: CICLOPS",
+        "source": "Proceedings of Astronomical Data Analysis Software and Systems",
+        "date": "2019-12",
+        "links": [
+            {
+                "name": "PDF",
+                "url": "https://www.aspbooks.org/publications/532/291.pdf"
+            }
+        ]
+    },
+    {
+        "id": "IC20",
+        "type": "International Conference",
+        "authors": "Andrea Addis, Olimpia Loddo",
+        "title": "Two dimensions of the intersemiotic legal translation in digital environments: Programming legal acts as a resemiotization process",
+        "source": "2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+        "coordinates": "August 29 – September 2, 2022",
+        "publisher": "IEEE",
+        "date": "2022-09-02",
+        "links": [
+            {
+                "name": "IEEE Conferences",
+                "url": "https://ieeexplore.ieee.org/abstract/document/9900594"
+            }
+        ]
+    }
+]

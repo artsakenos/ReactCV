@@ -1,0 +1,880 @@
+[
+  {
+    "id": "WA1504",
+    "name": {
+      "it": "Casanoa",
+      "en": "Casanoa",
+      "zh": "Casanoa"
+    },
+    "description": "Casanoa – Implementazione di un Sistema per l’invio automatico degli annunci; Da inserire nella rivista Casanoa da parte delle agenzie immobiliari. Il sistema funge da collettore e permettere la catalogazione e l’invio ad applicazioni terze degli annunci inseriti. Contestualmente, un sistema di supporto editoriale permette di inviare le richieste specifiche ai redattori sugli articoli.",
+    "activities": [
+      "Collettore annunci",
+      "Catalogazione",
+      "Supporto editoriale"
+    ],
+    "date_begin": "2015-04",
+    "technologies": [
+      "Java",
+      "Drupal",
+      "Web Development"
+    ]
+  },
+  {
+    "id": "WA1505",
+    "name": {
+      "it": "Verding",
+      "en": "Verding",
+      "zh": "Verding"
+    },
+    "description": "Verding – Sviluppo del sito web; Azienda di professionisti per lo sviluppo sostenibile.",
+    "activities": [
+      "Sviluppo sito web",
+      "Sviluppo sostenibile"
+    ],
+    "date_begin": "2015-05",
+    "technologies": [
+      "Drupal",
+      "Web Development"
+    ]
+  },
+  {
+    "id": "WA1506",
+    "name": {
+      "it": "Identificazione di tecniche e modelli di analisi semantica per la classificazione dei testi",
+      "en": "Identification of techniques and models of semantic analysis for text classification",
+      "zh": "识别用于文本分类的语义分析技术和模型"
+    },
+    "description": "DIEE – Sosebi; Affidamento per il progetto di ricerca “Identificazione di tecniche e modelli di analisi semantica per la classificazione dei testi”. Progetto PIA 2010 TLM WEB “Progetto di innovazione volto alla realizzazione di un applicativo software con funzionalità innovative nel campo dei servizi bibliotecari. Su affidamento del DIEE, per Sosebi S.r.l. Project Manager. Sviluppo e sperimentazione di tecniche innovative per (I) l’arricchimento semantico di testi (II) tecniche di classificazione semantica (III) tecniche di disambiguazione semantica, sfruttando le TLM libraries, il corpus DBPedia e il motore di ricerca Lucene.",
+    "activities": [
+      "Analisi semantica",
+      "Classificazione testi",
+      "Arricchimento semantico testi",
+      "Disambiguazione semantica"
+    ],
+    "date_begin": "2015-06",
+    "technologies": [
+      "Lucene",
+      "DBPedia",
+      "Machine Learning",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "WA1510",
+    "name": {
+      "it": "Sviluppo del nuovo portale Sardegna Turismo",
+      "en": "Development of the new Sardinia Tourism portal",
+      "zh": "撒丁岛旅游新门户网站的开发"
+    },
+    "description": "RAS – Sardegna Turismo; Sviluppo del nuovo portale. Evoluzione del sito di Sardegna Turismo. Tra le attività di sviluppo, analisi comparativa dei portali concorrenti tramite classificazione del testo, <a href=\"https://www.youtube.com/watch?v=ySP6m8eRAUg\">creazione di map behaviour avanzati e geolocalizzazione inversa</a>.",
+    "activities": [
+      "Analisi competizione",
+      "Classificazione testo",
+      "Map behaviour",
+      "Geolocalizzazione inversa"
+    ],
+    "technologies": [
+      "Java",
+      "Drupal",
+      "Machine Learning"
+    ],
+    "links": [
+      {
+        "name": "creazione di map behaviour avanzati e geolocalizzazione inversa",
+        "url": "https://www.youtube.com/watch?v=ySP6m8eRAUg"
+      }
+    ],
+    "date_begin": "2015-10"
+  },
+  {
+    "id": "WA1512",
+    "name": {
+      "it": "Ablativ - Godot",
+      "en": "Ablativ - Godot",
+      "zh": "Ablativ - Godot"
+    },
+    "description": "Ablativ – Godot; Wrapper Android Applicazione Web Godot.",
+    "technologies": [
+      "Android"
+    ],
+    "date_begin": "2015-12"
+  },
+  {
+    "id": "DP1603",
+    "name": {
+      "it": "UltraWemo",
+      "en": "UltraWemo",
+      "zh": "UltraWemo"
+    },
+    "date_begin": "2016-03",
+    "description": "UltraWemo – Wrapper Java per la comunicazione con gli SmartSocket Wemo della Belkin.",
+    "technologies": [
+      "Java",
+      "IoT"
+    ],
+    "links": [
+      {
+        "name": "UltraWemo",
+        "url": "https://github.com/artsakenos/UltraWemo"
+      }
+    ]
+  },
+  {
+    "id": "DP1605",
+    "name": {
+      "it": "Wrapper CagliariOpenData",
+      "en": "Wrapper CagliariOpenData",
+      "zh": "卡利亚里开放数据包装器"
+    },
+    "date_begin": "2016-05",
+    "description": "Wrapper CagliariOpenData – Wrapper Java per i dati sul traffico (per il momento) di Cagliari Opendata mediante le API messe a disposizione da Cagliari Opendata Plus",
+    "technologies": [
+      "Java"
+    ],
+    "links": [
+      {
+        "name": "Wrapper CagliariOpenData",
+        "url": "https://github.com/artsakenos/CagliariOpenData"
+      }
+    ]
+  },
+  {
+    "id": "DP1606",
+    "name": {
+      "it": "House appliance experiments",
+      "en": "House appliance experiments",
+      "zh": "家用电器实验"
+    },
+    "date_begin": "2016-06",
+    "description": "House appliance experiments with UltraCraft a Java Wrapper for Minecraft",
+    "technologies": [
+      "Java",
+      "Minecraft"
+    ],
+    "links": [
+      {
+        "name": "House appliance experiments",
+        "url": "https://youtu.be/t8m3miF6I-U"
+      },
+      {
+        "name": "UltraCraft",
+        "url": "https://infodev.wordpress.com/2014/04/10/some-news-from-infocraft/"
+      }
+    ]
+  },
+  {
+    "id": "DP1607",
+    "name": {
+      "it": "Office Manager",
+      "en": "Office Manager",
+      "zh": "办公室经理"
+    },
+    "date_begin": "2016-07",
+    "description": "Office Manager – An IOT case study to manage a office place based on a Twitter interface",
+    "technologies": [
+      "IoT",
+      "Social Networking"
+    ],
+    "links": [
+      {
+        "name": "Office Manager",
+        "url": "https://infodev.wordpress.com/2015/07/20/office-manager/"
+      }
+    ]
+  },
+  {
+    "id": "DP1608",
+    "name": {
+      "it": "PHP UltraDictionary",
+      "en": "PHP UltraDictionary",
+      "zh": "PHP 超级字典"
+    },
+    "date_begin": "2016-08",
+    "description": "PHP UltraDictionary – A key/value store server with callbacks",
+    "technologies": [
+      "PHP"
+    ],
+    "links": [
+      {
+        "name": "PHP UltraDictionary",
+        "url": "https://github.com/artsakenos/UltraDictionary"
+      }
+    ]
+  },
+  {
+    "id": "DP1701",
+    "name": {
+      "it": "SimpleMap e FireBase",
+      "en": "SimpleMap and FireBase",
+      "zh": "简单地图和 FireBase"
+    },
+    "date_begin": "2017-01",
+    "description": "SimpleMap e FireBase – Sviluppo di un sistema di tracciamento multidevice da dispositivo Android e rappresentazione su mappa tramite modulo Drupal custom.",
+    "technologies": [
+      "Android",
+      "Drupal",
+      "Firebase",
+      "GIS"
+    ],
+    "activities": [
+      "Tracciamento multidevice",
+      "Mappe"
+    ]
+  },
+  {
+    "id": "DP1702",
+    "name": {
+      "it": "DrupalPro for Ubuntu 16.04 LTE",
+      "en": "DrupalPro for Ubuntu 16.04 LTE",
+      "zh": "适用于 Ubuntu 16.04 LTE 的 DrupalPro"
+    },
+    "date_begin": "2017-02",
+    "description": "<a href=\"https://infodev.wordpress.com/2017/01/15/drupalpro-for-ubuntu-16-04-lte/\">DrupalPro for Ubuntu 16.04 LTE</a> – Macchina DrupalPro style per Ubuntu 16, con Quickstart, Php7, Drush, Solr, e tutte le tecnologie utili allo sviluppo su stack PHP Drupal.",
+    "technologies": [
+      "Drupal",
+      "System Administration",
+      "Search Engines"
+    ],
+    "links": [
+      {
+        "name": "DrupalPro for Ubuntu 16.04 LTE",
+        "url": "https://infodev.wordpress.com/2017/01/15/drupalpro-for-ubuntu-16-04-lte/"
+      }
+    ]
+  },
+  {
+    "id": "DP1703",
+    "name": {
+      "it": "Ascensumcraft",
+      "en": "Ascensumcraft",
+      "zh": "Ascensumcraft"
+    },
+    "date_begin": "2017-03",
+    "description": "<a href=\"https://youtu.be/e6cfNuTJVXU\">Ascensumcraft</a> – Esperimento sull’utilizzo di un minitabellone basato su tecnologia NFC con interfaccia di gioco di Minecraft.",
+    "technologies": [
+      "NFC",
+      "Minecraft",
+      "IoT"
+    ],
+    "links": [
+      {
+        "name": "Ascensumcraft",
+        "url": "https://youtu.be/e6cfNuTJVXU"
+      }
+    ]
+  },
+  {
+    "id": "DP1704",
+    "name": {
+      "it": "UltraReddit",
+      "en": "UltraReddit",
+      "zh": "UltraReddit"
+    },
+    "date_begin": "2017-04",
+    "description": "UltraReddit – App per post migliori e push email su sito wordpress. Modificata successivamente con l’ultima versione di JRAW e utilizzata per sviluppare UltraNews, un sito che raccoglie il meglio della Frontpage.",
+    "technologies": [
+      "Wordpress",
+      "Social Networking"
+    ],
+    "links": [
+      {
+        "name": "UltraReddit",
+        "url": "https://infodev.wordpress.com/2017/04/05/esperimenti-con-reddit/"
+      }
+    ]
+  },
+  {
+    "id": "DP1708",
+    "name": {
+      "it": "Toddlertouch",
+      "en": "Toddlertouch",
+      "zh": "Toddlertouch"
+    },
+    "date_begin": "2017-08",
+    "description": "Toddlertouch – App Unity per la stimolazione sensoriale su bimbi di meno di un anno.",
+    "technologies": [
+      "Unity",
+      "Android"
+    ],
+    "links": [
+      {
+        "name": "Toddlertouch",
+        "url": "https://youtu.be/ecoGHRVUxxx"
+      }
+    ]
+  },
+  {
+    "id": "DP1803",
+    "name": {
+      "it": "ChatLocator",
+      "en": "ChatLocator",
+      "zh": "聊天定位器"
+    },
+    "date_begin": "2018-03",
+    "description": "ChatLocator – App per la localizzazione tramite Firebase di utenti, Sign-in Google, sistema di notifica e comunicazione in tempo reale.",
+    "technologies": [
+      "Firebase",
+      "Android"
+    ],
+    "activities": [
+      "Localizzazione utenti",
+      "Notifiche real-time",
+      "Comunicazione real-time"
+    ]
+  },
+  {
+    "id": "DP1804",
+    "name": {
+      "it": "UltraGram",
+      "en": "UltraGram",
+      "zh": "UltraGram"
+    },
+    "date_begin": "2018-04",
+    "description": "<a href=\"https://infodev.wordpress.com/2018/04/20/ultrainstagram/\">UltraGram</a> – Una suite di librerie per analisi di dati e relazioni su Instagram",
+    "technologies": [
+      "Social Networking"
+    ],
+    "activities": [
+      "Analisi dati Instagram",
+      "Analisi relazioni Instagram"
+    ],
+    "links": [
+      {
+        "name": "UltraGram",
+        "url": "https://infodev.wordpress.com/2018/04/20/ultrainstagram/"
+      }
+    ]
+  },
+  {
+    "id": "DP1805",
+    "name": {
+      "it": "Summer",
+      "en": "Summer",
+      "zh": "夏天"
+    },
+    "date_begin": "2018-05",
+    "description": "<a href=\"https://infodev.wordpress.com/2018/04/25/ultracms-uscenno-release/\">Summer</a> – A fully customizable, light, embedded java Webserver.",
+    "technologies": [
+      "Java"
+    ],
+    "links": [
+      {
+        "name": "Summer",
+        "url": "https://infodev.wordpress.com/2018/04/25/ultracms-uscenno-release/"
+      }
+    ]
+  },
+  {
+    "id": "DP1901",
+    "name": {
+      "it": "Test di attivazione di dispositivi a relays",
+      "en": "Relay device activation test",
+      "zh": "继电器设备激活测试"
+    },
+    "date_begin": "2019-01",
+    "description": "<a href=\"https://youtu.be/_qHB0nFWwxE\">Test di attivazione di dispositivi a relays</a> su single-board computer e microcontroller e.g., Arduino, Raspberry PI, ESP32.",
+    "technologies": [
+      "Arduino",
+      "Raspberry",
+      "ESP32"
+    ],
+    "links": [
+      {
+        "name": "Test di attivazione di dispositivi a relays",
+        "url": "https://youtu.be/_qHB0nFWwxE"
+      }
+    ]
+  },
+  {
+    "id": "DP1904",
+    "name": {
+      "it": "Test with Java Libraries for AI",
+      "en": "Test with Java Libraries for AI",
+      "zh": "使用 Java 库进行 AI 测试"
+    },
+    "date_begin": "2019-04",
+    "description": "Experiments with Java Libraries for AI esperiments with Borgs, basic DLN, and Image Processing.",
+    "technologies": [
+      "Java",
+      "Machine Learning"
+    ],
+    "links": [
+      {
+        "name": "Test with Java Libraries for AI",
+        "url": "https://infodev.wordpress.com/2018/04/10/testing-some-java-ai-libraries/"
+      }
+    ],
+    "activities": [
+      "Borgs",
+      "DLN",
+      "Image Processing"
+    ]
+  },
+  {
+    "id": "DP1908",
+    "name": {
+      "it": "Containerizzazione",
+      "en": "Containerization",
+      "zh": "容器化"
+    },
+    "date_begin": "2019-08",
+    "description": "Containerizzazione di MicroServizi Java customizzabili e Server MineCraft",
+    "technologies": [
+      "Java",
+      "Docker",
+      "Minecraft"
+    ],
+    "links": [
+      {
+        "name": "Artsakenos Docker Hub",
+        "url": "https://hub.docker.com/u/artsakenos"
+      },
+      {
+        "name": "WebGenerator",
+        "url": "https://infodev.wordpress.com/2019/10/05/webgenerator/"
+      }
+    ]
+  },
+  {
+    "id": "DP1910",
+    "name": {
+      "it": "SlimJec",
+      "en": "SlimJec",
+      "zh": "SlimJec"
+    },
+    "date_begin": "2019-10",
+    "description": "SlimJec a Pure Javascript Client for basic access to ES instances.",
+    "technologies": [
+      "Javascript",
+      "Elasticsearch"
+    ],
+    "links": [
+      {
+        "name": "SlimJec",
+        "url": "https://github.com/artsakenos/SlimJec"
+      }
+    ]
+  },
+  {
+    "id": "DP1911",
+    "name": {
+      "it": "PebbleChain",
+      "en": "PebbleChain",
+      "zh": "卵石链"
+    },
+    "date_begin": "2019-11",
+    "description": "PebbleChain a light Social Network based BlockChain",
+    "technologies": [
+      "Blockchain"
+    ],
+    "activities": [
+      "Social Networking",
+      "Java"
+    ],
+    "links": [
+      {
+        "name": "PebbleChain",
+        "url": "https://github.com/artsakenos/PebbleChain"
+      }
+    ]
+  },
+  {
+    "id": "WA1602",
+    "name": {
+      "it": "Portali per i comuni di Silius, Serramanna e Pula",
+      "en": "Portals for the municipalities of Silius, Serramanna and Pula",
+      "zh": "锡利乌斯、塞拉曼纳和普拉市的门户网站"
+    },
+    "date_begin": "2016-02",
+    "description": "Portali per i comuni di Silius, Serramanna e Pula",
+    "links": [
+      {
+        "name": "Silius",
+        "url": "http://www.comune.silius.ca.it/"
+      },
+      {
+        "name": "Serramanna",
+        "url": "#"
+      },
+      {
+        "name": "Pula",
+        "url": "#"
+      }
+    ],
+    "technologies": [
+      "Drupal",
+      "Web Development"
+    ]
+  },
+  {
+    "id": "WA1603",
+    "name": {
+      "it": "Espansione delle funzionalità del client XDM",
+      "en": "Expansion of the functionality of the XDM client",
+      "zh": "XDM 客户端功能的扩展"
+    },
+    "description": "Sungard / FISGlobal – Espansione delle funzionalità del client XDM; Integrazione di funzionalità nel software XDM di amministrazione dei deal tra operatori energetici. Implementazione di librerie, script, strumenti per il parsing e suite di test, in Java e Groovy su framework Spring.",
+    "technologies": [
+      "Java",
+      "Groovy",
+      "Spring"
+    ],
+    "date_begin": "2016-03"
+  },
+  {
+    "id": "WA1605",
+    "name": {
+      "it": "Progetto SirNetwork",
+      "en": "SirNetwork Project",
+      "zh": "SirNetwork 项目"
+    },
+    "description": "DIEE, Unica – Progetto SirNetwork; Framework Java per la creazione e la gestione di un network di SmartSockets autonomi tramite algoritmi distribuiti, per la coordinazione e l’ottimizzazione del comportamento di una rete elettrica. Sviluppo delle <a href=\"https://github.com/artsakenos/UltraWemo\">UltraWemo</a>. Supervisore e sviluppatore del progetto.",
+    "activities": [
+      "Creazione network",
+      "Gestione network",
+      "Coordinamento rete elettrica",
+      "Ottimizzazione rete elettrica"
+    ],
+    "date_begin": "2016-05",
+    "technologies": [
+      "Java",
+      "Embedded",
+      "IoT",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "WA1606",
+    "name": {
+      "it": "OpenRubrica",
+      "en": "OpenRubrica",
+      "zh": "开放红皮书"
+    },
+    "description": "Regione Sardegna – OpenRubrica; Creazione dei servizi rest con funzioni di ricerca customizzate per le strutture",
+    "technologies": [
+      "REST"
+    ],
+    "activities": [
+      "Ricerca customizzata"
+    ],
+    "date_begin": "2016-06"
+  },
+  {
+    "id": "WA1612",
+    "name": {
+      "it": "LectorGas",
+      "en": "LectorGas",
+      "zh": "LectorGas"
+    },
+    "description": "IBS – LectorGas; Un’applicazione per il supporto e l’automazione dei processi di lettura dei contatori del gas, tracciamento dei dipendenti e delle attività, e controllo del flusso di amministrazione dei lavori tramite interfacce web e mobile. Supervisore e sviluppatore del progetto.",
+    "activities": [
+      "Lettura contatori gas",
+      "Tracciamento dipendenti",
+      "Controllo amministrazione lavori"
+    ],
+    "date_begin": "2016-12",
+    "technologies": [
+      "Drupal",
+      "Web Development",
+      "Android",
+      "Project Management"
+    ]
+  },
+  {
+    "id": "WA1701",
+    "name": {
+      "it": "Volint",
+      "en": "Volint",
+      "zh": "伏林特"
+    },
+    "description": "Volint – Migrazione del sito; Sviluppo di tool Java ad hoc per il post processing delle mappature",
+    "technologies": [
+      "Java",
+      "Web Development"
+    ],
+    "date_begin": "2017-01"
+  },
+  {
+    "id": "WA1705",
+    "name": {
+      "it": "EldersCare - Assistenza H24",
+      "en": "EldersCare - H24 Assistance",
+      "zh": "EldersCare - H24 援助"
+    },
+    "description": "EldersCare – Assistenza H24; Sviluppo di un Applicazione Android e una Centrale di Controllo per il monitoraggio di persone anziane via Smart Bracelet con tecnologia BLE.",
+    "technologies": [
+      "Android",
+      "BLE",
+      "Embedded",
+      "IoT",
+      "Project Management"
+    ],
+    "activities": [
+      "Monitoraggio anziani"
+    ],
+    "date_begin": "2017-05"
+  },
+  {
+    "id": "WA1707",
+    "name": {
+      "it": "Sviluppo librerie WebRTC Custom",
+      "en": "Development of WebRTC Custom libraries",
+      "zh": "WebRTC 自定义库的开发"
+    },
+    "description": "Sviluppo librerie WebRTC Custom; Pagina per videochiamata via WebRTC",
+    "technologies": [
+      "WebRTC",
+      "Web Development"
+    ],
+    "activities": [
+      "Videochiamata"
+    ],
+    "date_begin": "2017-07"
+  },
+  {
+    "id": "WA1712",
+    "name": {
+      "it": "Migrazione del Sito Enac",
+      "en": "Enac Site Migration",
+      "zh": "Enac 网站迁移"
+    },
+    "description": "Enac – Migrazione del Sito; Sviluppo di tool personalizzati per la Migrazione del sito dell’<a href=\"https://www.enac.gov.it/\">Enac</a> e sviluppo della nuova versione del sito. Sviluppo di un <a href=\"https://www.drupal.org/sandbox/artsakenos/spid_auth\">modulo</a> Drupal e di un installer per <a href=\"https://www.spid.gov.it/\">SPID</a>, il Sistema Pubblico di Identità Digitale.",
+    "technologies": [
+      "Drupal",
+      "Web Development"
+    ],
+    "activities": [
+      "Migrazione sito",
+      "SPID"
+    ],
+    "links": [
+      {
+        "name": "Enac",
+        "url": "https://www.enac.gov.it/"
+      },
+      {
+        "name": "Drupal modulo SPID",
+        "url": "https://www.drupal.org/sandbox/artsakenos/spid_auth"
+      },
+      {
+        "name": "SPID",
+        "url": "https://www.spid.gov.it/"
+      }
+    ],
+    "date_begin": "2017-12"
+  },
+  {
+    "id": "WA1803",
+    "name": {
+      "it": "Brevetto N. 102016000099002",
+      "en": "Patent N. 102016000099002",
+      "zh": "专利号 102016000099002"
+    },
+    "description": "Brevetto N. <a href=\"https://patents.google.com/patent/IT2016000099002A1/it?assignee=infora&oq=infora\">102016000099002</a>; Deposito (2016-10-03) e pubblicazione del brevetto per Sensing Board per l’interazione e la tracciabilità di oggetti riconoscibili su di una superficie flessibile.",
+    "technologies": [
+      "Patenting",
+      "Business Process Management"
+    ],
+    "activities": [
+      "Sensing Board",
+      "Interazione oggetti",
+      "Tracciabilità oggetti"
+    ],
+    "links": [
+      {
+        "name": "Brevetto N. 102016000099002",
+        "url": "https://patents.google.com/patent/IT2016000099002A1/it?assignee=infora&oq=infora"
+      }
+    ],
+    "date_begin": "2018-04-03"
+  },
+  {
+    "id": "WA1804",
+    "name": {
+      "it": "Refactoring grafico al sito IN.SAR.",
+      "en": "Graphical refactoring of the IN.SAR. site",
+      "zh": "IN.SAR. 网站的图形重构"
+    },
+    "technologies": [
+      "Drupal",
+      "Web Development"
+    ],
+    "description": "Ablativ – Insar; Refactoring grafico al sito <a href=\"http://insar.ablativ.it/\">IN.SAR.</a> – Iniziative Sardegna S.p.A.",
+    "links": [
+      {
+        "name": "IN.SAR.",
+        "url": "http://insar.ablativ.it/"
+      }
+    ],
+    "activities": [
+      "Refactoring grafico"
+    ],
+    "date_begin": "2018-04"
+  },
+  {
+    "id": "WA1805",
+    "name": {
+      "it": "UNICA - Epigrafi",
+      "en": "UNICA - Epigraphs",
+      "zh": "UNICA - 题词"
+    },
+    "description": "UNICA – Epigrafi; Sviluppo di un software per l’importazione e la centralizzazione di scritture epigrafiche da fonti digitali eterogenee, sviluppo di tool per la ricerca, l’analisi e l’indicizzazione da tale database.",
+    "activities": [
+      "Importazione scritture epigrafiche",
+      "Centralizzazione scritture epigrafiche",
+      "Ricerca database",
+      "Analisi database",
+      "Indicizzazione database"
+    ],
+    "date_begin": "2018-05",
+    "technologies": [
+      "Java",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "WA1806",
+    "name": {
+      "it": "Ciclops - Citizen Computing Pulsar Search",
+      "en": "Ciclops - Citizen Computing Pulsar Search",
+      "zh": "Ciclops - 公民计算脉冲星搜索"
+    },
+    "date_begin": "2018-06",
+    "description": "Ciclops – Citizen Computing Pulsar Search; Developed by Infora Scarl and Osservatorio Astronomico di Cagliari since 2018, is a citizen science project designed as a Human Based Computation (HBC) application to transform the search for pulsars into an entertaining 3D video game.",
+    "links": [
+      {
+        "name": "Ciclops",
+        "url": "http://ciclops.infora.it/"
+      },
+      {
+        "name": "Infora Scarl Citizen Computing Pulsar Search",
+        "url": "http://infora.it/progetti/citizen-computing-pulsar-search-ciclops"
+      }
+    ],
+    "technologies": [
+      "Human Based Computation",
+      "Unity"
+    ],
+    "activities": [
+      "Citizen Science",
+      "Human Based Computation",
+      "Pulsar Search",
+      "3D Video Game"
+    ]
+  },
+  {
+    "id": "WA1807",
+    "name": {
+      "it": "Ascensum",
+      "en": "Ascensum",
+      "zh": "阿森松"
+    },
+    "description": "Infora – <a href=\"http://www.ascensumthegame.com/\">Ascensum</a>; a new strategic card game for two players, set in H. P. Lovecraft‘s dark universe. Thanks to an innovative technology called Sensing Board, the cards and the board interact with your smartphone where all the game is managed by a mobile app, bringing you a new amazing game experience! Progettazione e realizzazione di una nuova tecnologia per giochi da tavolo ibridi (con componente elettronica), BLE e una nuova applicazione di e-textiles, con relativo software dall’embedded al software per dispositivi mobili basato su Unity; coautore del relativo brevetto [WA1803].",
+    "technologies": [
+      "BLE",
+      "E-textiles",
+      "Unity"
+    ],
+    "activities": [
+      "Hybrid Board Games"
+    ],
+    "links": [
+      {
+        "name": "Ascensum",
+        "url": "http://www.ascensumthegame.com/"
+      }
+    ],
+    "date_begin": "2018-07"
+  },
+  {
+    "id": "WA1808",
+    "name": {
+      "it": "TSV8",
+      "en": "TSV8",
+      "zh": "TSV8"
+    },
+    "description": "AddValue, RealT – TSV8; Evoluzione della suite di Creactives, Total Spending Visibility (TSV7), un <em>System analysis of spending data</em> che consente analisi di aggregazione, spending reviews. In particolare implementazione delle funzionalità BE di analisi BrandAnalysis, Pareto, Custom.",
+    "technologies": [
+      "Java",
+      "Spring",
+      "Elasticsearch",
+      "Postgres"
+    ],
+    "activities": [
+      "Spending Data Analysis",
+      "Aggregation",
+      "Spending Reviews",
+      "BrandAnalysis",
+      "Pareto"
+    ],
+    "date_begin": "2018-08"
+  },
+  {
+    "id": "WA1809",
+    "name": {
+      "it": "Kiosk",
+      "en": "Kiosk",
+      "zh": "信息亭"
+    },
+    "description": "Ablativ – Kiosk; Upgrade dell’applicazione mobile [Android].",
+    "technologies": [
+      "Android"
+    ],
+    "activities": [
+      "Mobile App Upgrade"
+    ],
+    "date_begin": "2018-09"
+  },
+  {
+    "id": "WA1901",
+    "name": {
+      "it": "Starts",
+      "en": "Starts",
+      "zh": "开始"
+    },
+    "description": "UNICA – <a href=\"https://starts.unica.it\">Starts</a>; Sviluppo di una piattaforma informatica interattiva e multifunzionale destinata a sostenere la diffusione e lo scambio della conoscenza fra l’Università degli studi di Cagliari e il territorio, la valorizzazione dei risultati della ricerca e la sistematizzazione della collaborazione tra ateneo e stakeholders tramite la riprogettazione dei processi. Comprende strumenti e microservizi per l’integrazione di dati provenienti da fonti esterne, come Iris e Creditsafe. Un motore per l’arricchimento semantico e la classificazione di testi, ed è stata integrata con un ecosistema di moduli e servizi per l’amministrazione.",
+    "technologies": [
+      "Machine Learning",
+      "Java",
+      "Drupal",
+      "Semantic Web",
+      "Web Development"
+    ],
+    "activities": [
+      "Knowledge Sharing",
+      "Research Valorization",
+      "Stakeholder Collaboration",
+      "Data Integration",
+      "Semantic Enrichment",
+      "Text Classification",
+      "Microservices"
+    ],
+    "links": [
+      {
+        "name": "Starts",
+        "url": "https://starts.unica.it"
+      }
+    ],
+    "date_begin": "2019-01"
+  },
+  {
+    "id": "WA1909",
+    "name": {
+      "it": "xAv",
+      "en": "xAv",
+      "zh": "xAv"
+    },
+    "description": "Pluribus One – xAv; Sviluppo di una soluzione per la protezione dei dispositivi mobili Android. tramite funzionalità di anti malware. Sviluppo delle interfacce con il motore antimalware e di un servizio per la connessione a un provider DNS Custom.",
+    "technologies": [
+      "Android",
+      "Networking",
+      "Project Management"
+    ],
+    "activities": [
+      "Mobile Device Protection",
+      "Anti Malware",
+      "DNS Custom"
+    ],
+    "date_begin": "2019-09"
+  }
+]

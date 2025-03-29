@@ -1,0 +1,62 @@
+
+.single_card {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 6px;
+    text-align: justify;
+    text-justify: inter-word;
+    border: 1px solid #e0e0e0;
+}
+
+
+/* --- Delgado Styling --- */
+
+.col-form-label {
+    text-align: right;
+  }
+  
+  .form-group.row {
+    margin: 10px;
+  }
+  
+  
+  .App {
+    text-align: center;
+    max-width: 1024px;
+    margin: auto;
+  }
+  
+  .item-container {
+    margin-bottom: 1rem;
+    text-align: justify;
+  }
+  
+  .publication-links {
+    display: inline;
+    margin-left: 0.5rem;
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+  }
+  
+  .publication-links li {
+    display: inline;
+  }
+  
+  .publication-links li:not(:last-child)::after {
+    content: ", ";
+  }
+  
+  .content-container {
+    margin: 20px;
+  }
+  
+  .content-header {
+    margin-bottom: 10px;
+  }
+  
+  .nav-item {
+    text-align: left;
+  }
+  

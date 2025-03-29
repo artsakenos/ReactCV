@@ -1,0 +1,310 @@
+[
+    {
+        "name": "Organization of Scientific Events",
+        "description": "Roles in the organization of scientific events, including program committee memberships, and organizing committees.",
+        "items": [
+            {
+                "id": "JELT2024",
+                "title": "Guest Editor",
+                "date_begin": "2025-02-28",
+                "date_end": "2025-05-20",
+                "description": "Guest Editor of the Special Issue \"Through Norms, beyond Norms: The Construction of the Socio-digital World,\" published in the academic Journal of Ethics and Legal Technologies (JELT).",
+                "links": [
+                    {
+                        "name": "JELT",
+                        "url": "https://jelt.padovauniversitypress.it/call-papers"
+                    }
+                ]
+            },
+            {
+                "id": "ISA2013",
+                "title": "Program Committee Member",
+                "date_begin": "2013-07-22",
+                "date_end": "2013-07-24",
+                "description": "ISA 2013 - IADIS International Conference, Intelligent Systems and Agents 2013 @ Multi Conference on Computer Science and Information Systems 2013 (MCCSIS 2013)",
+                "details": [
+                    "Prague, Czech Republic"
+                ],
+                "links": [
+                    {
+                        "name": "ISA 2013",
+                        "url": "http://www.isa-conf.org/committees.asp"
+                    }
+                ]
+            },
+            {
+                "id": "DART2011.R",
+                "title": "Post-proceedings Program Committee Member",
+                "date_begin": "2011-09-17",
+                "description": "DART 2011 - 5th International Workshop on New Challenges in Distributed Information Filtering and Retrieval",
+                "details": [
+                    "Palermo, Italy"
+                ],
+                "links": [
+                    {
+                        "name": "DART 2011",
+                        "url": "http://www.diee.unica.it/dart2011/sc.html"
+                    }
+                ]
+            },
+            {
+                "id": "ISA2012",
+                "title": "Program Committee Member",
+                "date_begin": "2012-07-21",
+                "date_end": "2012-07-23",
+                "description": "ISA 2012 - IADIS Intelligent Systems and Agents 2012 @ Multi Conference on Computer Science and Information Systems 2012 (MCCSIS 2012)",
+                "details": [
+                    "Lisbone, Portugal"
+                ],
+                "links": [
+                    {
+                        "name": "ISA 2012",
+                        "url": "http://www.isa-conf.org/committees.asp"
+                    }
+                ]
+            },
+            {
+                "id": "ACEC2011",
+                "title": "Reviewer",
+                "date_begin": "2011-06-27",
+                "date_end": "2011-06-29",
+                "description": "9th Agent-based Computing for Enterprise Collaboration (ACEC), Conference Track @ IEEE WETICE 2011",
+                "details": [
+                    "Paris, France"
+                ],
+                "links": [
+                    {
+                        "name": "ACEC 2011",
+                        "url": "https://www.researchgate.net/publication/221014993_Agent-Based_Computing_for_Enterprise_Collaboration_Agents_and_Services_Interoperability_Track_Report_-_ACEC_2011"
+                    }
+                ]
+            },
+            {
+                "id": "DART2011",
+                "title": "Scientific Committee Member",
+                "date_begin": "2011-09-17",
+                "description": "DART 2011 - 4th International Workshop on Distributed Agent-Based Retrieval Tools",
+                "details": [
+                    "Webster University Geneva School of Business and Technology Department of Mathematics and Computer Science, Geneva"
+                ],
+                "links": [
+                    {
+                        "name": "DART 2011",
+                        "url": "http://www.diee.unica.it/dart2011/sc.html"
+                    }
+                ]
+            },
+            {
+                "id": "ISA2011",
+                "title": "Program Committee Member",
+                "date_begin": "2011-07-20",
+                "date_end": "2011-07-26",
+                "description": "ISA 2011 - IADIS Intelligent Systems and Agents 2011 @ Multi Conference on Computer Science and Information Systems 2011 (MCCSIS 2011)",
+                "details": [
+                    "Rome, Italy"
+                ],
+                "links": [
+                    {
+                        "name": "ISA 2011",
+                        "url": "http://www.isa-conf.org/committees.asp"
+                    }
+                ]
+            },
+            {
+                "id": "NPL2011",
+                "title": "Reviewer",
+                "description": "Journal \"Neural Processing Letters\" - Springer, Editors in Chief: M. Verleysen, M.H. Hassoun - Journal no. 11063, 2011 / ISSN: 1370-4621 (print version) / ISSN: 1573-773X (electronic version)"
+            },
+            {
+                "id": "DART2010.R",
+                "title": "Post-proceedings Program Committee Member",
+                "date_begin": "2010-11-10",
+                "description": "DART 2010 - 4th International Workshop on Distributed Agent-Based Retrieval Tools",
+                "details": [
+                    "Webster University Geneva School of Business and Technology Department of Mathematics and Computer Science; Geneva"
+                ],
+                "links": [
+                    {
+                        "name": "DART 2010",
+                        "url": "http://www.dart-project.org/dart2010/doku.php"
+                    }
+                ]
+            },
+            {
+                "id": "EASSS2010",
+                "title": "Program Committee Member",
+                "date_begin": "2010-08-23",
+                "date_end": "2010-08-27",
+                "description": "EASSS 2010 - The 12th European Agent Systems Summer School",
+                "details": [
+                    "Ecole Nationale Superieure des Mines de Saint-Etienne (ENSM-SE) in Saint-Etienne, France"
+                ],
+                "links": [
+                    {
+                        "name": "EASSS 2010",
+                        "url": "http://easss2010.emse.fr"
+                    }
+                ]
+            },
+            {
+                "id": "IADIS2010",
+                "title": "Chair of the session “Agents”",
+                "date_begin": "2010-07-29",
+                "date_end": "2010-07-31",
+                "description": "IADIS: International Conference Intelligent Systems and Agents 2010",
+                "details": [
+                    "Freiburg, Germany"
+                ]
+            },
+            {
+                "id": "ISA2010",
+                "title": "Program Committee Member",
+                "date_begin": "2010-07-26",
+                "date_end": "2010-07-31",
+                "description": "IADIS Intelligent Systems and Agents 2010 (ISA 2010) @ Multi Conference on Computer Science and Information Systems 2010 (MCCSIS 2010)",
+                "details": [
+                    "Freiburg, Germany"
+                ]
+            },
+            {
+                "id": "BMIC2010",
+                "title": "Reviewer",
+                "date_begin": "2010-06-29",
+                "date_end": "2010-07-02",
+                "description": "BMIC 2010 - 4th International Symposium on Bio- and Medical Informatics and Cybernetics - In the Context of WMSCI 2010: The 14th Multi-conference on Systemics, Cybernetics and Informatics",
+                "details": [
+                    "Orlando, Florida, USA"
+                ],
+                "links": [
+                    {
+                        "name": "BMIC 2010",
+                        "url": "http://www.iiis2010.org/wmsci/Website/AboutConfer.asp?vc=19"
+                    }
+                ]
+            },
+            {
+                "id": "DART2010",
+                "title": "Scientific Committee Member",
+                "date_begin": "2010-06-18",
+                "description": "DART 2010 - 4th International Workshop on Distributed Agent-Based Retrieval Tools",
+                "details": [
+                    "Webster University Geneva School of Business and Technology Department of Mathematics and Computer Science, Geneva"
+                ],
+                "links": [
+                    {
+                        "name": "DART 2010",
+                        "url": "http://www.dart-project.org/dart2010/doku.php"
+                    }
+                ]
+            },
+            {
+                "id": "WORSAR2009",
+                "title": "Organizing Committee Member",
+                "date_begin": "2009-09-24",
+                "date_end": "2009-09-25",
+                "description": "WORSAR 2009: Primo Workshop Regionale Sardo degli Assegnisti di Ricerca",
+                "details": [
+                    "Cittadella Universitaria di Monserrato, Cagliari"
+                ]
+            },
+            {
+                "id": "DART2009",
+                "title": "Scientific Committee Member",
+                "date_begin": "2009-09-15",
+                "description": "DART 2009: 3nd International Workshop on Distributed Agent-based Retrieval Tools",
+                "details": [
+                    "Milano, Italy"
+                ]
+            },
+            {
+                "id": "BMIC2009",
+                "title": "Program Committee Member",
+                "date_begin": "2009-07-10",
+                "date_end": "2009-07-13",
+                "description": "BMIC 2009, The 3rd International Symposium on Bio- and Medical Informatics and Cybernetics, In the Context of the 13th Multi-conference on Systemics, Cybernetics and Informatics: WMSCI 2009",
+                "details": [
+                    "Orlando, Florida, USA"
+                ]
+            },
+            {
+                "id": "MCCSIS2009",
+                "title": "Program Committee Member",
+                "date_begin": "2009-06-17",
+                "date_end": "2009-06-23",
+                "description": "IADIS Multi Conference on Computer Science and Information Systems",
+                "details": [
+                    "Algarve, Portugal"
+                ]
+            },
+            {
+                "id": "IIA2008",
+                "title": "Organizing Committee Member",
+                "date_begin": "2008-12-09",
+                "date_end": "2008-12-11",
+                "description": "IIA 2008: Intelligent Information Access",
+                "details": [
+                    "Sardegna Ricerche, Scientific and Technological Park, Building 2 - Auditorium, Loc. Piscinamanna, PULA (CA), Italy"
+                ]
+            },
+            {
+                "id": "DART2008",
+                "title": "Scientific Committee Member",
+                "date_begin": "2008-09-10",
+                "description": "DART 2008: 2nd International Workshop on Distributed Agent-based Retrieval Tools",
+                "details": [
+                    "Cittadella dei Musei, Cagliari"
+                ]
+            },
+            {
+                "id": "AIIA2008",
+                "title": "Organizing Committee Member",
+                "date_begin": "2008-09-11",
+                "date_end": "2008-09-13",
+                "description": "AIIA 2008: Conference on Artificial Intelligence and Life Science",
+                "details": [
+                    "Cittadella dei Musei, Cagliari"
+                ]
+            },
+            {
+                "id": "MCCSIS2008",
+                "title": "Program Committee Member",
+                "date_begin": "2008-07-22",
+                "date_end": "2008-07-27",
+                "description": "MCCSIS 2008: Multi Conference on Computer Science and Information Systems",
+                "details": [
+                    "Netherlands"
+                ]
+            },
+            {
+                "id": "EASSS2008",
+                "title": "Program Committee Member",
+                "date_begin": "2008-05-05",
+                "date_end": "2008-05-09",
+                "description": "EASSS 2008: 10th European Agent Systems Summer School",
+                "details": [
+                    "New University of Lisbon, Portugal"
+                ]
+            },
+            {
+                "id": "NETTAB2006",
+                "title": "Organizing Committee Member",
+                "date_begin": "2006-07-10",
+                "date_end": "2006-07-13",
+                "description": "NETTAB '06: Distributed Applications, Web Services, Tools and GRID Infrastructures for Bioinformatics",
+                "details": [
+                    "Is Morus Hotel, Santa Margherita di Pula, Cagliari, Italy"
+                ]
+            },
+            {
+                "id": "ISCC2006",
+                "title": "Organizing Committee Member",
+                "date_begin": "2006-06-26",
+                "date_end": "2006-06-29",
+                "description": "ISCC 2006: The 11th IEEE Symposium on Computers and Communications",
+                "details": [
+                    "Flamingo Hotel, Santa Margherita di Pula, Cagliari, Italy"
+                ]
+            }
+        ]
+    }
+]

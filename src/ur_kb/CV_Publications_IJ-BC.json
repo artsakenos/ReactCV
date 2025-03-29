@@ -1,0 +1,258 @@
+[
+    {
+        "id": "BC01",
+        "type": "Book Chapter",
+        "authors": "Andrea Addis, Giuliano Armano, Francesco Mascia, Eloisa Vargiu",
+        "title": "Hierarchical Text Categorization through a Vertical Composition of Classifiers",
+        "source": "AIxIA 2007: Artificial Intelligence and Human-Oriented Computing",
+        "coordinates": "pp. 742–748",
+        "publisher": "Roberto Basili, Maria Teresa Pazienza (eds.), LNAI 4733, Springer-Verlag",
+        "date": "2007-09-10",
+        "links": [
+            {
+                "name": "PDF on ResearchGate",
+                "url": "https://www.researchgate.net/publication/221153351_Hierarchical_Text_Categorization_Through_a_Vertical_Composition_of_Classifiers"
+            }
+        ]
+    },
+    {
+        "id": "BC02",
+        "type": "Book Chapter",
+        "authors": "Andrea Addis, Daniel Borrajo",
+        "title": "From Unstructured Web Knowledge to Plan Description",
+        "source": "Information Retrieval and Mining in Distributed Environments",
+        "coordinates": "Vol. N° 324, pp. 41–59",
+        "publisher": "Alessandro Soro, Eloisa Vargiu, Giuliano Armano, Gavino Paddeu (eds.)",
+        "date": "2010-11",
+        "links": [
+            {
+                "name": "PDF on Springer",
+                "url": "https://link.springer.com/chapter/10.1007/978-3-642-16089-9_3"
+            }
+        ]
+    },
+    {
+        "id": "BC03",
+        "type": "Book Chapter",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "A Comparative Experimental Assessment of a Threshold Selection Algorithm in Hierarchical Text Categorization",
+        "source": "Advances in Information Retrieval, 33rd European Conference on Information Retrieval (ECIR 2011)",
+        "coordinates": "Vol. N° 324, pp. 32–42",
+        "publisher": "P. Clough et al. (Eds.), LNCS 6611 – Springer-Verlag, Studies in Computational Intelligence series",
+        "date": "2011-04-18",
+        "links": [
+            {
+                "name": "PDF on Springer",
+                "url": "https://link.springer.com/chapter/10.1007/978-3-642-20161-5_6"
+            }
+        ]
+    },
+    {
+        "id": "BC04",
+        "type": "Book Chapter",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "Progressive Filtering on the Web: The Press Reviews Case Study",
+        "source": "Learning Structure and Schemas from Documents",
+        "coordinates": "Vol. 375, pp. 143–163",
+        "publisher": "M. Biba and F. Xhafa (eds.), Springer-Verlag, Studies in Computational Intelligence series",
+        "date": "2011-08",
+        "links": [
+            {
+                "name": "PDF on Springer",
+                "url": "https://link.springer.com/chapter/10.1007/978-3-642-22913-8_7"
+            }
+        ]
+    },
+    {
+        "id": "BC05",
+        "type": "Book Chapter",
+        "authors": "Andrea Addis, Giuliano Armano, Andrea Manconi, Eloisa Vargiu",
+        "title": "Retrieving and Categorizing Bioinformatics Publications through a MultiAgent System",
+        "source": "Computational Biology and Applied Bioinformatics",
+        "coordinates": "pp. 205–222",
+        "publisher": "Heitor Silverio Lopes and Leonardo Magalhães Cruz (Ed.) / ISBN: 978-953-307-629-4 / InTech press",
+        "date": "2011",
+        "links": [
+            {
+                "name": "PDF File",
+                "url": "link-to-pdf-file"
+            },
+            {
+                "name": "On Book",
+                "url": "link-to-book"
+            }
+        ]
+    },
+    {
+        "id": "BC06",
+        "type": "Book Chapter",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "Experimentally Studying Progressive Filtering in Presence of Input Imbalance",
+        "source": "Selected and extended papers from IC3K 2010",
+        "coordinates": "Vol. N. 324",
+        "publisher": "Fred, A.; Dietz, J.L.G.; Liu, K.; Filipe, J. (Eds.), Springer-Verlag, Studies in Computational Intelligence series",
+        "date": "2012-04"
+    },
+    {
+        "id": "BC07",
+        "type": "Book Chapter",
+        "authors": "Andrea Addis, Stefano Curatti, Filippo Ledda",
+        "title": "Le tecnologie utili ad una migliore qualità della vita degli anziani",
+        "source": "(publication in progress)",
+        "date": "2012",
+        "links": [
+            {
+                "name": "Download",
+                "url": "link-to-download-file"
+            }
+        ]
+    },
+    {
+        "id": "IJ01",
+        "type": "International Journal",
+        "authors": "Eloisa Vargiu, Andrea Addis",
+        "title": "A MultiAgent System for Classifying Bioinformatics Publications",
+        "source": "International Transactions on Systems Science and Applications Special Issue on Agents in Bioinformatics and Health Informatics",
+        "coordinates": "vol.1(1), pp. 67–74",
+        "publisher": "Giuliano Armano, Rainer Unland (eds.)",
+        "date": "2006",
+        "links": [
+            {
+                "name": "PDF File",
+                "url": "link-to-pdf-file"
+            }
+        ]
+    },
+    {
+        "id": "IJ02",
+        "type": "International Journal",
+        "authors": "Andrea Addis, Giuliano Armano, Francesco Mascia, Eloisa Vargiu",
+        "title": "Protein Secondary Structure Prediction through a Cooperative MultiAgent Learning Approach",
+        "source": "System and Information Sciences Notes",
+        "coordinates": "Vol.2(1), 2007-09, pp. 122–125",
+        "publisher": "Huaglory Tianfield (ed.)",
+        "date": "2007-09",
+        "links": [
+            {
+                "name": "PDF File",
+                "url": "link-to-pdf-file"
+            }
+        ]
+    },
+    {
+        "id": "IJ03",
+        "type": "International Journal",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "WIKI.MAS: A MultiAgent Information Retrieval System for Classifying Wikipedia Contents",
+        "source": "Communications of SIWN",
+        "coordinates": "Vol.3, 2008-06 – pp. 83–87",
+        "publisher": "Huaglory Tianfield (ed.)",
+        "date": "2008",
+        "links": [
+            {
+                "name": "PDF File",
+                "url": "link-to-pdf-file"
+            }
+        ]
+    },
+    {
+        "id": "IJ04",
+        "type": "International Journal",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "A Progressive Filtering Approach to Hierarchical Text Categorization",
+        "source": "Communications of SIWN",
+        "coordinates": "Vol.5, 2008-08, pp. 28–32",
+        "publisher": "Huaglory Tianfield (ed.), ISSN: 1757-4439, 1757-4447",
+        "date": "2008-08",
+        "links": [
+            {
+                "name": "PDF File",
+                "url": "link-to-pdf-file"
+            }
+        ]
+    },
+    {
+        "id": "IJ05",
+        "type": "International Journal",
+        "authors": "Andrea Addis, Manuela Angioni, Giuliano Armano, Roberto Demontis, Franco Tuveri, Eloisa Vargiu",
+        "title": "A novel semantic approach to document collections",
+        "source": "IADIS International Journal on Computer Science and Information Systems",
+        "coordinates": "Vol.4(2), pp. 73–85",
+        "publisher": "Pedro Isaías and Marcin Paprzycki (eds.), ISSN: 1646-3692",
+        "date": "2009",
+        "links": [
+            {
+                "name": "PDF File",
+                "url": "link-to-pdf-file"
+            }
+        ]
+    },
+    {
+        "id": "IJ06",
+        "type": "International Journal",
+        "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+        "title": "MultiAgent Systems and Information Retrieval: Our Experience with X.MAS",
+        "source": "Journal of Expert Systems with Applications",
+        "coordinates": "Volume 39, Issue 3, pp. 2509–2523",
+        "publisher": "Elsevier",
+        "date": "2012-02-15",
+        "links": [
+            {
+                "name": "PDF File",
+                "url": "link-to-pdf-file"
+            },
+            {
+                "name": "Online Version",
+                "url": "link-to-online-version"
+            }
+        ]
+    },
+    {
+        "id": "IJ07",
+        "type": "International Journal",
+        "authors": "Andrea Addis, Olimpia Loddo, Massimiliano Saba",
+        "title": "Social Acts in Digital Environments",
+        "source": "Phenomenology & Mind",
+        "coordinates": "Vol. 20, pp. 64",
+        "publisher": "",
+        "date": "2021",
+        "links": [
+            {
+                "name": "PDF File",
+                "url": "link-to-pdf-file"
+            }
+        ]
+    },
+    {
+        "id": "IJ08",
+        "type": "International Journal",
+        "authors": "Andrea Addis, Olimpia Giuliana Loddo",
+        "title": "An Intersemiotic Translation of Normative Utterances to Machine Language",
+        "source": "International journal of Web & Semantic Technology",
+        "coordinates": "Vol. 13(1), pp. 1–11",
+        "publisher": "",
+        "date": "2022",
+        "links": [
+            {
+                "name": "PDF on Academia",
+                "url": "https://www.academia.edu/112288124/An_Intersemiotic_Translation_of_Normative_Utterances_to_Machine_Language"
+            }
+        ]
+    },
+    {
+        "id": "IJ09",
+        "type": "International Journal",
+        "authors": "Olimpia Loddo, Andrea Addis, Giuseppe Lorini",
+        "title": "Intersemiotic translation of contracts into digital environments",
+        "source": "Frontiers in Artificial Intelligence",
+        "coordinates": "Vol. 5:963692",
+        "publisher": "",
+        "date": "2022-09-07",
+        "links": [
+            {
+                "name": "Frontiers in AI",
+                "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.963692/full"
+            }
+        ]
+    }
+]

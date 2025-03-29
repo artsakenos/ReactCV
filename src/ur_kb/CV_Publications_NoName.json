@@ -1,0 +1,175 @@
+[
+    {
+      "name": "Scientific Publications",
+      "description": "Partecipation to more scientific publications.",
+      "items": [
+        {
+          "id": "IJ04",
+          "title": "Using Guarded Experts to Perform Protein Secondary Structure Prediction",
+          "date_begin": "2009-12",
+          "description": "Giuliano Armano, Francesco Mascia; International Transactions on Systems Science and Applications; Vol.5, No.4, pp. 390–396",
+          "details": [
+            "See email from Tianfield, Huaglory; H.Tianfield@gcal.ac.uk, Reprint To ITSSA Journal, 07/10/2009 0.28, [->IJ2]"
+          ],
+          "links": [],
+          "type": "Journal Article"
+        },
+        {
+          "id": "IJ03",
+          "title": "Experimenting Combinations of Content-Based and Collaborative Filtering with a Photo Recommender System",
+          "date_begin": "2008-08",
+          "date_end": null,
+          "description": "Maurizio Agelli, Giuliano Armano, Giancarlo Cherchi, Maria Laura Clemente, Daniela Ghironi; Communications of SIWN; Vol.5",
+          "details": [
+            "Formalization of User Profiling techniques",
+            "Complete refactoring and optimization of libraries for text categorization",
+            "Installation of multiwordnet, parsing, and construction of Wordnet and Wikipedia datasets for the MySQL database",
+            "Adaptation and dump of the database (On Phobos \"Wikipedia_Clasification Wordnet_Classification 20071207 1748.sql\", \"Pobas WordnetDomain 20071207 1731.sql\") and the architecture for standalone use of the user profiling application; Tests on the installation process",
+            "Creation of classes for graphs and development of the simplified page ranking algorithm",
+            "Testing of libraries for queries via web service with xml-rpc protocol",
+            "Design of algorithms to determine the accuracy of the system towards a user, in particular the algorithm to assign a score to a user's interest in a given item based on their profile",
+            "Procedure for classifying a set of documents for the description of a user, for the reuse of available tools",
+            "Communication with CRS4 for the design and development of the architecture for user profiling and for the future development of the recommender system",
+            "Skype Chat E 07/04/2009 19:20",
+            "Development of Wiki.MAS @Hoplo (2008)" 
+          ],
+          "links": [],
+          "type": "Journal Article"
+        },
+        {
+          "id": "IJ02",
+          "title": "A MultiAgent System for Retrieving Bioinformatics Publications from Web Sources",
+          "date_begin": "2007-06",
+          "date_end": null,
+          "description": "Giuliano Armano, Andrea Manconi, Eloisa Vargiu; IEEE Transactions on Nanobioscience, Special Session on GRID, Web Services, Software Agents and Ontology Applications for Life Science; Vol.6 N.2, pp. 104–109",
+          "details": [
+            "Startup of the BioPACMAS project, study of technologies for interfacing Jade with web services, in particular WSIG, WSDL",
+            "Creation of parsers for the BMC and Springer sites and construction of datasets for experimentation (16/04/2006)",
+            "Initial experimentation phases",
+            "Engineering of the PACMAS multi-agent system for starting Text Categorization experiments on selected datasets",
+            "Creation of the first prototype of the web server (thesis N. Degortes)",
+            "Setting up and starting experiments, collecting results in tabular and graphical format, and studying the performance of pipeline classification",
+            "Development of the web server and the first version of the interface for manual reclassification of available datasets by competent users. See also Poster BITS 2006."
+          ],
+          "links": [],
+          "type": "Journal Article"
+        },
+        {
+          "id": "IJ01",
+          "title": "Using Taxonomic Domain Knowledge in Text Categorization Tasks",
+          "date_begin": "2007",
+          "date_end": null,
+          "description": "Giuliano Armano, Francesco Mascia, Eloisa Vargiu; International Journal of Intelligent Control and Systems, Special Issue on “Distributed Intelligent Systems”; Vol.12 N.2, pp. 150–157, H. Zhu (ed.)",
+          "details": [
+            "Development and setup of the multi-agent system for starting Text Categorization experiments",
+            "Creation of algorithms and infrastructure for pipeline classification of documents according to the \"fixed threshold\" and \"threshold per classifier\" methods",
+            "Creation of parsers for the Reuters dataset, structuring and optimization of the document database, setting up information agents for interfacing with the database, and preliminary test phases",
+            "Project on automatic taxonomy construction @Hoplo (2010)"
+          ],
+          "links": [],
+          "type": "Journal Article"
+        },
+        {
+          "id": "BC02",
+          "title": "A MultiAgent System for Monitoring Boats in Marine Reserves",
+          "date_begin": null,
+          "date_end": null,
+          "description": "Giuliano Armano, Eloisa Vargiu; Programming Multi-Agent Systems; L. Braubach, J.P. Briot, and J. Thangarajah (eds.), LNAI series, Springer-Verlag",
+          "details": [
+            "The Agent system, architectural design",
+            "Initial \"collaboration\" with Brancaleone",
+            "The prototype system \"Start.MAS\" was used until the presentation of the project"
+          ],
+          "links": [],
+          "type": "Book Chapter"
+        },
+        {
+          "id": "BC01",
+          "title": "BIOPACMAS: A Personalized, Adaptive, and Cooperative MultiAgent System for Predicting Protein Secondary Structure",
+          "date_begin": "2005",
+          "date_end": null,
+          "description": "Giuliano Armano, Gianmaria Mancosu, Alessandro Orro, Massimiliano Saba, Eloisa Vargiu; AI*IA 2005: Advance in Artificial Intelligence; pp. 587–598, S. Bandini and S. Manzoni (eds.), LNAI 3673, Springer-Verlag",
+          "details": [
+            "See Degree Thesis"
+          ],
+          "links": [],
+          "type": "Book Chapter"
+        },
+        {
+          "id": "IC04",
+          "title": "A MultiAgent System for Monitoring Boats in Marine Reserves",
+          "date_begin": "2009-05-11",
+          "date_end": null,
+          "description": "Giuliano Armano, Eloisa Vargiu; PROMAS 2009: 7th International Workshop on Programming Multi-Agent Systems; Budapest (Hungary); pp. 1–13",
+          "details": [
+            "Creation of the software infrastructure [->@BC2]"
+          ],
+          "links": [],
+          "type": "Conference Paper"
+        },
+        {
+          "id": "IC03",
+          "title": "Experimenting Combinations of Content-Based and Collaborative Filtering with a Photo Recommender System",
+          "date_begin": "2008-09-10",
+          "date_end": null,
+          "description": "Maurizio Agelli, Giuliano Armano, Giancarlo Cherchi, Maria Laura Clemente, Daniela Ghironi; DART 2008; Cittadella dei Musei, Cagliari, Italy  [->@IJ3]",
+          "details": [
+            "See Degree Thesis"
+          ],
+          "links": [],
+          "type": "Conference Paper"
+        },
+        {
+          "id": "IC02",
+          "title": "BIOPACMAS: A Personalized, Adaptive, and Cooperative MultiAgent System for Predicting Protein Secondary Structure",
+          "date_begin": "2005-09-21",
+          "date_end": "2005-09-23",
+          "description": "Giuliano Armano, Gianmaria Mancosu, Alessandro Orro, Massimiliano Saba, Eloisa Vargiu; AI*IA 2005 – 9th Congress of the Italian Association of Artificial Intelligence; Milan, Italy [->@BC1]",
+          "details": [
+            "See Degree Thesis"
+          ],
+          "links": [],
+          "type": "Conference Paper"
+        },
+        {
+          "id": "IC01",
+          "title": "Using a Personalized Adaptive and Cooperative MultiAgent System for Predicting Protein Secondary Structure",
+          "date_begin": "2005-07-25",
+          "date_end": null,
+          "description": "Alessandro Orro, Massimiliano Saba, Eloisa Vargiu, Gianmaria Mancosu; MAS*BIOMED’05: First International Workshop on Multi-Agent Systems for Medicine, Computational Biology, and Bioinformatics; Utrecht, The Netherlands; L. Braubach, J.P. Briot, and J. Thangarajah (Eds.), LNAI series, Springer-Verlag",
+          "details": [
+            "See Degree Thesis"
+          ],
+          "links": [],
+          "type": "Conference Paper"
+        },
+        {
+          "id": "NC02",
+          "title": "PACMAS: A Personalized, Adaptive, and Cooperative MultiAgent System Architecture",
+          "date_begin": "2005-11-14",
+          "date_end": "2005-11-16",
+          "description": "Giuliano Armano, Giancarlo Cherchi, Andrea Manconi, Eloisa Vargiu; In Proceedings of WOA 2005 (Dagli Oggetti agli Agenti, Simulazione e Analisi Formale di Sistemi Complessi); Camerino (MC), Italy",
+          "details": [
+            "Creation, development, prototyping, and reengineering of the PACMAS Multi-agent architecture",
+            "The work was used within the doctoral theses of Giancarlo Cherchi, Andrea Manconi, Massimiliano Saba."
+          ],
+          "links": [],
+          "type": "Conference Paper"
+        },
+        {
+          "id": "NC01",
+          "title": "Text Categorization Using a Personalized, Adaptive, and Cooperative MultiAgent System",
+          "date_begin": "2005-11-14",
+          "date_end": "2005-11-16",
+          "description": "Giancarlo Cherchi, Andrea Manconi, Eloisa Vargiu, Dario Deledda; In Proceedings of WOA 2005 (Dagli Oggetti agli Agenti, Simulazione e Analisi Formale di Sistemi Complessi); Camerino (MC)",
+          "details": [
+            "See Degree Thesis",
+            "Adaptation of the PACMAS architecture for tasks related to Information Retrieval and Text Categorization"
+          ],
+          "links": [],
+          "type": "Conference Paper"
+        }
+      ]
+    }
+  ]
+  

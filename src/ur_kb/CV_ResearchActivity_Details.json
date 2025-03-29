@@ -1,0 +1,106 @@
+[
+    {
+      "name": "Research Activities (Details)",
+      "description": "Detailed description of research activities.",
+      "items": [
+        {
+          "title": "Multi-agent systems for information filtering and retrieval",
+          "date_begin": null,
+          "date_end": null,
+          "description": "Research activity mainly aimed at the creation of a multi-agent system for filtering and retrieving information from heterogeneous sources. The generic architecture, called X.MAS, has been tested in various applications in the field of information filtering and information retrieval [IJ6]. \n\nDeveloped frameworks and systems for information retrieval and classification in heterogeneous and distributed contexts [IC6, @NC2], in particular architectures for Text classification [W4, @NC1] also through the use of semantic techniques [IJ5], automatic retrieval and categorization of textual and multimedia content, user profiling [W6, W8, IJ3, IC1, IC3, IC13, IC14, NC1, NC3, @IC3], experimentation with machine learning techniques in the bioinformatics field and for the classification and retrieval of Biological Data [W9, W12, IJ1, IC4], automatic definition of planners [BC2, IC10] and software for the control of protected marine areas [NC2, @BC2]; Development of a scalable, non-invasive and low-cost system for ambient intelligence [NC4];\n\nThe system was indicated as one of the most concrete cases of use of agent systems in the industrial context, freeing agents from the mere theoretical paradigm [See Multi-Agent Systems in the Industry – Three Notable Cases in Italy; F. Bergenti and E. Vargiu; In Proceedings of 11th Workshop dagli Oggetti agli Agenti (WOA 2010), CEUR Workshop Proceedings, Vol. 621, September 6-7, 2010, Rimini, Italy]. In particular, the following were mentioned: (i) The system developed together with Arcadia Design within the DMC (Digital Media Center) project ordered by Cosmic Blue Team, (ii) the project \"A Multiagent System for Monitoring Intrusions in Marine Reserves\" (POR Sardegna 2000/2006, Asse 3 – Misura 3.13) supported by the Autonomous Region of Sardinia where an agent-based approach for monitoring and reporting intrusions in protected marine areas was tested. The system developed in collaboration with the companies SETI S.N.C.10 and ICHNOWARE S.A.S., takes into consideration the signals sent by boats via GSM and GPS technologies to show positions and authorizations in the protected area of interest via a digital radar.\n\nMost of the applications were presented in [IJ6].",
+          "details": [],
+          "links": []
+        },
+        {
+          "title": "Hierarchical document categorization",
+          "date_begin": null,
+          "date_end": null,
+          "description": "Research activity aimed at the study and experimentation of hierarchical categorization techniques aimed at improving the performance of classical classification systems in conditions of strong imbalance between positive and negative examples. For this purpose, a progressive filtering system was defined and this system was tested using datasets typically used in the field of text categorization. This study was refined during the activity carried out in the [W09] project [@IJ1, @NC1].",
+          "details": [],
+          "links": [
+            {
+              "name": null,
+              "url": "https://andreaaddis.wordpress.com/curriculum-it/ricerca-e-sviluppo/attivita-nel-progetto-di-ricerca-w09/"
+            }
+          ]
+        },
+        {
+          "title": "User Profiling and Recommender Systems",
+          "date_begin": null,
+          "date_end": null,
+          "description": "Research activity aimed at creating systems capable of providing users with personalized content, which is potentially relevant and of interest. A crucial point for the realization of these systems is the definition of effective algorithms for determining the user profile, starting from statistical and/or semantic analyses of the textual descriptions of the contents consulted [NC3, Thesis I. Masala].",
+          "details": [],
+          "links": []
+        },
+        {
+          "title": "Multiple expert systems for the prediction of secondary structures in amino acid chains",
+          "date_begin": null,
+          "date_end": null,
+          "description": "Research continued aimed at creating a hybrid genetic-neural system to be used for the prediction of secondary structures in amino acid sequences. The architecture of the system has been analyzed and defined both from a theoretical and applicative point of view in all aspects considered relevant: the methods of managing the population of experts, the learning algorithms incorporated in each individual expert, the data encoding techniques, and the post-processing activities. Within the scope of data encoding, innovative techniques aimed at highlighting the possible residual correlation between sequences of amino acids and corresponding secondary structures were also tested. In particular, protein data encoding methodologies based on multiple alignment were studied. To this end, an innovative coding technique has been developed which, when used for the training of prediction systems based on artificial neural networks, has proved capable of raising the performance obtainable with current state-of-the-art methods [IC5 -> IJ2, @IJ4, @BC1, @IC2, @IC1].",
+          "details": [],
+          "links": []
+        },
+        {
+          "title": "Infrastructures for domotics and ambient intelligence",
+          "date_begin": null,
+          "date_end": null,
+          "description": "Although current technologies allow the use of systems that satisfy most of our needs, their use is often not very intuitive, and sometimes even more complex than it was in the past. Furthermore, the intrinsic nature of the devices prevents their combination. DomoBuilder [NC4], is an architectural solution for the abstraction of heterogeneous hardware devices in a home automation context, and a protocol for their integration that allows you to design complex systems in the home and for ambient intelligence in an extremely simple way and with low-cost hardware.",
+          "details": [],
+          "links": [
+            {
+              "name": "DomoBuilder",
+              "url": "http://infodev.wordpress.com/2010/01/20/domobuilder/"
+            }
+          ]
+        },
+        {
+          "title": "Systems for automatic planning",
+          "date_begin": null,
+          "date_end": null,
+          "description": "Planning requires a careful and highly reliable domain model definition process. This aspect is historically taken care of by planning experts, on the other hand in many domains there is an immense resource of digital documents that describe processes or plans in a semi-structured way. This is the case of HowTo websites (e.g., WikiHow), which have a considerable knowledge base regarding these domains, in which the plans are described through a defined set of templates [IC10, BC2]. I have worked on a suite of tools capable of automatically extracting knowledge from these unstructured descriptions to plans usable in various planning applications.",
+          "details": [],
+          "links": [
+            {
+              "name": "WikiHow",
+              "url": "http://WikiHow.com"
+            }
+          ]
+        },
+        {
+          "title": "Architectures for Datamining",
+          "date_begin": null,
+          "date_end": null,
+          "description": "The study of time series [W5], the analysis of biomedical traces [W7], the study and prediction of secondary structures [W10, IJ2, @BC1, @IC1], experimentation with machine learning techniques for artificial intelligence with particular reference to hierarchical classification [IJ4, BC1, IC11, IC12, IC15, IC16, @IJ1].",
+          "details": [],
+          "links": []
+        },
+        {
+          "title": "Study of the Chinese language and tools for developers",
+          "date_begin": null,
+          "date_end": null,
+          "description": "I carried out an analysis and collection of resources available online for the study of the Chinese language and the development of ad hoc software for text analysis.  I collaborate on projects for indexing and studying the composition of Chinese characters (e.g., CCD on Wikimedia Commons, contributions and applications). I have created some tools to support the study of the Chinese language. Many of these tools have been included as modules within the *Chinese Supporter* software.\n\nIn parallel with the classical study of Chinese (a teacher and a good textbook, without which it is difficult to start studying and practicing the language), I have prepared a study methodology based on the flashcard technique, refining it in such a way to make it as efficient as possible by exploiting parallel learning strategies. I modified the word study templates so that they contained information on individual characters, examples of use and further visual and sound information. The research and selection of study topics has been simplified thanks to tags for selecting predefined sets of characters during the study. In particular, I created a dataset for the study of the characters relating to the textbook \"Il cinese per gli Italiani\" by Federico Masini et al.\nI then created auxiliary supports that allow, during the study, to quickly deepen the knowledge of a character or a word, both from the point of view of etymology, decomposition, the order of the strokes in writing, the meaning, examples of use , tools for carrying out related searches, etc. Ref. Article: \"Hanzi Components'\", on Infodev.\n\nI am working on writing a compact, orderly and as exhaustive as possible grammatical compendium. There are, in addition to grammar, so-called \"quicksheets\", i.e. compact learning maps or rule books that combine the study of key concepts, and study tables for conceptual groups such as, for example, locators, comparatives, rules, forms and copulas for the interrogative form, etc.\nI have collected and listed the most interesting techniques for memorizing and using the language, also in the phonetic sector. At the database level, all the prepositions, the most common adverbs, and the lemmas connected to particular rules, such as pivotal phrases, verbs with double objects, etc. are collected in groups.\nI plan to add synthetic information on history and customs; although it should not become an exhaustive treatise on China, it is still important to provide those who want to study the language with an idea of the historical and social context in which it develops, to be prepared to face a comparison in real and non-scholastic life.",
+          "details": [],
+          "links": [
+            {
+              "name": "CCD",
+              "url": "https://commons.wikimedia.org/wiki/Commons:Chinese_characters_decomposition"
+            },
+            {
+              "name": "contributi e applicazioni",
+              "url": "https://commons.wikimedia.org/wiki/User:Artsakenos#Contributions_in_the_Chinese_Character_Decomposition_.28CCD.29_project"
+            },
+            {
+              "name": "strumenti per il supporto allo studio della lingua cinese",
+              "url": "http://infodev.wordpress.com/2011/11/25/studio-del-cinese/"
+            },
+            {
+               "name": "Hanzi Components",
+               "url": "http://infodev.wordpress.com/2011/11/05/hanzi-components/"
+            }
+  
+          ]
+        }
+      ]
+    }
+  ]
+  

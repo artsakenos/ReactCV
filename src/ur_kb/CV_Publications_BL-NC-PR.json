@@ -1,0 +1,74 @@
+[
+  {
+    "id": "BL01",
+    "type": "Blog",
+    "authors": "Olimpia Loddo, Andrea Addis",
+    "title": "Tre funzioni dell’IA nella gestione dei flussi migratori",
+    "source": "ADiM Blog - Analisi & Opinioni",
+    "coordinates": "Gennaio 31, 2023",
+    "links": [
+      {
+        "name": "Adim Article",
+        "url": "https://www.adimblog.com/2023/01/31/tre-funzioni-dellia-nella-gestione-dei-flussi-migratori/"
+      }
+    ],
+    "date": "2023-01-31"
+  },
+  {
+    "id": "NC01",
+    "type": "National Conference",
+    "authors": "Andrea Addis, Giuliano Armano, Francesco Mascia, Eloisa Vargiu",
+    "title": "News Retrieval through a MultiAgent System",
+    "source": "7th International Workshop on Text-based Information Retrieval",
+    "coordinates": "pp. 48–54",
+    "publisher": "SENECA EDIZIONI – Bologna – Italia / ISBN: 978-88-6122-061-4",
+    "date": "2007-09-25"
+  },
+  {
+    "id": "NC02",
+    "type": "National Conference",
+    "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+    "title": "Monitoring Boats in Marine Reserves: A MAS Solution",
+    "source": "WOA 2009: 10th Workshop “dagli Oggetti agli Agenti”",
+    "coordinates": "pp. n/a",
+    "publisher": "SENECA EDIZIONI – Bologna – Italia / ISBN: 978-88-6122-157-4",
+    "date": "2009-07-09"
+  },
+  {
+    "id": "NC03",
+    "type": "National Conference",
+    "authors": "Andrea Addis, Giuliano Armano, Eloisa Vargiu",
+    "title": "Profiling Users to Perform Contextual Advertising",
+    "source": "WOA 2009: 10th Workshop “Dagli Oggetti agli Agenti”",
+    "coordinates": "pp. n/a",
+    "publisher": "SENECA EDIZIONI – Bologna – Italia / ISBN: 978-88-6122-157-4",
+    "date": "2009-07-09"
+  },
+  {
+    "id": "NC04",
+    "type": "National Conference",
+    "authors": "Andrea Addis, Giuliano Armano",
+    "title": "DomoBuilder: A MultiAgent Architecture for Home Automation",
+    "source": "WOA 2010: 11th Workshop “dagli Oggetti agli Agenti”",
+    "coordinates": "pp. n/a (pdf)",
+    "publisher": "Proceedings of WOA 2010",
+    "date": "2010-07-06"
+  },
+  {
+    "id": "PR01",
+    "type": "Best Paper Award",
+    "title": "Best Paper Award at the IADIS International Conference ISA 2008 for the paper entitled “A novel semantic approach to document collections”. The conference committee taking into account the blind review process, considers this paper of the highest standard",
+    "source": "-> [IJ04]",
+    "date": "2010-07-06"
+  },
+  {
+    "id": "PT01",
+    "type": "Poster",
+    "authors": "Andrea Addis, Giuliano Armano, Francesco Mascia, Eloisa Vargiu",
+    "title": "Hierarchical Text Categorization through a Vertical Composition of Classifiers",
+    "source": "AIxIA 2007, 10th Congress of Italian Association for Artificial Intelligence, Artificial Intelligence and Human-Oriented Computing",
+    "coordinates": "pp. n/a",
+    "publisher": "Proceedings of AIxIA 2007",
+    "date": "2007-09-10"
+  }
+]

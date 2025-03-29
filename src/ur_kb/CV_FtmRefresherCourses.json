@@ -1,0 +1,330 @@
+[
+    {
+        "name": "Seminars and Refresher Courses",
+        "description": "Attended seminars and refresher courses.",
+        "items": [
+            {
+                "title": "Conference WOA 2010",
+                "date_begin": "2010-07-06",
+                "date_end": "2010-07-10",
+                "description": "11th Workshop \"Dagli Oggetti agli Agenti\"",
+                "details": [
+                    "Hotel Ambasciatori, Rimini, Italy"
+                ],
+                "links": [
+                    {
+                        "name": "WOA 2010",
+                        "url": "http://woa10.apice.unibo.it/"
+                    }
+                ]
+            },
+            {
+                "title": "Conference RCRA 2010",
+                "date_begin": "2010-06-10",
+                "date_end": "2010-06-11",
+                "description": "Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion; RCRA 2010: 17th RCRA International Workshop",
+                "details": [
+                    "DEIS: Dipartimento di Elettronica, Informatica e Sistemistica, Facoltà di Ingegneria, Bologna, Italy"
+                ],
+                "links": [{
+                    "name": "RCRA 2010",
+                    "url": "http://rcra.aixia.it/rcra2010/"
+                }]
+            },
+            {
+                "title": "Conference ECIR 2010",
+                "date_begin": "2010-03-28",
+                "date_end": "2010-03-31",
+                "description": "New research results in the field of Information Retrieval; Workshop; LSHTC 2010: Large-Scale Hierarchical Classification @Conference ECIR 2010: 32nd European Conference on Information Retrieval",
+                "details": [
+                    "The Open University in Milton Keynes, UK"
+                ],
+                "links": [
+                    {
+                        "name": "LSHTC 2010",
+                        "url": "http://lshtc.iit.demokritos.gr/"
+                    },
+                    {
+                        "name": "ECIR 2010",
+                        "url": "http://kmi.open.ac.uk/events/ecir2010/"
+                    }
+                ]
+            },
+            {
+                "title": "Course on Biochemistry: an introduction for non Biologists",
+                "date_begin": "2009-09-21",
+                "date_end": "2009-09-23",
+                "description": "Course by Prof. Andrew Martin, University College London, UK (9h, 1cfd)",
+                "details": [
+                    "DIEE; DRIEI"
+                ]
+            },
+            {
+                "title": "PhD Seminar Course on Classifier Ensembles",
+                "date_begin": "2009-09-11",
+                "date_end": "2009-09-18",
+                "description": "Course by Prof. Ludmila Kuncheva, Bangor University, Bangor Gwynedd, UK (8h, 1cfd)",
+                "details": [
+                    "DIEE; DRIEI"
+                ]
+            },
+            {
+                "title": "PhD Seminar Course on Machine Learning in Biology",
+                "date_begin": "2009-09-09",
+                "date_end": "2009-09-11",
+                "description": "Course by Dr. Dominik Heider, University of Duisburg-Essen, Germany (3h, 0cfd)",
+                "details": [
+                    "DIEE; DRIEI"
+                ]
+            },
+            {
+                "title": "School ESSIR 2009",
+                "date_begin": "2009-09-01",
+                "date_end": "2009-09-04",
+                "description": "Exchange and dissemination in the modeling, design and implementation of advanced systems for the representation, storage, search and retrieval of information; ESSIR 2009: 7th European Summer School in Information Retrieval (27h, 3cfd)",
+                "details": [
+                    "Department of Information Engineering, Information Management Systems Research Group, Faculty of Statistics, University of Padua, Italy"
+                ],
+                "links": [
+                    {
+                        "name": "ESSIR 2009",
+                        "url": "http://essir2009.dei.unipd.it/"
+                    }
+                ]
+            },
+            {
+                "title": "Conference WOA 2009",
+                "date_begin": "2009-07-08",
+                "date_end": "2009-07-12",
+                "description": "Verso il Futuro dei Sistemi Software Basati su Agenti (8h, 1cfd); WOA 2009: Dagli Oggetti agli Agenti Agenti: Applicazioni tecnologiche degli agenti software",
+                "details": [
+                    "Dept. of Engineering, University of Parma"
+                ],
+                "links": [
+                    {
+                        "name": "WOA 2009",
+                        "url": "http://cmt.math.unipr.it/woa09/"
+                    }
+                ],
+                "type": "School"
+            },
+            {
+                "title": "ITC Phd School",
+                "date_begin": "2009-02-16",
+                "date_end": "2009-02-20",
+                "description": "PhD School in Information and Communication Technology (40h, 5cfd)",
+                "details": [
+                    "University Federico II, Napoli"
+                ]
+            },
+            {
+                "title": "PhD Seminar Course on Introduction to Bioinformatics",
+                "date_begin": "2008-10-08",
+                "date_end": "2008-10-15",
+                "description": "Course by Prof. Andrew Martin, University College London, UK (9h 1cfd)",
+                "details": [
+                    "DIEE; DRIEI"
+                ]
+            },
+            {
+                "title": "PhD Seminar Course on Protein secondary structure prediction",
+                "date_begin": "2008-09-24",
+                "date_end": "2008-09-29",
+                "description": "Course by Prof. Gianluca Pollastri, College Lecturer in the School of Computer Science and Informatics, University College Dublin, Ireland (8h 1cfd)",
+                "details": [
+                    "DIEE; DRIEI"
+                ]
+            },
+            {
+                "title": "Conference AI*IA 2008",
+                "date_begin": "2008-09-11",
+                "date_end": "2008-09-13",
+                "description": "Artificial Intelligence and Life Sciences; AI*IA 2008: the tenth symposium on advances in Artificial Intelligence",
+                "details": [
+                    "Cittadella dei Musei, Cagliari, Italy"
+                ]
+            },
+            {
+                "title": "Conference DART 2008",
+                "date_begin": "2008-09-10",
+                "description": "Search Engines, Information Retrieval, Semantic Web; DART 2008: 2nd International Workshop on Distributed Agent-based Retrieval Tools",
+                "details": [
+                    "Cittadella dei Musei, Cagliari, Italy"
+                ]
+            },
+            {
+                "title": "Conference IADIS 2008",
+                "date_begin": "2008-07-22",
+                "date_end": "2008-07-27",
+                "description": "Information Systems from a Socio-Technological Perspective; ISA 2008: Intelligent Systems and Agents 2008 @ IADIS Multi Conference on Computer Science and Information Systems",
+                "details": [
+                    "Amsterdam, The Netherlands"
+                ]
+            },
+            {
+                "title": "PhD Course on Tecnologie Biometriche per la Sicurezza Informatica",
+                "date_begin": "2008-07",
+                "description": "Course by Prof. Gian Luca Marcialis, Settore: ING-INF/05, University of Cagliari, Italy (28h 3cfd)",
+                "details": [
+                    "DIEE; DRIEI"
+                ]
+            },
+            {
+                "title": "PhD Seminar Course on Multiple Classifier Systems",
+                "date_begin": "2008-06-25",
+                "date_end": "2008-06-27",
+                "description": "Course by Prof. Josef Kittler, Centre for Vision, Speech and Signal Processing, University of Surrey (UK) (8h 1cfd)",
+                "details": [
+                    "DIEE; DRIEI"
+                ]
+            },
+            {
+                "title": "PhD Seminar Course on itHeuristic Hill-Climbing as Markov Processes; Enhancing Pattern Databases with Perimeter Search",
+                "date_begin": "2008-06-10",
+                "date_end": "2008-06-12",
+                "description": "Course by Prof. Carlos Linares Lopez, Universidad Carlos III de Madrid, Spain",
+                "details": [
+                    "DIEE; DRIEI"
+                ]
+            },
+            {
+                "title": "Sun Technology Day: Solaris, SunSPOT, Java & Spring, MySQL, jMetrics",
+                "date_begin": "2008-06-13",
+                "description": "School by Sun Microsystem Italia",
+                "details": [
+                    "EVENT; DIEE"
+                ]
+            },
+            {
+                "title": "AAMAS 2008",
+                "date_begin": "2008-05-12",
+                "date_end": "2008-05-16",
+                "description": "Theory and practice of autonomous agents and multi-agent systems; AAMAS 2008: The 7th International Conference on Autonomous Agents and MultiAgents Systems",
+                "details": [
+                    "Estoril, Portugal"
+                ]
+            },
+            {
+                "title": "School WOA 2007",
+                "date_begin": "2007-09-23",
+                "date_end": null,
+                "description": "Agenti e Industria: Applicazioni tecnologiche degli agenti software; Agent School WOA 2007, dagli Oggetti agli Agenti",
+                "details": [
+                    "Department of Engineering, University of Genoa"
+                ]
+            },
+            {
+                "title": "School on Agent, '007 - EASSS 2007",
+                "date_begin": "2007-08-27",
+                "date_end": "2007-08-31",
+                "description": "Forum for knowledge exchange between various researchers; EASSS’007, The ninth edition of the European Agent Systems Summer School",
+                "details": [
+                    "Department of Computer Science and St. Chad’s College at Durham University – UK"
+                ]
+            },
+            {
+                "title": "PhD Seminar Course on Genetic Algorithms and Other Evolutionary Approaches",
+                "date_begin": "2007-07-24",
+                "date_end": "2007-07-27",
+                "description": "Course by Prof. Pier Luca Lanzi, Dipartimento di Elettronica e Informazione, Politecnico di Milano, Italy",
+                "details": [
+                    "Inviting Professor, 2007; DIEE"
+                ]
+            },
+            {
+                "title": "PhD Seminar Course on Programmazione Orientata agli Oggetti e Scripting in Python",
+                "date_begin": "2007-06-05",
+                "date_end": "2007-06-26",
+                "description": "Course by Prof. G. Armano, Dr. G. Cherchi, Dr. F. Ledda, University of Cagliari,",
+                "details": [
+                    "IASC Courses; DIEE"
+                ]
+            },
+            {
+                "title": "Seminar Course on Selected Topics in Machine Learning",
+                "date_begin": "2007-06-06",
+                "date_end": "2007-06-08",
+                "description": "Course by Prof. Z.H. Zhou, Professor, Microbiology, Immunology & Molecular Genetics, California, USA",
+                "details": [
+                    "Inviting Professor, 2007; DIEE"
+                ]
+            },
+            {
+                "title": "Seminar Course “Topics in Biometrics: Vulnerability Protection and Statistical Performance Evaluation”",
+                "date_begin": "2007-05-15",
+                "date_end": "2007-05-17",
+                "description": "Course by Michael Schuckers and Stephanie Schuckers, USA",
+                "details": [
+                    "Inviting Professor, 2007; DIEE"
+                ]
+            },
+            {
+                "title": "Conference CST 2007",
+                "date_begin": "2007-04-20",
+                "date_end": null,
+                "description": "La natura e la civiltà delle macchine; Manifestazione “La civiltà delle macchine intelligenti”; XVII settimana della Cultura Scientifica e Tecnologica",
+                "details": [
+                    "DIEE"
+                ]
+            },
+            {
+                "title": "NETTAB 2006",
+                "date_begin": "2006-07-10",
+                "date_end": "2006-07-13",
+                "description": "International Workshop on Distributed Applications, Web Services, Tools and GRID Infrastructures for Bioinformatics; NETTAB’06: Network Tools and Applications in Biology",
+                "details": [
+                    "Hotel Is Morus, and Polaris, Santa Margherita di Pula (Cagliari – Italy)"
+                ]
+            },
+            {
+                "title": "Conference ISCC 2006",
+                "date_begin": "2006-06-26",
+                "date_end": "2006-06-29",
+                "description": "ISCC 2006: The 11th IEEE Symposium on Computers and Communications",
+                "details": [
+                    "Hotel Flamingo, and Polaris, Santa Margherita di Pula (Cagliari – Italy)"
+                ]
+            },
+            {
+                "title": "DART 2006",
+                "date_begin": "2006-06-26",
+                "date_end": null,
+                "description": "The Future of Search Engines Technologies; DART 2006: International Workshop on Distributed Agent-Based Retrieval Tools",
+                "details": [
+                    "Polaris"
+                ]
+            },
+            {
+                "title": "Conference BITS 2006",
+                "date_begin": "2006-04-28",
+                "date_end": "2006-04-29",
+                "description": "BITS 2006: 3rd conference of the Bioinformatics Italian Society",
+                "details": [
+                    "Biblioteca Monumentale del Convento San Domenico, Bologna, Italy"
+                ],
+                "links": [
+                    {
+                        "name": "BITS 2006",
+                        "url": "http://www.biocomp.unibo.it/bits2006/"
+                    }
+                ]
+            },
+            {
+                "title": "Seminar Course: A crash course on programming mobile phone using C++ programming language on Symbian based operating system with the series 60 platform",
+                "description": "Seminar Course by Dott. Michele Sciabarrà",
+                "date_begin": "2005-07",
+                "details": [
+                    "Polaris;"
+                ]
+            },
+            {
+                "title": "Seminar Course: Programmazione C/C++ per applicazioni di codifica e trasmissione di immagini con Visual C++",
+                "date_begin": "2002-11",
+                "description": "Seminar Course by Ing. Cristian Perra",
+                "details": [
+                    "Seminars; DIEE"
+                ]
+            }
+        ]
+    }
+]

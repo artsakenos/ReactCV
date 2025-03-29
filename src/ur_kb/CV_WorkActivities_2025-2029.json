@@ -1,0 +1,23 @@
+[
+    {
+        "id": "WA2502",
+        "name": {
+            "it": "Assistente Violetta",
+            "en": "Violetta Assistant",
+            "zh": "维奥莱塔助理"
+        },
+        "description": "A virtual assistant for the Viola By Pullover e-commerce site.",
+        "date_begin": "2024-02-01",
+        "activities": [
+            "Agent-based system development",
+            "Guardrailing",
+            "Merchanting",
+            "Mood detection",
+            "RAG operations"
+        ],
+        "technologies": [
+            "Software Agent Architectures",
+            "LLM"
+        ]
+    }
+]
