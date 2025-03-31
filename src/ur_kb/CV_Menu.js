@@ -35,8 +35,8 @@ export const paths = [
       { label: "Talks and Seminars", path: "/more/talks_seminars", component: FTMTalksSeminars },
       { label: "Events Organization", path: "/more/events_organization", component: FTMEventsOrganization },
       { label: "Refresher Courses", path: "/more/refresher_courses", component: FTMRefresherCourses },
-      { label: "Publications No Name", path: "/more/publications_noname", component: FTMPublicationsNoName },
-      { label: "Research Activity Details", path: "/more/research_activity", component: ResearchActivityDetails }
+      { label: "More Publications", path: "/more/publications_noname", component: FTMPublicationsNoName },
+      { label: "More Research Activity", path: "/more/research_activity", component: ResearchActivityDetails }
     ]
   }
 ];
