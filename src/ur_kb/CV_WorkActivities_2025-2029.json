@@ -19,5 +19,224 @@
             "Software Agent Architectures",
             "LLM"
         ]
+    },
+    {
+        "id": "DP2502",
+        "name": {
+            "it": "Snake Game 2025 – Happy Snake CNY",
+            "en": "Snake Game 2025 – Happy Snake CNY",
+            "zh": "蛇年游戏 2025 – 快乐蛇年"
+        },
+        "description": "A small video game implemented in Scratch for a competition related to the Chinese New Year festivities. The snake must reach the new year 2025 despite the flying dragons of 2024.",
+        "date_begin": "2025-02-15",
+        "activities": [
+            "Game development"
+        ],
+        "technologies": [
+            "Scratch"
+        ],
+        "links": [
+            {
+                "name": "Articolo",
+                "url": "https://infodev.wordpress.com/2025/02/15/snake-game-2025-happy-snake-cny/"
+            },
+            {
+                "name": "Video",
+                "url": "https://www.youtube.com/watch?v=QeE31FQU1LM"
+            }
+        ]
+    },
+    {
+        "id": "DP2501",
+        "name": {
+            "it": "Whisperer e Browser Mc Wingspan",
+            "en": "Whisperer and Browser Mc Wingspan",
+            "zh": "耳语者和浏览器 Mc Wingspan"
+        },
+        "description": "Whisperer is an intelligent speech recognition assistant. Browser Mc Wingspan is a lightweight, hackable browser assistant.",
+        "date_begin": "2025-02-10",
+        "activities": [
+            "Speech recognition",
+            "AI-powered browsing"
+        ],
+        "technologies": [
+            "Machine Learning"
+        ],
+        "links": [
+            {
+                "name": "Articolo",
+                "url": "https://infodev.wordpress.com/2025/02/10/whisperer-e-browser-mc-wingspan/"
+            },
+            {
+                "name": "Whisperer Github",
+                "url": "https://github.com/artsakenos/Whisperer"
+            },
+            {
+                "name": "BrowserMcWingspan Github",
+                "url": "https://github.com/artsakenos/BrowserMcWingspan"
+            },
+            {
+                "name": "Whisperer Website",
+                "url": "https://artsakenos.github.io/Whisperer"
+            }
+        ]
+    },
+    {
+        "id": "DP1810",
+        "name": {
+            "it": "Iperoid & Iperlibroid",
+            "en": "Iperoid & Iperlibroid",
+            "zh": "Iperoid 和 Iperlibroid"
+        },
+        "description": "IperLibroid is a suite of general-purpose libraries for Android application development. Iperoid is a suite of diagnostics and testing utilities for phones.",
+        "date_begin": "2018-10-05",
+        "activities": [
+            "Android application development",
+            "Mobile Testing",
+            "Software Diagnostics"
+        ],
+        "technologies": [
+            "Android"
+        ],
+        "links": [
+            {
+                "name": "Iperoid Github",
+                "url": "https://github.com/artsakenos/Iperoid"
+            },
+            {
+                "name": "Articolo",
+                "url": "https://infodev.wordpress.com/2025/02/05/iperoid-iperlibroid/"
+            }
+        ]
+    },
+    {
+        "id": "DP2311",
+        "name": {
+            "it": "AI Agents Framework",
+            "en": "AI Agents Framework",
+            "zh": "人工智能代理框架"
+        },
+        "description": "A framework for creating AI agents that communicate with each other using LLMs, inspired by CrewAI.",
+        "date_begin": "2023-11-15",
+        "activities": [
+            "AI agent development",
+            "LLM communication"
+        ],
+        "technologies": [
+            "Machine Learning",
+            "LLM"
+        ],
+        "links": [
+            {
+                "name": "Articolo",
+                "url": "https://infodev.wordpress.com/2023/11/15/ai-agents/"
+            }
+        ]
+    },
+    {
+        "id": "DP2310",
+        "name": {
+            "it": "Traduzione Video",
+            "en": "Video Translation",
+            "zh": "视频翻译"
+        },
+        "description": "A suite of tools for automatic video translation, using LLMs for syntax checks and various other tools for subtitles, voice cloning, and audio injection.",
+        "date_begin": "2023-11-10",
+        "activities": [
+            "Video translation",
+            "Subtitle generation",
+            "Voice cloning",
+            "Automatic syncronization"
+        ],
+        "technologies": [
+            "LLM"
+        ],
+        "links": [
+            {
+                "name": "Articolo",
+                "url": "https://infodev.wordpress.com/2023/11/10/traduzione-video/"
+            }
+        ]
+    },
+    {
+        "id": "DP2309",
+        "name": {
+            "it": "Demo Funzione Costrittiva su AV",
+            "en": "Restrictive Function Demo on AV",
+            "zh": "AV 上的限制性功能演示"
+        },
+        "description": "A demonstration of a restrictive function in AI ethics, implemented in Minecraft, where the player cannot pass through a gate if carrying a weapon.",
+        "date_begin": "2023-06-20",
+        "activities": [
+            "AI ethics",
+            "Function implementation"
+        ],
+        "technologies": [
+            "Minecraft",
+            "Game Development"
+        ],
+        "links": [
+            {
+                "name": "Articolo",
+                "url": "https://infodev.wordpress.com/2023/06/20/demo-funzione-costrittiva-su-av/"
+            },
+            {
+                "name": "Video",
+                "url": "https://www.youtube.com/watch?v=HxmMyxdu6Y"
+            }
+        ]
+    },
+    {
+        "id": "WA2108",
+        "name": {
+            "it": "Syrene",
+            "en": "Syrene",
+            "zh": "塞壬"
+        },
+        "description": "A prototype that automates business administration tasks with various modules and services for planning, accounting, and project management.",
+        "date_begin": "2021-07-10",
+        "activities": [
+            "Task management",
+            "Accounting",
+            "Project management",
+            "Business administration automation"
+        ],
+        "links": [
+            {
+                "name": "Articolo",
+                "url": "https://infodev.wordpress.com/2021/07/10/syrene/"
+            },
+            {
+                "name": "Video",
+                "url": "https://www.youtube.com/watch?v=uqIQh9OWmzI&ab_channel=AndreaAddis"
+            }
+        ]
+    },
+    {
+        "id": "DP2012",
+        "name": {
+            "it": "UltraGram Bot Intergeptor – Deluxe 2020",
+            "en": "UltraGram Bot Intergeptor – Deluxe 2020",
+            "zh": "UltraGram Bot Intergeptor – 豪华版 2020"
+        },
+        "description": "A functionality for the UltraGram library suite, communicating with a network of bots to exchange likes, views, followers, etc., on social platforms.",
+        "date_begin": "2020-12-05",
+        "activities": [
+            "Social media bot",
+            "Engagement automation"
+        ],
+        "technologies": [
+            "Selenium"
+        ],
+        "links": [
+            {
+                "name": "Articolo",
+                "url": "https://infodev.wordpress.com/2020/12/05/ultragram-bot-intergeptor-deluxe-2020/"
+            },
+            {
+                "name": "Video",
+                "url": "https://www.youtube.com/watch?v=3kMIvmKQY4U&ab_channel=AndreaAddis"
+            }
+        ]
     }
 ]

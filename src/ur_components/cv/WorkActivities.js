@@ -6,6 +6,7 @@ import workActivitiesData_2000_2009 from "../../ur_kb/CV_WorkActivities_2000-200
 import workActivitiesData_2010_2014 from "../../ur_kb/CV_WorkActivities_2010-2014.json";
 import workActivitiesData_2015_2019 from "../../ur_kb/CV_WorkActivities_2015-2019.json";
 import workActivitiesData_2020_2024 from "../../ur_kb/CV_WorkActivities_2020-2024.json";
+import workActivitiesData_2025_2029 from "../../ur_kb/CV_WorkActivities_2025-2029.json";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function WorkActivities() {
@@ -20,7 +21,8 @@ export default function WorkActivities() {
     ...workActivitiesData_2000_2009,
     ...workActivitiesData_2010_2014,
     ...workActivitiesData_2015_2019,
-    ...workActivitiesData_2020_2024
+    ...workActivitiesData_2020_2024,
+    ...workActivitiesData_2025_2029
   ];
 
   // Estrai tutte le tecnologie disponibili e ordinale
